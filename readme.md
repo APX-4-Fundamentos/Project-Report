@@ -151,10 +151,50 @@
 # Capítulo I: Introducción
 
 ## 1.1 Startup Profile
+
 ### 1.1.1 Descripción de la Startup
+
 APX-4 es una startup iniciada por estudiantes de la Universidad Peruana de Ciencias Aplicadas con el objetivo de desarrollar soluciones tecnológicas para el ámbito educativo del Perú. Con nuestro producto principal, LearnHive, queremos ofrecer una alternativa de entorno digital para institutos académicos que no cuentan con una plataforma propia, ofreciéndoles las herramientas para el desarrollo de sus actividades de forma rápida, fácil y segura.
 
 ### 1.1.2 Perfiles de integrantes del equipo
+
+<table>
+  <tr>
+    <th colspan="2"> Jose Antonio Alejo Cardenas </th>
+  </tr>
+  <tr>
+    <td> <img src="images/chapter-1/jose-pfp.jpg" alt="Jose Alejo" style="width: 500px; height: auto;"> </td>
+    <td> Soy José Alejo Cárdenas, estudiante de la carrera de Ingeniería de Software del séptimo ciclo. Desde pequeño he sentido facinacion por la tecnologia en general sobretodo por el funcionamiento, desarrollo y proteccion del software en el ambito de ciberseguridad. He estudiado lenguajes de programacion (javascript, python y C++), bases de datos (Microsoft SQL Server y Mongo DB) y Sistemas Operativos (Kali Linux y Windows). Asi mismo, tengo experiencia con hardware a nivel de esamblamiento de equipos y funcionamiento del mismo con sus especificaciones tecnicas. Además, mi constante comunicacion y organizacion durante cualquier trabajo grupal aportara mucho dinamismo al proyecto. Mis principales hobbies son entrenar en el gimnasio, jugar videojuegos con mis amigos y salir a conversar con estos ultimos durante algun almuerzo o cena. Para el proyecto aportare organizacion, comunicacion e inspiracion durante todo el transcurso del mismo. </td>
+  </tr>
+  <tr>
+    <th colspan="2"> Sebastián Omar Real Calderón </th>
+  </tr>
+  <tr>
+    <td> <img src="images/chapter-1/sebastian-pfp.jpeg" alt="Sebastian Real" style="width: 500px; height: auto;"> </td>
+    <td> Soy Sebastián Real Calderón, estudiante de Ingeniería de Software. Tengo conocimiento de diferentes lenguajes de programación, como C#, C++ y Java. Mi mayor objetivo al desarrollar software es crear una experiencia de usuario con la que los consumidores puedan sentirse satisfechos al trabajar con nuestras aplicaciones. Asimismo, aspiro a ser un buen participante al mantener una comunicación constante con mis compañeros, resolviendo problemas y apoyándo a quién lo necesite para crear un ambiente cómodo para todos. </td>
+  </tr>
+  <tr>
+    <th colspan="2"> Omar Luquillas Asto </th>
+  </tr>
+  <tr>
+    <td> <img src="images/chapter-1/omar-pfp.jpg" alt="Omar Luquillas" style="width: 500px; height: auto;"> </td>
+    <td> Soy Omar Luquillas Asto, estudiante de la carrera de Ingeniería de Software. Elegí esta carrera porque me apasiona la tecnología, el desarrollo de software y la programación. Tengo conocimientos en lenguajes de programación como C++, Python y Java. Me considero una persona investigadora, ya que me gusta aprender cosas nuevas y siempre estoy en busca de soluciones creativas e innovadoras que generen un impacto positivo en la vida de las personas. Además, valoro el trabajo en equipo, soy responsable y me comprometo a cumplir con mis tareas de manera eficiente. </td>
+  </tr>
+  <tr>
+    <th colspan="2">-</th>
+  </tr>
+  <tr>
+    <td> <img src="images/chapter-1/" alt="" style="width: 500px; height: auto;"> </td>
+    <td>  </td>
+  </tr>
+  <tr>
+    <th colspan="2">-</th>
+  </tr>
+  <tr>
+    <td> <img src="images/chapter-1/" alt="" style="width: 500px; height: auto;"> </td>
+    <td>  </td>
+  </tr>
+</table>
 
 ## 1.2 Solution Profile
 ### 1.2.1 Nombre del producto
