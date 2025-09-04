@@ -152,6 +152,8 @@
 
 ## 1.1 Startup Profile
 ### 1.1.1 Descripción de la Startup
+APX-4 es una startup iniciada por estudiantes de la Universidad Peruana de Ciencias Aplicadas con el objetivo de desarrollar soluciones tecnológicas para el ámbito educativo del Perú. Con nuestro producto principal, LearnHive, queremos ofrecer una alternativa de entorno digital para institutos académicos que no cuentan con una plataforma propia, ofreciéndoles las herramientas para el desarrollo de sus actividades de forma rápida, fácil y segura.
+
 ### 1.1.2 Perfiles de integrantes del equipo
 
 ## 1.2 Solution Profile
