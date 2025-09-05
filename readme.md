@@ -264,6 +264,9 @@ Cada grupo de estudiantes puede enfrentar problemas de coordinación varias vece
 Aunque no existe un gasto monetario directo, los institutos podrían optimizar hasta un 30% del tiempo de gestión docente y reducir significativamente los problemas de coordinación si contaran con una plataforma como LearnHive.
 
 ### 1.2.3 Lean UX Process
+
+El Lean UX Process es una metodología de diseño centrada en el usuario que busca trabajar de forma práctica y ágil. Su enfoque se basa en realizar ciclos cortos de creación, prueba y mejora, lo que permite validar rápidamente si una idea realmente responde a las necesidades de los usuarios. A diferencia de los métodos tradicionales que requieren mucha documentación, Lean UX da más importancia a la retroalimentación constante y al trabajo en equipo, asegurando que el producto evolucione de acuerdo con la experiencia real de los estudiantes y docentes. De esta forma, se pueden identificar y corregir fallas a tiempo, evitando desperdicio de recursos y garantizando una solución más cercana a lo que el usuario necesita.
+
 #### 1.2.3.1 Lean UX Problem Statement
 #### 1.2.3.2 Lean UX Assumptions
 #### 1.2.3.3 Lean UX Hypothesis
