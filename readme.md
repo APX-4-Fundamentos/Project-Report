@@ -202,6 +202,67 @@ APX-4 es una startup iniciada por estudiantes de la Universidad Peruana de Cienc
 El producto desarrollado se denomina LearnHive. LearnHive busca ofrecer una herramienta digital integral que facilite la gestión de grupos, actividades y métricas de desempeño estudiantil, adaptándose a las necesidades de docentes y estudiantes en entornos que carecen de plataformas propias de gestión académica.
 
 ### 1.2.2 Antecedentes y problemática
+
+**1. What / ¿QUÉ?**
+- ¿Cuál es el problema que se está presentando?
+
+El problema es que los institutos académicos de Lima carecen de plataformas educativas propias que resuelvan eficientemente la gestión de grupos de estudio, la organización de tareas y el seguimiento del rendimiento estudiantil.
+
+**2. When / ¿CUÁNDO?**
+- ¿Cuándo estamos viendo el problema?
+
+El problema se presenta durante los periodos académicos regulares, especialmente en las etapas de proyectos grupales, asignación de tareas y evaluaciones parciales.
+
+- ¿En qué momento del día o del proceso en cuestión?
+
+Sucede principalmente en las semanas previas a entregas y evaluaciones, cuando la necesidad de organización y coordinación entre docentes y estudiantes es más alta.
+
+**3. Where / ¿DÓNDE?**
+
+- ¿Dónde estamos viendo los problemas?
+
+Estamos viendo los problemas en institutos académicos de Lima que no cuentan con plataformas propias de gestión educativa.
+
+- ¿En qué parte del proceso estamos viendo el problema?
+
+El problema aparece en la organización, asignación de tareas y seguimiento académico, donde las herramientas informales (como correo electrónico o grupos de mensajería) no permiten una coordinación efectiva.
+
+**4. Who / ¿QUIÉN?**
+
+- ¿A quién le sucede?
+
+Este problema afecta principalmente a los estudiantes de institutos, quienes enfrentan dificultades para coordinarse y entregar tareas de manera ordenada; a los docentes, que deben asumir una carga adicional al organizar actividades y revisar entregas sin contar con un sistema centralizado; y a los institutos académicos, que carecen de métricas claras sobre la participación y el desempeño de sus estudiantes.
+
+- ¿El problema está relacionado con las habilidades de las personas?
+
+No está directamente relacionado con las habilidades, sino con la falta de herramientas digitales adecuadas para su contexto.
+
+**5. Why / ¿POR QUÉ?**
+
+- ¿Por qué sucede el problema?
+
+Porque las plataformas actuales (ej. Google Classroom, Blackboard) están enfocadas en universidades o colegios con mayores recursos tecnológicos y no contemplan las necesidades específicas de los institutos académicos, como la simplicidad, la creación ágil de grupos con códigos de ingreso o la disponibilidad de métricas personalizadas.
+
+**6. How / ¿CÓMO?**
+
+- ¿Cómo se diferencia el problema del estado normal (óptimo)?
+
+En un estado óptimo, los estudiantes y docentes deberían gestionar grupos, tareas y métricas desde una única plataforma sencilla y adaptada a sus necesidades. Actualmente, deben recurrir a múltiples aplicaciones externas, lo que genera desorganización, duplicidad de esfuerzos y pérdida de información.
+
+- ¿La tendencia en la que aparece el problema es aleatoria o sigue un patrón?
+
+Sigue un patrón claro: aparece en cada ciclo académico, especialmente cuando se requiere colaboración grupal o evaluaciones conjuntas.
+
+**7. How Much / ¿CUÁNTO?**
+
+- ¿Cuántos problemas se dan en un día, una semana o un mes?
+
+Cada grupo de estudiantes puede enfrentar problemas de coordinación varias veces por semana, en especial en las semanas de entregas o evaluaciones.
+
+- ¿Cuánto dinero están implicando?
+
+Aunque no existe un gasto monetario directo, los institutos podrían optimizar hasta un 30% del tiempo de gestión docente y reducir significativamente los problemas de coordinación si contaran con una plataforma como LearnHive.
+
 ### 1.2.3 Lean UX Process
 #### 1.2.3.1 Lean UX Problem Statement
 #### 1.2.3.2 Lean UX Assumptions
