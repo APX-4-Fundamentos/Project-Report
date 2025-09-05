@@ -198,6 +198,9 @@ APX-4 es una startup iniciada por estudiantes de la Universidad Peruana de Cienc
 
 ## 1.2 Solution Profile
 ### 1.2.1 Nombre del producto
+
+El producto desarrollado se denomina LearnHive. LearnHive busca ofrecer una herramienta digital integral que facilite la gestión de grupos, actividades y métricas de desempeño estudiantil, adaptándose a las necesidades de docentes y estudiantes en entornos que carecen de plataformas propias de gestión académica.
+
 ### 1.2.2 Antecedentes y problemática
 ### 1.2.3 Lean UX Process
 #### 1.2.3.1 Lean UX Problem Statement
