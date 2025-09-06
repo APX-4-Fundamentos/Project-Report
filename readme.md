@@ -154,7 +154,19 @@
 
 ### 1.1.1 Descripción de la Startup
 
-APX-4 es una startup iniciada por estudiantes de la Universidad Peruana de Ciencias Aplicadas con el objetivo de desarrollar soluciones tecnológicas para el ámbito educativo del Perú. Con nuestro producto principal, LearnHive, queremos ofrecer una alternativa de entorno digital para institutos académicos que no cuentan con una plataforma propia, ofreciéndoles las herramientas para el desarrollo de sus actividades de forma rápida, fácil y segura.
+APX-4 es una startup innovadora, fundada por estudiantes de la Universidad Peruana de Ciencias Aplicadas (UPC), con la misión de revolucionar la educación en el Perú mediante soluciones tecnológicas accesibles y de alto impacto.
+
+Nuestro producto principal, LearnHive, es una plataforma integral de analytics y gestión educativa diseñada específicamente para los institutos de Lima Metropolitana que carecen de un sistema de data unificado. LearnHive se integra con los sistemas existentes o permite el ingreso manual de datos, para centralizar la información académica y transformarla en insights visuales y procesables.
+
+Para los profesores, ofrecemos un dashboard intuitivo que les permite supervisar el estado general de sus cursos en tiempo real. Esta visión integral les facilita el monitoreo continuo del progreso del aula, asegurando que siempre tengan el pulso de su clase.
+
+Por otro lado, para los alumnos, proporcionamos un portal de acceso seguro donde pueden visualizar sus propias estadísticas y progreso académico de forma clara y transparente. Este acceso empodera a los estudiantes, dándoles ownership de su propio recorrido educativo.
+
+Misión:
+Potenciar el éxito académico en los institutos de Lima Metropolitana mediante una plataforma de analytics educativa intuitiva y poderosa. Brindamos a los educadores las herramientas basadas en datos para tomar decisiones proactivas e impactar positivamente en el aprendizaje de cada estudiante.
+
+Visión:
+Ser la plataforma de analytics y gestión educativa de referencia en Lima Metropolitana, reconocida por transformar la data académica en insights accionables que elevan la calidad de la enseñanza y convierten a los institutos en centros de innovación pedagógica.
 
 ### 1.1.2 Perfiles de integrantes del equipo
 
@@ -204,46 +216,68 @@ El producto desarrollado se denomina LearnHive. LearnHive busca ofrecer una herr
 ### 1.2.2 Antecedentes y problemática
 
 **1. What / ¿QUÉ?**
-- ¿Cuál es el problema que se está presentando?
 
-El problema es que los institutos académicos de Lima carecen de plataformas educativas propias que resuelvan eficientemente la gestión de grupos de estudio, la organización de tareas y el seguimiento del rendimiento estudiantil.
+- ¿Cuál es el problema?
+
+El problema principal es la falta de un entorno educativo digital unificado y accesible en muchos institutos de Lima, lo que resulta en una gestión docente ineficiente (uso de herramientas dispersas como WhatsApp y correo), dificultad para centralizar y evaluar el trabajo de los estudiantes, y una incapacidad para obtener una visión clara del rendimiento académico de la clase. Esto lleva a una experiencia de aprendizaje fragmentada y reactiva, tanto para profesores como para alumnos.
+
+- ¿Cuál es la relación con la persona en cuestión?
+
+La relación se establece a través del instituto, que adopta LearnHive como su plataforma oficial. El profesor es nuestro usuario principal y cliente directo, ya que es quien gestiona los cursos, califica y analiza el desempeño. El profesor utiliza LearnHive para estructurar su curso, comunicarse con los estudiantes y transformar su rol de evaluador reactivo a gestor proactivo del aprendizaje. El estudiante accede a la plataforma como usuario final, encontrando un espacio centralizado para sus cursos, tareas y calificaciones, permitiéndole gestionar sus trabajos con mayor facilidad.
 
 **2. When / ¿CUÁNDO?**
-- ¿Cuándo estamos viendo el problema?
 
-El problema se presenta durante los periodos académicos regulares, especialmente en las etapas de proyectos grupales, asignación de tareas y evaluaciones parciales.
+- ¿Cuándo sucede el problema?
 
-- ¿En qué momento del día o del proceso en cuestión?
+El problema ocurre diariamente durante el ciclo académico:
 
-Sucede principalmente en las semanas previas a entregas y evaluaciones, cuando la necesidad de organización y coordinación entre docentes y estudiantes es más alta.
+Para el profesor: Al intentar organizar y publicar materiales para cada clase, al recibir decenas de entregas por diferentes canales, y al momento de calificar y consolidar esas notas manualmente en una hoja de cálculo. También surge al final del ciclo académico, cuando necesita analizar las notas para generar reportes de desempeño, un proceso que suele ser manual.
+
+Para el estudiante: Al no tener un lugar claro donde consultar las tareas, materiales o fechas de entrega, y al tener que enviar sus trabajos a través de medios informales que no garantizan su recepción correcta. Así como no tener una plataforma que unifique todas las funcionalidades del sistema educativo.
+
+- ¿Cuándo utiliza el cliente el producto?
+
+El profesor lo usa de forma constante para revisar avances, publicar anuncios y/o trabajos y calificar entregas. De la misma manera, puede ver el desempeño de sus alumnos en tiempo real con métricas que se actualizan diariamente.
+
+El estudiante accede a la plataforma a diario para verificar sus cursos, las tareas pendientes y los anuncios nuevos, y de manera puntual para subir sus entregas antes de la fecha límite y consultar sus calificaciones.
+
 
 **3. Where / ¿DÓNDE?**
 
-- ¿Dónde estamos viendo los problemas?
+- ¿Dónde está el cliente cuando usa el producto?
 
-Estamos viendo los problemas en institutos académicos de Lima que no cuentan con plataformas propias de gestión educativa.
+Tanto profesores como estudiantes acceden a LearnHive principalmente desde sus dispositivos móviles y computadoras portátiles o de escritorio, desde cualquier lugar con conexión a internet: en el instituto, en sus hogares o en movimiento.
 
-- ¿En qué parte del proceso estamos viendo el problema?
+- ¿Dónde surge el problema?
 
-El problema aparece en la organización, asignación de tareas y seguimiento académico, donde las herramientas informales (como correo electrónico o grupos de mensajería) no permiten una coordinación efectiva.
+El problema surge en el entorno educativo mismo:
+
+En la sala de profesores y el domicilio del docente, donde se invierten tiempo en organizar, calificar y compilar información de manera manual.
+
+En el entorno del estudiante, que se ve obligado a navegar entre múltiples apps y chats para gestionar su aprendizaje.
 
 **4. Who / ¿QUIÉN?**
 
-- ¿A quién le sucede?
+- ¿Quienes se ven involucrados en el problema?
 
-Este problema afecta principalmente a los estudiantes de institutos, quienes enfrentan dificultades para coordinarse y entregar tareas de manera ordenada; a los docentes, que deben asumir una carga adicional al organizar actividades y revisar entregas sin contar con un sistema centralizado; y a los institutos académicos, que carecen de métricas claras sobre la participación y el desempeño de sus estudiantes.
+El problema involucra directamente a los profesores y estudiantes, quienes son los más afectados por la gestión educativa desorganizada. Los profesores cargan con la pesada administración manual, mientras que los estudiantes enfrentan una experiencia de aprendizaje fragmentada. Indirectamente, los directores de los institutos y los padres de familia también se ven perjudicados, ya que carecen de acceso claro a datos sobre el rendimiento.
 
-- ¿El problema está relacionado con las habilidades de las personas?
+- ¿Cuáles son las causas del problema?
 
-No está directamente relacionado con las habilidades, sino con la falta de herramientas digitales adecuadas para su contexto.
+La causa fundamental del problema es una brecha digital y económica que limita el acceso a herramientas tecnológicas asequibles y fáciles de usar, junto con una falta de capacitación que genera resistencia al cambio en muchos entornos educativos.
 
 **5. Why / ¿POR QUÉ?**
 
-- ¿Por qué sucede el problema?
+¿Por qué sucede el problema?
 
-Porque las plataformas actuales (ej. Google Classroom, Blackboard) están enfocadas en universidades o colegios con mayores recursos tecnológicos y no contemplan las necesidades específicas de los institutos académicos, como la simplicidad, la creación ágil de grupos con códigos de ingreso o la disponibilidad de métricas personalizadas.
+Sucede porque muchos institutos de Lima carecen de los recursos financieros y técnicos para desarrollar, implementar y mantener una plataforma educativa propia y robusta. Las soluciones existentes en el mercado pueden ser demasiado costosas, genéricas o complejas para sus necesidades específicas. Esto los fuerza a depender de herramientas gratuitas pero no diseñadas para la educación (servicios de mensajería o correo electrónico), lo que genera desorganización, pérdida de información y una carga administrativa insostenible para el docente.
+Asi mismo, porque las plataformas actuales (ej. Google Classroom, Blackboard) están enfocadas en universidades o colegios con mayores recursos tecnológicos y no contemplan las necesidades específicas de los institutos académicos, como la simplicidad, la creación ágil de grupos con códigos de ingreso o la disponibilidad de métricas personalizadas.
 
 **6. How / ¿CÓMO?**
+
+- ¿En qué condiciones los clientes usan nuestro producto?
+
+Los clientes utilizan LearnHive principalmente a través de un navegador web o una aplicación móvil, dependiendo de una conexión a internet accesible. La plataforma está diseñada para ser usada de forma asíncrona, permitiendo que profesores y estudiantes interactúen con el contenido en los momentos que más les convengan. La usabilidad es fundamental, por lo que la interfaz debe ser extremadamente intuitiva para garantizar una adopción rápida y sin fricciones, minimizando la necesidad de una capacitación extensa.
 
 - ¿Cómo se diferencia el problema del estado normal (óptimo)?
 
@@ -255,13 +289,7 @@ Sigue un patrón claro: aparece en cada ciclo académico, especialmente cuando s
 
 **7. How Much / ¿CUÁNTO?**
 
-- ¿Cuántos problemas se dan en un día, una semana o un mes?
-
-Cada grupo de estudiantes puede enfrentar problemas de coordinación varias veces por semana, en especial en las semanas de entregas o evaluaciones.
-
-- ¿Cuánto dinero están implicando?
-
-Aunque no existe un gasto monetario directo, los institutos podrían optimizar hasta un 30% del tiempo de gestión docente y reducir significativamente los problemas de coordinación si contaran con una plataforma como LearnHive.
+FALTA
 
 ### 1.2.3 Lean UX Process
 
