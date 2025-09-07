@@ -382,6 +382,66 @@ SieWeb es un sistema integral de gestión diseñado para instituciones de educac
 
 ## 2.2 Entrevistas
 ### 2.2.1 Diseño de entrevistas
+
+#### Segmento Objetivo 1: Estudiantes de Institutos 
+
+Preguntas principales 
+
+1. ¿Podrías contar un poco sobre ti? (edad, carrera, lugar de residencia, ocupación). 
+
+2. ¿Cómo sueles organizar tus tareas y trabajos en grupo durante el ciclo académico? 
+
+3. ¿Qué plataformas o aplicaciones usas más para estudiar o coordinar trabajos en grupo? (por ejemplo: WhatsApp, Meet, etc). 
+
+4. ¿Te resulta sencillo mantener un orden entre tareas y comunicaciones? ¿Por qué sí o por qué no? 
+
+5. ¿Qué te daría más confianza en una plataforma académica: facilidad de uso, notificaciones, métricas de avance u otra cosa? 
+
+6. ¿Qué tan importante es para ti recibir una retroalimentación rápida sobre tus entregas o calificaciones? 
+
+Preguntas complementarias 
+
+1. ¿Usas más tu celular, laptop o tablet cuando estudias? ¿Por qué? 
+
+2. ¿Qué experiencias positivas o negativas has tenido usando plataformas como Moodle, Canvas o Classroom? 
+
+3. ¿En qué casos te ha resultado difícil organizarte o cumplir con tus entregas a tiempo? 
+
+4. ¿Qué tan valioso sería para ti poder ver tu progreso académico en gráficos o estadísticas simples? 
+
+5. ¿Te frustra depender de varias aplicaciones distintas para tu desempeño académico?
+
+
+#### Segmento Objetivo 2: Profesores de Institutos 
+
+Preguntas principales 
+
+1. Para comenzar, ¿podría contarme un poco sobre usted? (edad, distrito de residencia, área de enseñanza). 
+
+2. ¿Qué herramientas utiliza actualmente para planificar, compartir materiales y gestionar tareas con sus estudiantes? 
+
+3. ¿Qué parte de su trabajo fuera del aula le consume más tiempo (revisar entregas, calificar, dar seguimiento a alumnos, etc.)? 
+
+4. ¿Cómo realiza actualmente el seguimiento del desempeño de sus estudiantes? 
+
+5. Si pudiera elegir, ¿qué funcionalidad sería la más valiosa en una plataforma académica: centralización de tareas, estadísticas, comunicación o retroalimentación automatizada? 
+
+6. ¿Qué tan cómodo se sentiría con una plataforma que genere métricas claras y fáciles de entender sobre el progreso de cada estudiante? 
+
+  
+
+Preguntas complementarias 
+
+1. ¿Qué dispositivo utiliza más a menudo para trabajar: laptop, PC o smartphone? 
+
+2. ¿Qué medios emplea para comunicarse con sus estudiantes (WhatsApp, correo, etc)? ¿Qué ventajas o problemas encuentra en ellos? 
+
+3. ¿Ha usado antes plataformas educativas? ¿Qué le funcionó bien y qué le resultó poco práctico? 
+
+4. ¿Qué tipo de actividades digitales o interactivas le gustaría integrar en sus clases pero hoy le resulta difícil hacerlo? 
+
+5. ¿Qué tan difícil considera la curva de aprendizaje de nuevas plataformas educativas? 
+
 ### 2.2.2 Registro de entrevistas
 ### 2.2.3 Analisis de entrevistas
 ## 2.3 Needfinding
