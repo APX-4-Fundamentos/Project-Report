@@ -289,7 +289,13 @@ Sigue un patrón claro: aparece en cada ciclo académico, especialmente cuando s
 
 **7. How Much / ¿CUÁNTO?**
 
-FALTA
+- ¿Cuántos problemas se dan en un día, una semana o un mes?
+
+En promedio, los docentes dedican entre 5 y 5.9 horas por semana (equivalentes a casi seis semanas al año) a tareas administrativas como seguimiento, calificación y organización de actividades académicas. Estas cargas generan dificultades de coordinación varias veces por semana, sobre todo en etapas críticas del curso. 
+
+- ¿Cuánto dinero están implicando?
+
+Aunque no hay un gasto monetario directo, el tiempo invertido representa un costo de oportunidad importante. Si una plataforma como LearnHive logra automatizar procesos básicos, podría ahorrar a los docentes entre 1 y 2 horas por semana, lo que a nivel institucional significaría hasta un 30 % de mejora en eficiencia de gestión y un impacto directo en la calidad educativa.
 
 ### 1.2.3 Lean UX Process
 
