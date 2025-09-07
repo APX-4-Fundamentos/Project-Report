@@ -172,7 +172,53 @@ APX-4 es una startup iniciada por estudiantes de la Universidad Peruana de Cienc
 # Capítulo II: Requirements & Analysis
 
 ## 2.1 Competidores
+
+- Sistema Saberes 
+
+ 
+
+ <img src="./images/chapter-2/sistema_saberes_logo.png" alt="sistema_saberes_logo" width="400"/>
+
+ 
+
+ 
+
+Sistema Saberes se posiciona como una solución integral de gestión educativa desarrollada localmente para el mercado peruano. Su plataforma abarca todos los procesos operativos de institutos superiores, centros de formación técnica y escuelas de negocios, desde la admisión y matrícula hasta la graduación y certificación. Está construido para cumplir con las normativas del Ministerio de Educación (MINEDU) y los requisitos de SUNEDU, offering módulos especializados en control académico (calificaciones, asistencias, horarios), gestión financiera (pensiones, cobranza) y comunicación institucional. Incluye herramientas de reportes básicos que permiten extraer datos históricos, pero su fortaleza radica en la centralización de la información administrativa más que en el análisis pedagógico profundo. 
+
+ 
+
+ 
+
+- EduSoftNet 
+
+ 
+
+ <img src="./images/chapter-2/edu_soft_net_logo.png" alt="edu_soft_net_logo" width="400"/>
+
+ 
+
+EduSoft es un software modular de gestión educativa que ofrece soluciones escalables para colegios, institutos y academias en Perú. Su propuesta de valor se centra en la flexibilidad, allowing a las instituciones contratar solo los módulos que necesiten, como control académico, gestión financiera o library management. La plataforma genera reportes gerenciales predefinidos que ayudan en la toma de decisiones administrativas, pero su capacidad de análisis de datos pedagógicos es limitada. Está diseñado para instituciones que priorizan la optimización de procesos operativos por sobre la innovación en la enseñanza basada en datos. 
+
+ 
+
+ 
+
+- SieWeb 
+
+ 
+<img src="./images/chapter-2/sie_web_logo.png" alt="sie_web_logo" width="400"/>
+ 
+
+ 
+
+SieWeb es un sistema integral de gestión diseñado para instituciones de educación superior en Perú, including institutos tecnológicos y escuelas de posgrado. Su plataforma es altamente customizable, permitiendo adaptarse a flujos de trabajo específicos y mallas curriculares complejas. Ofrece módulos para la gestión del ciclo de vida del estudiante, prácticas preprofesionales, y generación de reportes personalizados para la alta dirección. Aunque incluye dashboards gerenciales, estos están orientados a métricas operativas y financieras, no al desempeño académico granular o a la intervención pedagógica temprana. SieWeb es ideal para instituciones que necesitan un ERP educativo a medida, pero no una herramienta ágil de análisis didáctico. 
+
+### 2.1.1 Análisis Competitivo 
+### 2.1.2 Estrategias y tácticas frente a competidores 
 ## 2.2 Entrevistas
+### 2.2.1 Diseño de entrevistas
+### 2.2.2 Registro de entrevistas
+### 2.2.3 Analisis de entrevistas
 ## 2.3 Needfinding
 ### 2.3.1 User Personas
 ### 2.3.2 User Task Matrix
