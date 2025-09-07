@@ -214,6 +214,109 @@ EduSoft es un software modular de gestión educativa que ofrece soluciones escal
 SieWeb es un sistema integral de gestión diseñado para instituciones de educación superior en Perú, including institutos tecnológicos y escuelas de posgrado. Su plataforma es altamente customizable, permitiendo adaptarse a flujos de trabajo específicos y mallas curriculares complejas. Ofrece módulos para la gestión del ciclo de vida del estudiante, prácticas preprofesionales, y generación de reportes personalizados para la alta dirección. Aunque incluye dashboards gerenciales, estos están orientados a métricas operativas y financieras, no al desempeño académico granular o a la intervención pedagógica temprana. SieWeb es ideal para instituciones que necesitan un ERP educativo a medida, pero no una herramienta ágil de análisis didáctico. 
 
 ### 2.1.1 Análisis Competitivo 
+
+<table border="1" cellspacing="0" cellpadding="6">
+  <tr>
+    <th colspan="6"> Competitive Analysis Landscape </th>
+  </tr>
+  <tr>
+    <td colspan="2" rowspan="2"> ¿Por qué llevar a cabo este análisis? </td>
+    <td colspan="4"> Pregunta </td>
+  </tr>
+  <tr>
+    <td colspan="4"> Este análisis se realiza para entender cómo se posiciona nuestro proyecto frente a competidores consolidados, identificar fortalezas y debilidades propias, descubrir oportunidades de diferenciación en el mercado de IoT para motocicletas y anticipar amenazas que puedan afectar la adopción del producto. </td>
+  </tr>
+  <tr>
+    <td colspan="2"> Productos </td>
+    <td style="text-align: center;"> <div>LearnHive</div> <img src="./images/chapter-2/learn_hive_logo.png" alt="learn_hive_logo" width="120"/> </td>
+    <td style="text-align: center;"> <div>Sistema Saberes</div> <img src="./images/chapter-2/sistema_saberes_logo.png" alt="sistema_saberes_logo" width="120"/> </td>
+    <td style="text-align: center;"> <div>EduSoftNet</div> <img src="./images/chapter-2/edu_soft_net_logo.png" alt="edu_soft_net_logo" width="120"/> </td>
+    <td style="text-align: center;"> <div>SieWeb</div> <img src="./images/chapter-2/sie_web_logo.png" alt="sie_web_logo" width="120"/> </td>
+  </tr>
+  <tr>
+    <td rowspan="2">Perfil</td>
+    <td>Overview</td>
+    <td>Plataforma especializada en analytics y gestión del desempeño académico.</td>
+    <td>ERP educativo integral (gestión administrativa y académica).</td>
+    <td>Software modular de gestión educativa (académica y financiera).</td>
+    <td>Sistema customizable para educación superior (énfasis en procesos complejos).</td>
+  </tr>
+  <tr>
+    <td>Ventaja competitiva (¿Qué valor ofrece a los clientes?)</td>
+    <td>Dashboards, alertas tempranas, intervención proactiva y portal estudiantil.</td>
+    <td>Cumplimiento normativo integrado (MINEDU/SUNEDU) y comunicación centralizada.</td>
+    <td>Precios accesibles, módulos escalables y gestión financiera robusta.</td>
+    <td>Adaptación total a flujos complejos (prácticas, titulación) y reportes personalizados.</td>
+  </tr>
+  <tr>
+    <td rowspan="2">Perfil de Marketing</td>
+    <td>Mercado Objetivo</td>
+    <td>Institutos técnicos/superiores en Lima que priorizan la mejora pedagógica y ya tienen un sistema base.</td>
+    <td>Institutos peruanos que buscan un ERP integral para automatizar procesos administrativos y académicos.</td>
+    <td>Institutos y colegios con budgets ajustados que necesitan módulos específicos.</td>
+    <td>Institutos con modelos educativos únicos o procesos complejos (ej: escuelas de posgrado).</td>
+  </tr>
+  <tr>
+    <td>Estrategias de Marketing</td>
+    <td>Marketing de contenidos (blog, webinars), demostraciones personalizadas, alianzas con asociaciones educativas.</td>
+    <td>Ventas directas, referencias boca a boca, participación en ferias educativas.</td>
+    <td>Precios competitivos, demostraciones gratuitas, enfoque en flexibilidad.</td>
+    <td>Enfoque en customización, ventas B2B, casos de estudio con clientes grandes.</td>
+  </tr>
+  <tr>
+    <td rowspan="3">Perfil de Producto</td>
+    <td>Productos & Servicios</td>
+    <td>Plataforma de analytics, dashboards interactivos, alertas tempranas, portal de estudiantes, soporte técnico.</td>
+    <td>ERP educativo (admisión, matrícula, calificaciones, financiero), reportes básicos, soporte.</td>
+    <td>Módulos de gestión académica, financiera, library, reportes predefinidos, soporte.</td>
+    <td>ERP customizable, gestión de prácticas, titulación, dashboards gerenciales, soporte técnico.</td>
+  </tr>
+  <tr>
+    <td>Precios & Costos</td>
+    <td>Suscripción mensual por usuario (asequible). Bajo costo de implementación.</td>
+    <td>Licencia anual costosa. Alta inversión inicial e implementación.</td>
+    <td>Precios por módulo (accesible). Costo de implementación medio.</td>
+    <td>Precios altos por customización. Implementación larga y costosa.</td>
+  </tr>
+  <tr>
+    <td>Canales de distribución</td>
+    <td>Ventas online, canal directo (equipo comercial), partners estratégicos.</td>
+    <td>Ventas directas, canal telefónico, sitio web.</td>
+    <td>Ventas directas, sitio web, redes sociales.</td>
+    <td>Ventas B2B, consultores educativos, canal directo.</td>
+  </tr>
+  <tr>
+    <td rowspan="4">Análisis SWOT</td>
+    <td>Fortalezas</td>
+    <td>Especialización en analytics, usabilidad, implementación rápida, precio accesible.</td>
+    <td>Conocimiento normativo peruano, solución integral, presencia en el mercado.</td>
+    <td>Precios flexibles, modularidad, experiencia en el mercado.</td>
+    <td>Customización, manejo de procesos complejos, clientes grandes.</td>
+  </tr>
+  <tr>
+    <td>Debilidades</td>
+    <td>Dependencia de integración con otros sistemas, marca desconocida.</td>
+    <td>Interface menos intuitiva, analytics limitados, alto costo.</td>
+    <td>Analytics básicos, diseño no moderno, enfoque administrativo.</td>
+    <td>Precio muy alto, implementación lenta, no es ágil para docentes.</td>
+  </tr>
+  <tr>
+    <td>Oportunidades</td>
+    <td>Creciente demanda de edtech, aliarse con competidores como complemento, expansión a otras ciudades.</td>
+    <td>Cross-selling a clientes existentes, mejorar módulos de analytics.</td>
+    <td>Upselling de módulos, integración con herramientas de analytics.</td>
+    <td>Vender módulos de analytics como add-on, asociarse con consultoras.</td>
+  </tr>
+  <tr>
+    <td>Amenazas</td>
+    <td>Competidores agreguen analytics, resistencia al cambio en docentes, entrada de competidores globales.</td>
+    <td>Saturación del mercado de ERPs.</td>
+    <td>Competidores con precios más agresivos, avance de soluciones en la nube.</td>
+    <td>Aversión a altos costos post-pandemia, competidores con soluciones más ágiles.</td>
+  </tr>
+</table>
+
+
 ### 2.1.2 Estrategias y tácticas frente a competidores 
 ## 2.2 Entrevistas
 ### 2.2.1 Diseño de entrevistas
