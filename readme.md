@@ -193,11 +193,11 @@ Ser la plataforma de analytics y gestión educativa de referencia en Lima Metrop
     <td> Soy Omar Luquillas Asto, estudiante de la carrera de Ingeniería de Software. Elegí esta carrera porque me apasiona la tecnología, el desarrollo de software y la programación. Tengo conocimientos en lenguajes de programación como C++, Python y Java. Me considero una persona investigadora, ya que me gusta aprender cosas nuevas y siempre estoy en busca de soluciones creativas e innovadoras que generen un impacto positivo en la vida de las personas. Además, valoro el trabajo en equipo, soy responsable y me comprometo a cumplir con mis tareas de manera eficiente. </td>
   </tr>
   <tr>
-    <th colspan="2">-</th>
+    <th colspan="2">Wilder Gonzalo Aliaga Urbina</th>
   </tr>
   <tr>
-    <td> <img src="./images/chapter-1/" alt="" style="width: 500px; height: auto;"> </td>
-    <td>  </td>
+    <td> <img src="images/chapter-1/gonzalo-profile-picture.png" alt="Wilder Aliaga" style="width: 500px; height: auto;"> </td>
+    <td>Como estudiante universitario de 20 años y cursando la carrera de Ingeniería de Software, tengo una sólida base en programación en C++, Python, HTML y CSS, además de habilidades en creatividad y organización grupal. Mi enfoque está en fomentar un ambiente de aprendizaje eficiente y participativo en equipo. Me apasiona encontrar soluciones innovadoras y siempre estoy dispuesto a aprender nuevas tecnologías que potencien mis proyectos. He trabajado en proyectos colaborativos donde la comunicación y la planificación fueron claves para lograr buenos resultados. Mi objetivo es seguir creciendo profesionalmente mientras contribuyo activamente al desarrollo de iniciativas tecnológicas con impacto positivo. </td>
   </tr>
   <tr>
     <th colspan="2">-</th>
