@@ -189,7 +189,7 @@ Ser la plataforma de analytics y gestión educativa de referencia en Lima Metrop
     <th colspan="2"> Omar Luquillas Asto </th>
   </tr>
   <tr>
-    <td> <img src="./images/chapter-1/omar-pfp.jpg" alt="Omar Luquillas" style="width: 500px; height: auto;"> </td>
+    <td> <img src="./images/chapter-1/omar_profile_picture.jpg" alt="Omar Luquillas" style="width: 500px; height: auto;"> </td>
     <td> Soy Omar Luquillas Asto, estudiante de la carrera de Ingeniería de Software. Elegí esta carrera porque me apasiona la tecnología, el desarrollo de software y la programación. Tengo conocimientos en lenguajes de programación como C++, Python y Java. Me considero una persona investigadora, ya que me gusta aprender cosas nuevas y siempre estoy en busca de soluciones creativas e innovadoras que generen un impacto positivo en la vida de las personas. Además, valoro el trabajo en equipo, soy responsable y me comprometo a cumplir con mis tareas de manera eficiente. </td>
   </tr>
   <tr>
