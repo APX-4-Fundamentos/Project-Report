@@ -505,9 +505,83 @@ Preguntas complementarias
 | **Interactividad deseada**      | Gráficos que muestren el desempeño a lo largo del tiempo para conocer el rendimiento en tiempo real y saber en que mejorar. |
 
 ### 2.2.3 Analisis de entrevistas
+
+#### Análisis Segmento 1: Estudiantes de Institutos 
+
+El segmento de estudiantes universitarios presenta una dinámica muy marcada por la búsqueda de organización personal y control de su desempeño académico en tiempo real. En términos de herramientas actuales, los entrevistados señalaron que utilizan una combinación de plataformas institucionales, Google Classroom, Excel, Google Calendar, Clockify y Discord, además de WhatsApp y Meet para comunicación y coordinación de trabajos en grupo. Estas herramientas cumplen funciones específicas —calendarios, temporizadores, almacenamiento de archivos o comunicación—, pero se encuentran dispersas, lo que genera la necesidad de unificar todas esas funcionalidades en un mismo espacio digital. 
+
+Entre los principales dolores identificados, destaca la ausencia de gráficas claras que les permitan evidenciar su desarrollo académico y compararlo con sus compañeros; esta carencia fue mencionada por el 100% de los entrevistados. Además, ambos resaltaron la necesidad de contar con herramientas de organización más eficientes, ya que la gestión de tareas y tiempos depende de múltiples aplicaciones y agendas, lo que en ocasiones provoca desorden o pérdida de información. 
+
+En cuanto al seguimiento del desempeño, los estudiantes recurren principalmente a Excel, agendas digitales y cronogramas, que les permiten calcular notas, registrar horas de trabajo y organizar entregas. Sin embargo, esta práctica requiere un esfuerzo adicional y carece de automatización, lo que limita su utilidad en comparación con una solución integrada. 
+
+Respecto a las necesidades prioritarias, el 100% manifestó la importancia de contar con retroalimentación instantánea, que les permita identificar errores y áreas de mejora sin esperar largos periodos de revisión. Asimismo, el 80% expresó interés en tener gráficos y dashboards que muestren su progreso académico en tiempo real, tanto a nivel individual como en comparación con sus compañeros (por ejemplo, saber si su rendimiento está por encima del 50% o 75% del curso). Por otro lado, un 70% resaltó la importancia de integrar herramientas de organización en una sola plataforma, que combine asignación de tareas, notificaciones, métricas de avance y control del tiempo invertido. 
+
+En el aspecto de dispositivos y comunicación, los estudiantes utilizan tanto laptops como celulares, aunque la preferencia recae en la laptop debido a su mayor alcance y comodidad en el trabajo académico. Sin embargo, reconocen que el celular es indispensable para la comunicación rápida y la coordinación en grupos. En este contexto, Discord fue señalado como la herramienta preferida por su practicidad y comodidad para organizar equipos, frente a WhatsApp o Classroom, que consideran menos versátiles. 
+
+La experiencia con plataformas muestra percepciones mixtas. Classroom es vista como útil para compartir archivos, pero también se critica la falta de filtros y control en el acceso, lo que puede dar pie a usos irresponsables. En general, los estudiantes coinciden en que las plataformas existentes son poco intuitivas y que los usuarios no logran aprovecharlas plenamente, lo que refleja una curva de aprendizaje poco amigable. 
+
+En cuanto a la interactividad deseada, el 60% de los entrevistados señaló su interés en contar con dashboards visuales y gráficos dinámicos que no solo muestren su avance personal, sino que también comparen su desempeño con la media del grupo. Además, se destaca la necesidad de incluir notificaciones automáticas y métricas de progreso, como el número de tareas completadas semanalmente o el tiempo promedio invertido en actividades. 
+
+Finalmente, la curva de aprendizaje de las plataformas actuales es percibida como una limitante. Los estudiantes sienten que estas no son intuitivas y que requieren un esfuerzo extra para configurarlas y sacarles provecho. En este punto, la facilidad de uso aparece como una condición esencial para que cualquier nueva solución sea adoptada con éxito. 
+
+En síntesis, el perfil del estudiante universitario se caracteriza por la necesidad de organización, retroalimentación inmediata y métricas claras de desempeño académico. Existe un interés unánime en soluciones que integren feedback instantáneo (100%), la posibilidad de ver el progreso académico en tiempo real mediante gráficos comparativos (80%), y la integración de herramientas de organización en una sola plataforma (70%). Este segmento muestra una disposición favorable hacia plataformas que sean intuitivas, flexibles y con funciones de análisis visual que fortalezcan tanto la autogestión como la colaboración en equipo. 
+ 
+
+#### Análisis Segmento Objetivo 2: Profesores de Institutos 
+
+El segmento objetivo de profesores de institutos se caracteriza por el uso combinado de diversas herramientas digitales que les permiten cumplir con sus labores pedagógicas y administrativas. Entre las más comunes se encuentran las plataformas institucionales, que utilizan de forma obligatoria para el registro de notas y materiales, complementadas por WhatsApp como canal principal de comunicación con los estudiantes. A esto se suma el empleo frecuente de Excel para el manejo de calificaciones y Dropbox como repositorio de documentos. No obstante, los docentes perciben que este conjunto de recursos funciona de manera aislada y poco integrada, lo que genera duplicidad de trabajo y procesos lentos. 
+
+Uno de los principales problemas identificados es el exceso de tiempo que requiere la calificación manual de las entregas. A esto se añade la necesidad de cargar posteriormente las notas a la plataforma oficial, un proceso que consideran repetitivo, lento y vulnerable a errores. Aunque este procedimiento les permite tener una idea del progreso individual de cada estudiante, los profesores carecen de una herramienta que les brinde una visión consolidada y en tiempo real del desempeño grupal, una necesidad expresada por el 100% de los entrevistados. Esta carencia limita la posibilidad de identificar patrones comunes y ajustar su enfoque pedagógico de manera oportuna. 
+
+Las entrevistas revelan que existe una demanda prioritaria por retroalimentación automatizada, planteada de manera unánime por el 100% de los docentes entrevistados. Esta funcionalidad permitiría optimizar el tiempo invertido en la revisión de trabajos y, al mismo tiempo, brindar a los estudiantes respuestas inmediatas que fortalezcan su aprendizaje. Asimismo, el 60% de los profesores destacó la importancia de integrar interactividad en los recursos educativos, a través de videos cortos, materiales lúdicos y dinámicas que incrementen el interés y la motivación de los alumnos. 
+
+Los docentes expresan además su preferencia por plataformas más flexibles, amigables y con menor curva de aprendizaje, tanto para ellos como para sus estudiantes, dado que consideran que las soluciones actuales son complejas y poco adaptables. A esto se suma la necesidad de contar con un soporte técnico confiable y accesible, ya que la falta de atención oportuna ha sido una de las causas principales de frustración en el uso de sistemas digitales. 
+
+En cuanto a los dispositivos utilizados, los profesores trabajan principalmente desde la laptop, aunque recurren también al celular para tareas rápidas y comunicación inmediata. La elección de WhatsApp responde a que los estudiantes se encuentran más activos en esa aplicación, lo que facilita la interacción cotidiana, aunque los mismos docentes reconocen que su uso favorece la inmediatez y la superficialidad, sin aportar a un aprendizaje profundo. Esto genera una tensión entre la practicidad comunicativa y el objetivo académico. 
+
+Finalmente, la curva de aprendizaje de las plataformas digitales constituye una barrera significativa. Los docentes consideran que estas no se adaptan de manera adecuada a todos los estudiantes y terminan siendo demasiado complejas. Frente a ello, plantean la integración de inteligencia artificial como un asistente 24/7, capaz de brindar retroalimentación continua y aliviar la carga operativa, de modo que el profesor pueda enfocarse en el acompañamiento pedagógico y en fortalecer el aprendizaje profundo. 
+
+En síntesis, el perfil del profesor de instituto muestra un alto nivel de frustración frente a los procesos manuales, la poca automatización y la falta de soporte técnico. Al mismo tiempo, revela una clara apertura hacia nuevas soluciones que ofrezcan eficiencia, simplicidad, retroalimentación instantánea y un entorno de aprendizaje más dinámico e interactivo. La unanimidad en la búsqueda de retroalimentación automatizada (100%), de un apartado para ver el progreso en tiempo real de todos los alumnos (100%), y el interés mayoritario en recursos más interactivos (60%), convierten a este segmento en un grupo altamente receptivo a propuestas de innovación tecnológica. 
+
 ## 2.3 Needfinding
+
 ### 2.3.1 User Personas
+
+#### Segmento Objetivo 1: Estudiantes de Institutos 
+##### User Persona: Olivia Perez (17 años)
+
+<img src="./images/chapter-2/needfinding/user_persona_olivia.png" alt="User Persona Olivia" width="400"/>
+
+#### Segmento Objetivo 2: Profesores de Institutos
+##### User Persona: Adrian Espinoza (30 años)
+
+<img src="./images/chapter-2/needfinding/user_persona_adrian.png" alt="User Persona Adrián" width="400"/>
+
 ### 2.3.2 User Task Matrix
+
+Presentaremos las tareas que realizan los estudiantes (representados por Olivia Pérez) y los profesores de institutos (representados por Luis Ramírez) para cumplir sus objetivos académicos y pedagógicos.
+
+#### Olivia Pérez - Estudiante de instituto
+
+| Actividad                                                                 | Frecuencia | Importancia |
+| :------------------------------------------------------------------------ | :--------- | :---------- |
+| Organizar tareas, exámenes y horarios de entrega                          | Alta       | Alta        |
+| Coordinar trabajos grupales (Meet, Discord, WhatsApp)                     | Alta       | Media       |
+| Monitorear su propio desempeño académico (notas, dashboards, comparaciones) | Alta       | Alta        |
+| Gestionar tiempo de estudio invertido (cronogramas, temporizadores, apps de productividad) | Media    | Alta        |
+| Recibir retroalimentación sobre los entregables                           | Alta       | Alta        |
+
+#### Luis Ramírez – Profesor de instituto
+
+| Actividad                                                 | Frecuencia | Importancia |
+| :-------------------------------------------------------- | :--------- | :---------- |
+| Calificar entregas y exámenes                             | Alta       | Alta        |
+| Dar seguimiento al progreso de alumnos (identificar rezagados) | Alta    | Alta        |
+| Comunicarse con alumnos (WhatsApp, correo, avisos en plataforma) | Alta   | Alta        |
+| Brindar retroalimentación rápida a estudiantes            | Media      | Media       |
+| Atender consultas individuales de alumnos fuera de clase  | Baja       | Media       |
+| Monitorear la asistencia y puntualidad de los estudiantes | Alta       | Alta        |
+
 ### 2.3.3 Empathy Maps
 ### 2.3.4 As-is Scenario Mapping
 
