@@ -33,24 +33,14 @@
 
 ## Registro de Versiones del Informe
 
-<table>
-  <thead>
-    <tr>
-      <th>Versión</th>
-      <th>Fecha</th>
-      <th>Autor</th>
-      <th>Descripción de modificación</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>0.1</td>
-      <td>03/09/25</td>
-      <td>Jose Alejo</td>
-      <td>Elaboración de plantilla del reporte</td>
-    </tr>
-  </tbody>
-</table>
+| Versión | Fecha       | Autor                                                                                   | Descripción de modificación                                                                                                                                                       |
+|---------|------------|------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 0.1     | 09/09/2025 | Real Calderón Sebastián Omar y Alejo Cardenas Jose Antonio                                | Desarrollo de los ítems: 1.1.1 Descripción de la Startup, 1.1.2 Perfiles de integrantes del equipo, 1.2.1 Nombre del producto                                                     |
+| 0.2     | 10/09/2025 | Real Calderón Sebastián Omar, Olivera Barzola Eric Marlon y Luquillas Asto Omar           | Desarrollo de los ítems: 1.2.2 Antecedentes y problemática, 1.2.3.1 Lean UX Problem Statement, 1.2.3.2 Lean UX Assumptions, 1.2.3.3 Lean UX Hypothesis, 1.2.3.4 Lean UX Canvas y 1.3 Segmentos objetivo |
+| 0.3     | 11/09/2025 | Alejo Cardenas Jose Antonio, Aliaga Urbina Wilder Gonzalo y Olivera Barzola Eric Marlon   | Desarrollo de los ítems: 2.1 Competidores, 2.2 Entrevistas, 2.3.1 User Personas, 2.3.2 User Task Matrix, 2.3.3 Empathy Maps y 2.3.4 As-is Scenario Mapping                        |
+| 0.4     | 12/09/2025 | Luquillas Asto Omar, Aliaga Urbina Wilder Gonzalo y Real Calderón Sebastián Omar          | Desarrollo de los ítems: 3.1 To-Be Scenario Mapping, 3.2 User Stories, 3.3 Impact Map, 3.4 Product Backlog                                                                        |
+| 1.0     | 13/09/2025 | Real Calderón Sebastián Omar y Alejo Cardenas Jose Antonio                                | Revisión completa hasta el capítulo 3, corrección ortográfica y coherencia global del reporte.                                                                                    |
+
 
 # Contenido  
 
@@ -142,10 +132,6 @@
 
 # Student Outcome
 
-| Criterio específico | Acciones realizadas | Conclusiones |
-|----------------------|---------------------|--------------|
-| **Actualiza conceptos y conocimientos necesarios para su desarrollo profesional y en especial para su proyecto en soluciones de software.** | **Alejo Cardenas, Jose Antonio**<br>TB1: AAA…<br>TB2: BBB…<br>**Real Calderon, Sebastian Omar**<br>TB1: AAA…<br>**Luquillas Asto, Omar**<br>TB1: AAA…<br><br>**Olivera Barzola, Eric Marlon**<br>TB1: AAA…<br><br>**Aliaga Urbina, Wilder Gonzalo**<br>TB1: AAA…<br> | AAA… |
-| **Reconoce la necesidad del aprendizaje permanente para el desempeño profesional y el desarrollo de proyectos en soluciones de software.** | **Alejo Cardenas, Jose Antonio**<br>TB1: BBB…<br>TB2: BBB…<br>**Real Calderon, Sebastian Omar**<br>TB1: BBB…<br>**Luquillas Asto, Omar**<br>TB1: BBB…<br><br>**Olivera Barzola, Eric Marlon**<br>TB1: BBB…<br><br>**Aliaga Urbina, Wilder Gonzalo**<br>TB1: BBB…<br> | BBB... |
 
 
 # Capítulo I: Introducción
