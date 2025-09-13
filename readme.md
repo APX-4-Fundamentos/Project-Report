@@ -208,7 +208,7 @@ Por otro lado, para los alumnos, proporcionamos un portal de acceso seguro donde
 ## 1.2 Solution Profile
 ### 1.2.1 Nombre del producto
 
-El producto desarrollado se denomina LearnHive. LearnHive busca ofrecer una herramienta digital integral que facilite la gestión de grupos, actividades y métricas de desempeño estudiantil, adaptándose a las necesidades de docentes y estudiantes en entornos que carecen de plataformas propias de gestión académica.
+El producto desarrollado se denomina LearnHive. LearnHive busca ofrecer una herramienta digital integral que facilite la gestión de grupos, actividades y métricas de desempeño estudiantil, adaptándose a las necesidades de docentes y estudiantes en entornos que carecen de plataformas propias. 
 
 ### 1.2.2 Antecedentes y problemática
 
