@@ -154,20 +154,17 @@
 
 ### 1.1.1 Descripción de la Startup
 
-APX-4 es una startup innovadora, fundada por estudiantes de la Universidad Peruana de Ciencias Aplicadas (UPC), con la misión de revolucionar la educación en el Perú mediante soluciones tecnológicas accesibles y de alto impacto.
+APX-4 es una startup fundada por estudiantes de la Universidad Peruana de Ciencias Aplicadas (UPC), con la misión de revolucionar la educación en el Perú mediante soluciones tecnológicas accesibles y de alto impacto. 
 
-Nuestro producto principal, LearnHive, es una plataforma integral de analytics y gestión educativa diseñada específicamente para los institutos de Lima Metropolitana que carecen de un sistema de data unificado. LearnHive se integra con los sistemas existentes o permite el ingreso manual de datos, para centralizar la información académica y transformarla en insights visuales y procesables.
+Nuestro producto principal, LearnHive, es una plataforma integral de análisis y gestión educativa diseñada específicamente para los institutos de Lima Metropolitana que carecen de un sistema unificado. 
 
-Para los profesores, ofrecemos un dashboard intuitivo que les permite supervisar el estado general de sus cursos en tiempo real. Esta visión integral les facilita el monitoreo continuo del progreso del aula, asegurando que siempre tengan el pulso de su clase.
+Para los profesores, ofrecemos un dashboard intuitivo que les permite supervisar el estado general de sus cursos en tiempo real. Esta visión integral les facilita el monitoreo continuo del progreso del aula, asegurando que siempre tengan una visión general del estado de su clase. 
 
-Por otro lado, para los alumnos, proporcionamos un portal de acceso seguro donde pueden visualizar sus propias estadísticas y progreso académico de forma clara y transparente. Este acceso empodera a los estudiantes, dándoles ownership de su propio recorrido educativo.
+Por otro lado, para los alumnos, proporcionamos un portal de acceso seguro donde pueden visualizar sus propias estadísticas y progreso académico de forma clara y transparente, así como acceder a herramientas que les permitan organizar mejor sus actividades y tiempo. Este acceso empodera a los estudiantes, dándoles mayor control sobre su educación. 
 
-Misión:
-Potenciar el éxito académico en los institutos de Lima Metropolitana mediante una plataforma de analytics educativa intuitiva y poderosa. Brindamos a los educadores las herramientas basadas en datos para tomar decisiones proactivas e impactar positivamente en el aprendizaje de cada estudiante.
+- Misión: Potenciar el éxito académico en los institutos de Lima Metropolitana mediante una plataforma de apoyo educativo intuitiva y poderosa. Brindamos a los educadores las herramientas para tomar decisiones proactivas e impactar positivamente en el aprendizaje de cada estudiante. 
 
-Visión:
-Ser la plataforma de analytics y gestión educativa de referencia en Lima Metropolitana, reconocida por transformar la data académica en insights accionables que elevan la calidad de la enseñanza y convierten a los institutos en centros de innovación pedagógica.
-
+- Visión: Ser la plataforma de gestión educativa de referencia en Lima Metropolitana, reconocida por transformar el ambiente académico para un mejor desempeño. elevando la calidad de la enseñanza y convirtiendo a los institutos en centros de innovación pedagógica. 
 ### 1.1.2 Perfiles de integrantes del equipo
 
 <table>
