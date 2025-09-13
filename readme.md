@@ -585,11 +585,39 @@ Presentaremos las tareas que realizan los estudiantes (representados por Olivia 
 ### 2.3.3 Empathy Maps
 ### 2.3.4 As-is Scenario Mapping
 
+**Segmento Objetivo 1: Estudiantes de institutos**
+
+El As-Is Scenario Mapping de estudiantes muestra cómo actualmente dependen de múltiples canales dispersos (WhatsApp, Classroom, correos, Excel) para organizarse, entregar trabajos y seguir su progreso. Esto genera estrés, inseguridad y ansiedad por la falta de centralización y retroalimentación clara, aunque también refleja su disposición a colaborar y su interés en contar con métricas visuales y feedback inmediato.
+
+![as-is_estudiantes.png](images/chapter-2/scenario_mapping/as-is_estudiantes.png)
+
+
+**Segmento Objetivo 2: Profesores de Institutos**
+
+El As-Is Scenario Mapping de profesores de institutos evidencia que gran parte de su tiempo se pierde en tareas administrativas manuales (cronogramas en Excel, corrección en papel, carga de notas en plataformas). Este escenario les genera agotamiento y frustración, pero también muestra apertura a soluciones más intuitivas y automatizadas que reduzcan su carga y permitan un mejor seguimiento del desempeño estudiantil.
+
+![as-is_profesores.png](images/chapter-2/scenario_mapping/as-is_profesores.png)
+
 
 
 # Capítulo III: Requirements Specification
 
 ## 3.1 To-Be Scenario Mapping
+
+**Segmento Objetivo 1: Estudiantes de institutos**
+
+El To-Be Scenario Mapping de estudiantes muestra cómo LearnHive centraliza materiales, tareas y métricas en un único espacio. Esto elimina la dispersión de canales y reduce la inseguridad en las entregas, ofreciendo confirmación inmediata y dashboards visuales con retroalimentación en tiempo real. El resultado esperado es mayor tranquilidad, motivación y confianza en la gestión de su desempeño académico.
+
+![to-be_estudiantes.png](images/chapter-2/scenario_mapping/to-be_estudiantes.png)
+
+
+**Segmento Objetivo 2: Profesores de Institutos**
+
+El To-Be Scenario Mapping de profesores de instituto plantea un futuro en el que LearnHive simplifica la planificación, automatiza parte de la retroalimentación y centraliza la comunicación con los estudiantes. De esta manera, los docentes reducen su carga administrativa, obtienen métricas claras para intervenir oportunamente y sienten alivio, satisfacción y motivación al enfocarse más en la enseñanza que en las tareas manuales.
+
+![to-be_profesores.png](images/chapter-2/scenario_mapping/to-be_profesores.png)
+
+
 ## 3.2 User Stories
 ## 3.3 Impact Map
 ## 3.4 Product Backlog (Avance1)
