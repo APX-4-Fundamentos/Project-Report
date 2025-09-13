@@ -488,7 +488,79 @@ Hypothesis Statement 20:
 
 ## 1.3 Segmentos objetivo
 
+Segmento Objetivo 1: Estudiantes de institutos 
 
+Jóvenes que requieren un entorno educativo digital organizado para acceder a materiales, entregar tareas y monitorear su progreso académico. Necesitan claridad, retroalimentación oportuna y evitar la dispersión de información en múltiples canales. 
+
+Características Demográficas: 
+
+- Edad: 16 a 27 años. 
+
+- Género: Todos los géneros. 
+
+- Ubicación geográfica: Institutos de Lima. 
+
+- Nivel socioeconómico: Clase media-baja. (Acceso a internet básico) 
+
+- Dispositivos de acceso: Smartphones, laptops, tablets. 
+
+ 
+
+Necesidades: 
+
+- Centralización de tareas, materiales y fechas de entrega. 
+
+- Acceso sencillo desde dispositivos móviles con bajo consumo de datos. 
+
+- Retroalimentación clara y rápida sobre sus calificaciones. 
+
+ 
+
+Beneficios clave: 
+
+- Plataforma unificada para todas sus clases y actividades. 
+
+- Notificaciones push para recordatorios importantes. 
+
+- Visualización directa de su desempeño y áreas de mejora. 
+
+ 
+
+Segmento Objetivo 2: Profesores de institutos 
+
+Educadores que necesitan una solución integral para gestionar sus cursos, reducir la carga administrativa y obtener insights sobre el rendimiento estudiantil. Buscan centralizar la comunicación, las entregas y las calificaciones en una plataforma accesible, evitando el uso de herramientas dispersas como WhatsApp o correo electrónico. 
+
+Características Demográficas: 
+
+- Edad: 30 a 60 años. 
+
+- Género: Todos los géneros. 
+
+- Ubicación geográfica: Institutos de Lima (públicos y privados con recursos limitados). 
+
+- Nivel socioeconómico: Clase media (acceso a internet y dispositivos básicos, pero con presupuesto restringido para tecnología educativa). 
+
+- Dispositivos de acceso: Laptops, smartphones, computadoras de escritorio en aulas. 
+
+ 
+
+Necesidades: 
+
+- Automatización de procesos administrativos (calificaciones, recepción de entregas). 
+
+- Análisis de datos del rendimiento estudiantil para adaptar estrategias pedagógicas. 
+
+- Comunicación centralizada y eficiente con estudiantes. 
+
+ 
+
+Beneficios clave: 
+
+- Reducción de tiempo en gestión manual con herramientas integradas. 
+
+- Métricas claras del progreso de cada estudiante y del grupo. 
+
+- Interfaz intuitiva que requiere mínima capacitación. 
 
 # Capítulo II: Requirements & Analysis
 
