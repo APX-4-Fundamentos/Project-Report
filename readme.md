@@ -127,8 +127,7 @@
 - [Referencias Bibliográficas](#referencias-bibliográficas)  
 
 - [Anexos](#anexos)  
-  
-- [Links](#links)  
+
 
 # Student Outcome
 
@@ -272,13 +271,25 @@ APX-4 es una startup iniciada por estudiantes de la Universidad Peruana de Cienc
 
 # Conclusiones
 ## Conclusiones y recomendaciones
+
+- TB1: 
+ 
+El grupo logró integrar de manera efectiva conocimientos en gestión ágil, diseño centrado en el usuario y análisis estratégico, evidenciando un aprendizaje constante a lo largo del proyecto. Cada integrante no solo aportó en la elaboración de entregables específicos, sino que también reforzó su capacidad para investigar, validar ideas, comprender a los usuarios y priorizar tareas de forma estructurada. En conjunto, esto permitió consolidar una base sólida de conocimientos técnicos y metodológicos, reafirmando la importancia del aprendizaje permanente para adaptarse a nuevas tecnologías, mejorar la calidad del desarrollo y fortalecer su futuro desempeño profesional.
+
 ## Video About-The-Team
 
 
 
 # Referencias Bibliográficas
 
-
+44% de alumnos de colegios públicos considera insuficiente el medio virtual usado para dictado de clases “Aprendo en casa”. (s. f.). Noticias - Contraloría General de la República - Plataforma del Estado Peruano. [https://www.gob.pe/institucion/contraloria/noticias/575068-44-de-alumnos-de-colegios-publicos-considera-insuficiente-medio-virtual-usado-para-dictado-de-clases-aprendo-en-casa](https://www.gob.pe/institucion/contraloria/noticias/575068-44-de-alumnos-de-colegios-publicos-considera-insuficiente-medio-virtual-usado-para-dictado-de-clases-aprendo-en-casa)
 
 # Anexos
-# Links
+
+Lean UX Canvas: [Lean UX Canvas](https://upcedupe-my.sharepoint.com/:i:/g/personal/u202122484_upc_edu_pe/EbVM7KLizudGgHWvlwvgzBQBRby113iSkaVpPj17uaYSow?e=Mpe9CB)
+ 
+User Personas:  Spring Boot Features](https://spring.io/projects/spring-boot)
+ 
+Empathy Maps:  Spring Boot Features](https://spring.io/projects/spring-boot)
+ 
+Impact Map: Spring Boot Features](https://spring.io/projects/spring-boot)
