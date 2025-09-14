@@ -484,8 +484,24 @@ Preguntas complementarias
 | **Curva de aprendizaje**        | Considera que puede ser un reto si la plataforma es compleja.<br>Prefiere interfaces intuitivas, visuales y fáciles de usar para reducir la barrera de entrada. |
 
 
-
-
+# Entrevista 3: Profesor de Instituto
+ 
+| Campo                           | Detalle |
+|---------------------------------|---------|
+| **Foto y link**                 | <img src="images/chapter-2/interviews/entrevista_Frank.png" alt="Entrevista Frank Rivera" width="500"/> <br> [Entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202122484_upc_edu_pe/EQywp_Cid25EpgUEwukGdFEB-fs0WpIXqybsFcIFxJZJlw?e=SVglxn&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D) |
+| **Nombre del entrevistado**     | Frank Rivera |
+| **Edad**                        | 24 años |
+| **Profesión**                   | Practicante docente en Instituto Tecnológico (segundo año de práctica) |
+| **Ubicación**                   | Lima – Pueblo Libre |
+| **Duración de la Entrevista**   | 4:29 min |
+| **Herramientas actuales**       | - Google Drive (guardar materiales)<br>- WhatsApp (avisos y coordinación)<br>- Plataforma institucional (subir calificaciones)<br>- Canva / PowerPoint (preparación de clases) |
+| **Dolores principales**         | - Revisar y calificar entregas consume demasiado tiempo.<br>- Dar retroalimentación detallada a cada alumno es muy pesado. |
+| **Seguimiento del desempeño**   | Usa Excel personal (notas, asistencia, observaciones).<br>Actualización manual y constante, sin automatización. |
+| **Necesidades prioritarias**    | - Retroalimentación automatizada para responder rápido a estudiantes.<br>- Métricas visuales y claras sobre el progreso de cada alumno. |
+| **Dispositivos y comunicación** | - Laptop (principal para clases, presentaciones, Excel).<br>- Celular (comunicación rápida).<br>- WhatsApp (rápido, pero desordenado y poco estructurado). |
+| **Experiencia con plataformas** | Ha usado Google Classroom: bueno para organizar materiales, pero poco flexible para dar seguimiento al progreso real.<br>Carece de reportes y estadísticas completas. |
+| **Interactividad deseada**      | - Cuestionarios en línea.<br>- Juegos interactivos.<br>- Videos cortos dinámicos. |
+| **Curva de aprendizaje**        | Interfaz intuitiva = fácil de usar.<br>Plataformas complejas = frustración → regresa a lo básico (Excel, WhatsApp). |
 
 
 ## Estudiantes de instituto:
@@ -525,6 +541,27 @@ Preguntas complementarias
 | **Necesidades prioritarias**    | Considera que sería bueno tener herramientas de organización unificadas en una misma plataforma. |
 | **Dispositivos y comunicación** | Utiliza principalmente la laptop y el celular. |
 | **Interactividad deseada**      | Gráficos que muestren el desempeño a lo largo del tiempo para conocer el rendimiento en tiempo real y saber en que mejorar. |
+
+
+
+# Entrevista – Estudiante de Instituto  
+
+| Campo                           | Detalle |
+|---------------------------------|---------|
+| **Foto y link**                 | <img src="images/chapter-2/interviews/entrevista_Jhon.png" alt="Entrevista Jhon Chuchon" width="500"/> <br> [Entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202122484_upc_edu_pe/ERtYfl5y-XVChcbrl_jGtV4BAVDyRs_5wHYsWSQqV1wZXQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=MiGu97) |
+| **Nombre del entrevistado**     | Jhon Chuchon |
+| **Edad**                        | 19 años |
+| **Profesión**                   | Estudiante de instituto |
+| **Ubicación**                   | Lima, Perú |
+| **Duración de la Entrevista**   | 06:21 min |
+| **Herramientas actuales**       | - WhatsApp para comunicación con grupos.<br>- Google Drive para documentos o informes.Google Classroom para clases virtuales. |
+| **Dolores principales**         | Se le complica cuando la información se reparte en distintas herramientas y termina olvidándose de algunas cosas. |
+| **Necesidades prioritarias**    | Retroalimentación instantánea para saber si va por buen camino o si necesita mejorar antes. |
+| **Dispositivos y comunicación** | Utiliza más el celular ya que es más sencillo de llevar a todos lados. |
+| **Experiencia con plataformas** | Ventajas: centralizan la información y ayudan a tener todo en un solo sitio.<br>Desventajas: a veces se caen y no funcionan bien en su celular. |
+| **Interactividad deseada**      | Gráficos y estadísticas, ya que lo motivarían y le darían más control sobre sus estudios. |
+
+
 
 ### 2.2.3 Analisis de entrevistas
 
