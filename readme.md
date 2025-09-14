@@ -139,44 +139,1347 @@
 # Capítulo I: Introducción
 
 ## 1.1 Startup Profile
-### 1.1.1 Descripción de la Startup
-APX-4 es una startup iniciada por estudiantes de la Universidad Peruana de Ciencias Aplicadas con el objetivo de desarrollar soluciones tecnológicas para el ámbito educativo del Perú. Con nuestro producto principal, LearnHive, queremos ofrecer una alternativa de entorno digital para institutos académicos que no cuentan con una plataforma propia, ofreciéndoles las herramientas para el desarrollo de sus actividades de forma rápida, fácil y segura. Modificar
 
+### 1.1.1 Descripción de la Startup
+
+
+APX-4 es una startup fundada por estudiantes de la Universidad Peruana de Ciencias Aplicadas (UPC), con la misión de revolucionar la educación en el Perú mediante soluciones tecnológicas accesibles y de alto impacto. 
+
+Nuestro producto principal, LearnHive, es una plataforma integral de análisis y gestión educativa diseñada específicamente para los institutos de Lima Metropolitana que carecen de un sistema unificado. 
+
+Para los profesores, ofrecemos un dashboard intuitivo que les permite supervisar el estado general de sus cursos en tiempo real. Esta visión integral les facilita el monitoreo continuo del progreso del aula, asegurando que siempre tengan una visión general del estado de su clase. 
+
+Por otro lado, para los alumnos, proporcionamos un portal de acceso seguro donde pueden visualizar sus propias estadísticas y progreso académico de forma clara y transparente, así como acceder a herramientas que les permitan organizar mejor sus actividades y tiempo. Este acceso empodera a los estudiantes, dándoles mayor control sobre su educación. 
+
+- Misión: Potenciar el éxito académico en los institutos de Lima Metropolitana mediante una plataforma de apoyo educativo intuitiva y poderosa. Brindamos a los educadores las herramientas para tomar decisiones proactivas e impactar positivamente en el aprendizaje de cada estudiante. 
+
+- Visión: Ser la plataforma de gestión educativa de referencia en Lima Metropolitana, reconocida por transformar el ambiente académico para un mejor desempeño. elevando la calidad de la enseñanza y convirtiendo a los institutos en centros de innovación pedagógica. 
 ### 1.1.2 Perfiles de integrantes del equipo
+
+<table>
+  <tr>
+    <th colspan="2"> Jose Antonio Alejo Cardenas </th>
+  </tr>
+  <tr>
+    <td> <img src="./images/chapter-1/jose_profile_picture.jpeg" alt="Jose Alejo" style="width: 500px; height: auto;"> </td>
+    <td>Soy José Alejo Cárdenas, estudiante de Ingeniería de Software en el séptimo ciclo en la UPC, perteneciente al décimo superior. Desde pequeño he sentido fascinación por la tecnología, en especial por el desarrollo, funcionamiento y seguridad del software. Tengo formación en lenguajes de programación como Java, JavaScript, Python y C++, así como en gestión de bases de datos (Microsoft SQL Server y MongoDB). Manejo entornos de desarrollo como IntelliJ IDEA Ultimate y experiencia en sistemas operativos (Windows y Kali Linux). También cuento con conocimientos en ensamblaje y mantenimiento de hardware, comprendiendo el funcionamiento técnico de los equipos. Me caracterizo por mi comunicación efectiva, organización y trabajo colaborativo, cualidades que aportan dinamismo y sinergia en proyectos grupales. Entre mis principales intereses se encuentran el desarrollo backend con Spring Boot, la ciberseguridad y la optimización de sistemas. En lo personal, disfruto de entrenar en el gimnasio, jugar videojuegos y compartir momentos con amigos. Para el proyecto, aportaré organización, comunicación e inspiración a lo largo de todo su desarrollo. </td>
+  </tr>
+  <tr>
+    <th colspan="2"> Sebastián Omar Real Calderón </th>
+  </tr>
+  <tr>
+    <td> <img src="./images/chapter-1/sebastian_profile_picture.jpeg" alt="Sebastian Real" style="width: 500px; height: auto;"> </td>
+    <td> Soy Sebastián Real Calderón, estudiante de Ingeniería de Software. Tengo conocimiento de diferentes lenguajes de programación, como C#, C++ y Java. Mi mayor objetivo al desarrollar software es crear una experiencia de usuario con la que los consumidores puedan sentirse satisfechos al trabajar con nuestras aplicaciones. Asimismo, aspiro a ser un buen participante al mantener una comunicación constante con mis compañeros, resolviendo problemas y apoyando a quién lo necesite para crear un ambiente cómodo para todos.  </td>
+  </tr>
+  <tr>
+    <th colspan="2"> Omar Luquillas Asto </th>
+  </tr>
+  <tr>
+    <td> <img src="./images/chapter-1/omar_profile_picture.jpg" alt="Omar Luquillas" style="width: 500px; height: auto;"> </td>
+    <td> Soy Omar Luquillas Asto, estudiante de la carrera de Ingeniería de Software. Elegí esta carrera porque me apasiona la tecnología, el desarrollo de software y la programación. Tengo conocimientos en lenguajes de programación como C++, Python y Java. Me considero una persona investigadora, ya que me gusta aprender cosas nuevas y siempre estoy en busca de soluciones creativas e innovadoras que generen un impacto positivo en la vida de las personas. Además, valoro el trabajo en equipo, soy responsable y me comprometo a cumplir con mis tareas de manera eficiente.  </td>
+  </tr>
+  <tr>
+    <th colspan="2">Eric Marlon Olivera Barzola </th>
+  </tr>
+  <tr>
+    <td> <img src="images/chapter-1/eric_profile_picture.png" alt="Eric Olivera" style="width: 500px; height: auto;"> </td>
+    <td>Soy Eric Marlon Olivera Barzola, estudiante de Ingeniería de Software del séptimo ciclo, con un interés particular en la ciberseguridad. A lo largo de mi formación he adquirido experiencia en diferentes lenguajes de programación como C#, C++ y Java. Me motiva desarrollar soluciones que no solo sean funcionales, sino que también transmitan confianza y seguridad a los usuarios.  </td>
+  </tr>
+  <tr>
+    <th colspan="2">Wilder Gonzalo Aliaga Urbina</th>
+  </tr>
+  <tr>
+    <td> <img src="images/chapter-1/gonzalo-profile-picture.png" alt="Wilder Aliaga" style="width: 500px; height: auto;"> </td>
+    <td> Como estudiante universitario de 20 años y cursando la carrera de Ingeniería de Software, tengo una sólida base en programación en C++, Python, HTML y CSS, además de habilidades en creatividad y organización grupal. Mi enfoque está en fomentar un ambiente de aprendizaje eficiente y participativo en equipo. Me apasiona encontrar soluciones innovadoras y siempre estoy dispuesto a aprender nuevas tecnologías que potencien mis proyectos. He trabajado en proyectos colaborativos donde la comunicación y la planificación fueron claves para lograr buenos resultados. Mi objetivo es seguir creciendo profesionalmente mientras contribuyo activamente al desarrollo de iniciativas tecnológicas con impacto positivo. </td>
+  </tr>
+</table>
 
 ## 1.2 Solution Profile
 ### 1.2.1 Nombre del producto
+
+El producto desarrollado se denomina LearnHive. LearnHive busca ofrecer una herramienta digital integral que facilite la gestión de grupos, actividades y métricas de desempeño estudiantil, adaptándose a las necesidades de docentes y estudiantes en entornos que carecen de plataformas propias. 
+
 ### 1.2.2 Antecedentes y problemática
+
+**1. What / ¿QUÉ?**
+
+- ¿Cuál es el problema? 
+
+El problema principal es la falta de un entorno educativo digital unificado y accesible en muchos institutos de Lima, lo que resulta en una gestión docente ineficiente (uso de herramientas dispersas como WhatsApp y correo), dificultad para centralizar y evaluar el trabajo de los estudiantes, y una incapacidad para obtener una visión clara del rendimiento académico de la clase. Esto lleva a una experiencia de aprendizaje fragmentada y reactiva, tanto para profesores como para alumnos. 
+
+- ¿Cuál es la relación con la persona en cuestión? 
+
+La relación se establece a través del instituto, que adopta LearnHive como su plataforma oficial. El profesor es nuestro usuario principal y cliente directo, ya que es quien gestiona los cursos, califica y analiza el desempeño. El profesor utiliza LearnHive para estructurar su curso, comunicarse con los estudiantes y transformar su rol de evaluador reactivo a gestor proactivo del aprendizaje. El estudiante accede a la plataforma como usuario final, encontrando un espacio centralizado para sus cursos, tareas y calificaciones, permitiéndole gestionar sus trabajos con mayor facilidad. 
+
+**2. When / ¿CUÁNDO?**
+
+- ¿Cuándo sucede el problema? 
+
+El problema ocurre diariamente durante el ciclo académico: 
+
+Para el profesor: Al intentar organizar y publicar materiales para cada clase, al recibir decenas de entregas por diferentes canales, y al momento de calificar y consolidar esas notas manualmente en una hoja de cálculo. También surge al final del ciclo académico, cuando necesita analizar las notas para generar reportes de desempeño, un proceso que suele ser manual. 
+
+Para el estudiante: Al no tener un lugar claro donde consultar las tareas, materiales o fechas de entrega, y al tener que enviar sus trabajos a través de medios informales que no garantizan su recepción correcta. Así como no tener una plataforma que unifique todas las funcionalidades del sistema educativo. 
+
+- ¿Cuándo utiliza el cliente el producto? 
+
+El profesor lo usa de forma constante para revisar avances, publicar anuncios y/o trabajos y calificar entregas. De la misma manera, puede ver el desempeño de sus alumnos en tiempo real con métricas que se actualizan diariamente. 
+
+El estudiante accede a la plataforma a diario para verificar sus cursos, las tareas pendientes y los anuncios nuevos, y de manera puntual para subir sus entregas antes de la fecha límite y consultar sus calificaciones. 
+
+**3. Where / ¿DÓNDE?**
+
+- ¿Dónde está el cliente cuando usa el producto? 
+
+Tanto profesores como estudiantes acceden a LearnHive principalmente desde sus dispositivos móviles y computadoras portátiles o de escritorio, desde cualquier lugar con conexión a internet: en el instituto, en sus hogares o en movimiento. 
+
+- ¿Dónde surge el problema? 
+
+El problema surge en el entorno educativo mismo: 
+
+En la sala de profesores y el domicilio del docente, donde se invierten tiempo en organizar, calificar y compilar información de manera manual. 
+
+En el entorno del estudiante, que se ve obligado a navegar entre múltiples apps y chats para gestionar su aprendizaje. 
+
+**4. Who / ¿QUIÉN?**
+
+- ¿Quiénes se ven involucrados en el problema? 
+
+El problema involucra directamente a los profesores y estudiantes, quienes son los más afectados por la gestión educativa desorganizada. Los profesores cargan con la pesada administración manual, mientras que los estudiantes enfrentan una experiencia de aprendizaje fragmentada. Indirectamente, los directores de los institutos y los padres de familia también se ven perjudicados, ya que carecen de acceso claro a datos sobre el rendimiento. 
+
+- ¿Cuáles son las causas del problema? 
+
+La causa fundamental del problema es una brecha digital y económica que limita el acceso a herramientas tecnológicas asequibles y fáciles de usar, junto con una falta de capacitación que genera resistencia al cambio en muchos entornos educativos. 
+
+**5. Why / ¿POR QUÉ?**
+
+- ¿Por qué sucede el problema? 
+
+Sucede porque muchos institutos de Lima carecen de los recursos financieros y técnicos para desarrollar, implementar y mantener una plataforma educativa propia y robusta. Las soluciones existentes en el mercado pueden ser demasiado costosas, genéricas o complejas para sus necesidades específicas. Esto los fuerza a depender de herramientas gratuitas pero no diseñadas para la educación (servicios de mensajería o correo electrónico), lo que genera desorganización, pérdida de información y una carga administrativa insostenible para el docente. Asi mismo, porque las plataformas actuales (ej. Google Classroom, Blackboard) están enfocadas en universidades o colegios con mayores recursos tecnológicos y no contemplan las necesidades específicas de los institutos académicos, como la simplicidad, la creación ágil de grupos con códigos de ingreso o la disponibilidad de métricas personalizadas. 
+
+**6. How / ¿CÓMO?**
+
+- ¿En qué condiciones los clientes usan nuestro producto? 
+
+Los clientes utilizan LearnHive principalmente a través de un navegador web o una aplicación móvil, dependiendo de una conexión a internet accesible. La plataforma está diseñada para ser usada de forma asíncrona, permitiendo que profesores y estudiantes interactúen con el contenido en los momentos que más les convengan. La usabilidad es fundamental, por lo que la interfaz debe ser extremadamente intuitiva para garantizar una adopción rápida y sin fricciones, minimizando la necesidad de una capacitación extensa. 
+
+- ¿Cómo se diferencia el problema del estado normal (óptimo)? 
+
+En un estado óptimo, los estudiantes y docentes deberían gestionar grupos, tareas y métricas desde una única plataforma sencilla y adaptada a sus necesidades. Actualmente, deben recurrir a múltiples aplicaciones externas, lo que genera desorganización, duplicidad de esfuerzos y pérdida de información. 
+
+- ¿La tendencia en la que aparece el problema es aleatoria o sigue un patrón? 
+
+Sigue un patrón claro: aparece en cada ciclo académico, especialmente cuando se requiere colaboración grupal o evaluaciones conjuntas. 
+
+**7. How Much / ¿CUÁNTO?**
+
+- ¿Cuál es la magnitud del problema? 
+
+La magnitud del problema para la educación en Lima es considerable, con una gestión fragmentada que impacta a miles de docentes y estudiantes. El problema surge, en gran parte, por la falta de una plataforma unificada, lo que fuerza a profesores y alumnos a depender de herramientas informales como WhatsApp. Según un estudio de la Contraloría General de la República (2022), el 56.5% de los estudiantes en colegios públicos reporta que sus profesores usan esta aplicación para impartir clases, lo que evidencia una realidad de desorganización y pérdida de información. Esta dependencia de múltiples canales no solo genera una carga administrativa insostenible para el docente, sino que también crea una experiencia de aprendizaje dispersa y reactiva para el estudiante, lo que subraya la necesidad de una solución centralizada y accesible como LearnHive. 
+
 ### 1.2.3 Lean UX Process
+
+El Lean UX Process es una metodología de diseño centrada en el usuario que busca trabajar de forma práctica y ágil. Su enfoque se basa en realizar ciclos cortos de creación, prueba y mejora, lo que permite validar con rapidez si una idea realmente responde a las necesidades de los usuarios. A diferencia de los métodos tradicionales que requieren mucha documentación, Lean UX da más importancia a la retroalimentación constante y al trabajo en equipo, asegurando que el producto evolucione de acuerdo con la experiencia real de los estudiantes y docentes. De esta forma, se pueden identificar y corregir fallas a tiempo, evitando desperdicio de recursos y garantizando una solución más cercana a lo que el usuario necesita. 
+
 #### 1.2.3.1 Lean UX Problem Statement
+
+Nuestra plataforma tiene como propósito optimizar la gestión académica y la interacción entre estudiantes y docentes de institutos en un único espacio digital. Hemos detectado que gran parte de los usuarios continúa utilizando herramientas aisladas y poco integradas, como WhatsApp, correo electrónico o carpetas en la nube, lo que complica la organización de grupos, asignaciones y entregas. Este escenario provoca desorden, desperdicio de tiempo y una comunicación menos efectiva, afectando en el desempeño de los estudiantes y aumentando la carga administrativa de los docentes. ¿Cómo podemos mejorar nuestra solución para que los estudiantes y docentes de institutos coordinen sus actividades académicas de forma más ágil, evaluando el éxito mediante una mayor participación en los grupos, un mejor cumplimiento de las tareas y una reducción del tiempo dedicado a la organización? 
+
 #### 1.2.3.2 Lean UX Assumptions
+
+**User Assumptions (Suposiciones de Usuario)**
+
+- ¿Quién es el usuario?: Los usuarios principales son docentes y estudiantes de institutos de Lima Metropolitana. Los profesores buscan simplificar la gestión de cursos, centralizar entregas y contar con métricas claras de rendimiento. Los estudiantes necesitan un espacio único para organizar sus actividades, consultar tareas y visualizar su progreso académico. 
+
+- ¿Dónde encaja nuestro producto en su trabajo o vida?: LearnHive se integra como una herramienta de uso cotidiano en el entorno académico del instituto. Para los profesores, funciona como un panel central para planificar, evaluar y dar seguimiento al rendimiento de la clase. Para los estudiantes, se convierte en el espacio digital donde concentran todas sus responsabilidades académicas. 
+
+- ¿Qué problemas resuelve nuestro producto?: Resuelve la dispersión de herramientas informales (WhatsApp, correo, hojas de cálculo), la dificultad para consolidar información académica y la falta de indicadores accesibles para la toma de decisiones pedagógicas. 
+
+- ¿Cuándo y cómo se usa nuestro producto?: El docente utiliza la plataforma de manera continua durante el ciclo académico: al crear grupos, publicar materiales, calificar entregas y revisar métricas de desempeño. El estudiante accede diariamente para consultar tareas, subir trabajos y verificar sus calificaciones. 
+
+- ¿Qué características son importantes?: Las funcionalidades clave incluyen la gestión de grupos, publicación de materiales y tareas, calificación centralizada, métricas académicas en tiempo real y un portal de estudiante con acceso seguro a estadísticas personalizadas. 
+
+- ¿Cómo debe verse y comportarse nuestro producto?: Debe tener un diseño simple, profesional e intuitivo, con tiempos de respuesta rápidos y una experiencia de navegación que minimice la curva de aprendizaje, fomentando la adopción inmediata tanto por profesores como estudiantes. 
+
+**Business Assumptions (Suposiciones de Negocio)**
+
+- Necesidades y problemas: Los institutos requieren una plataforma accesible y adaptada a su realidad económica y tecnológica, que mejore la organización académica sin generar altos costos de implementación. 
+
+- Plataforma: Una aplicación web y móvil garantiza accesibilidad y flexibilidad en distintos entornos de uso. 
+
+- Segmentación: El público objetivo está conformado por docentes y estudiantes de institutos académicos de Lima Metropolitana. 
+
+- Comportamientos: Se espera que los usuarios valoren la simplicidad, la centralización de funciones y la posibilidad de contar con métricas claras y accionables. 
+
+- Beneficios: Los usuarios obtendrán mayor organización, reducción del tiempo administrativo, mejora en la comunicación y un seguimiento más claro del rendimiento académico. 
+
+- Captación de clientes: La estrategia de captación incluye presentaciones directas a directivos de institutos, convenios institucionales, además de difusión en redes sociales. 
+
+- Modelos de ingresos: LearnHive se plantea como un sistema ofrecido bajo licenciamiento o suscripción a institutos, generando sostenibilidad económica para el startup. 
+
+- Competencia: Las plataformas existentes como Google Classroom o Blackboard se dirigen a universidades y colegios con mayores recursos, lo que deja un espacio poco atendido en los institutos. 
+
+- Ventaja competitiva: LearnHive destaca por su enfoque en la simplicidad, la adaptabilidad al contexto de los institutos y la integración de métricas personalizadas que no suelen estar disponibles en soluciones genéricas.
+
+**Technical Assumptions (Suposiciones Técnicas)**
+
+- Tecnología utilizada: Se emplearán tecnologías web modernas y escalables que aseguren estabilidad y compatibilidad con navegadores y dispositivos móviles. 
+
+- Integraciones: El sistema podrá integrarse con fuentes externas de datos o aceptar carga manual, asegurando flexibilidad para distintos niveles de digitalización institucional. 
+
+- Escalabilidad: La infraestructura estará diseñada para crecer en usuarios y datos sin afectar la velocidad de respuesta. 
+
+**Market Assumptions (Suposiciones de Mercado)**
+
+- Tamaño del mercado: El mercado objetivo incluye a los institutos de Lima Metropolitana que actualmente no cuentan con plataformas propias de gestión académica. 
+
+- Competencia: Los competidores son plataformas más genéricas que no se adaptan a las necesidades específicas de los institutos. 
+
+- Tendencias: Existe una tendencia clara hacia la digitalización de la educación en el nivel técnico y superior, impulsada por la necesidad de modernización y eficiencia en la gestión académica. 
+
+**Design Assumptions (Suposiciones de Diseño)**
+
+- Interacción del usuario: La interfaz debe permitir una navegación sencilla y accesible para usuarios con distintos niveles de familiaridad tecnológica. 
+
+- Experiencia del usuario: El diseño debe priorizar la claridad visual y la reducción de pasos innecesarios en cada acción. 
+
+- Colores y tipografía: Se buscará una paleta que transmita seriedad y confianza, acompañada de tipografías modernas y legibles. 
+
+- Preferencias visuales: El diseño debe ser atractivo, pero sin sobrecargar la vista; el enfoque debe estar en las funciones académicas principales. 
+
+- Prototipos y pruebas: Se realizarán validaciones de las funcionalidades principales mediante pruebas de usabilidad, con el objetivo de asegurar que la plataforma cumpla con las expectativas de los usuarios. 
+
 #### 1.2.3.3 Lean UX Hypothesis
+
+Hypothesis Statement 01: 
+
+- Creemos que los docentes y estudiantes de institutos necesitan una plataforma centralizada para gestionar sus actividades académicas y mantener una comunicación más fluida. 
+
+- Sabremos que estamos en lo correcto cuando veamos un uso constante de la plataforma en el día a día académico y recibamos retroalimentación positiva sobre la organización que esta ofrece. 
+
+Hypothesis Statement 02: 
+
+- Creemos que la desarticulación entre las herramientas que actualmente utilizan es la principal causa de desorden y pérdida de información en los institutos. 
+
+- Sabremos que estamos en lo correcto cuando los usuarios dejen de depender de múltiples aplicaciones externas y disminuyan las quejas relacionadas con la desorganización. 
+
+Hypothesis Statement 03: 
+
+- Creemos que permitir la creación y gestión de grupos académicos dentro de la plataforma fomentará una colaboración más activa entre los estudiantes. 
+
+- Sabremos que estamos en lo correcto cuando identifiquemos un incremento en la cantidad de grupos creados y en el nivel de participación dentro de ellos. 
+
+Hypothesis Statement 04: 
+
+- Creemos que ofrecer un módulo para centralizar materiales, tareas y fechas de entrega ayudará a los estudiantes a planificar mejor sus responsabilidades. 
+
+- Sabremos que estamos en lo correcto cuando los estudiantes reporten mayor claridad en la gestión de sus cursos y menos confusión respecto a los plazos. 
+
+Hypothesis Statement 05: 
+
+- Creemos que un sistema de métricas y reportes en tiempo real permitirá a los docentes hacer un seguimiento más eficiente del rendimiento académico de sus estudiantes. 
+
+- Sabremos que estamos en lo correcto cuando los profesores utilicen activamente estas métricas para ajustar sus clases y estrategias pedagógicas. 
+
+Hypothesis Statement 06: 
+
+- Creemos que una interfaz simple e intuitiva facilitará la adopción de la plataforma por parte de usuarios con distintos niveles de familiaridad tecnológica. 
+
+- Sabremos que estamos en lo correcto cuando los nuevos usuarios logren manejar la plataforma de manera autónoma en sus primeras semanas de uso. 
+
+Hypothesis Statement 07: 
+
+- Creemos que mostrar de manera visual los avances y estadísticas individuales motivará a los estudiantes a involucrarse más con su aprendizaje. 
+
+- Sabremos que estamos en lo correcto cuando los estudiantes revisen con frecuencia su panel de progreso y expresen satisfacción con esta funcionalidad. 
+
+Hypothesis Statement 08: 
+
+- Creemos que garantizar la privacidad y seguridad de la información académica será un factor decisivo para la adopción institucional de la plataforma. 
+
+- Sabremos que estamos en lo correcto cuando no existan incidentes de seguridad y los usuarios manifiesten confianza en el manejo de sus datos. 
+
+Hypothesis Statement 09: 
+
+- Creemos que centralizar la entrega y calificación de tareas dentro de la plataforma optimizará la dinámica académica y reducirá la necesidad de usar correos o mensajería externa. 
+
+- Sabremos que estamos en lo correcto cuando los docentes y estudiantes utilicen mayoritariamente esta funcionalidad y se reduzca el uso de canales alternativos para estas actividades. 
+
+Hypothesis Statement 10: 
+
+- Creemos que la creciente tendencia hacia la educación híbrida y digital incrementará la necesidad de contar con soluciones tecnológicas integradas en los institutos. 
+
+- Sabremos que estamos en lo correcto cuando observemos un crecimiento sostenido en el número de instituciones que adoptan la plataforma en ciclos académicos presenciales, híbridos y virtuales. 
+
+Hypothesis Statement 11: 
+
+- Creemos que permitir a los docentes generar un código de acceso único para cada grupo facilitará la integración de estudiantes en el aula virtual. 
+
+- Sabremos que estamos en lo correcto cuando observemos que la mayoría de los estudiantes se registran correctamente mediante este sistema sin requerir asistencia adicional. 
+
+Hypothesis Statement 12: 
+
+- Creemos que la función para que los estudiantes se unan mediante códigos reducirá los errores en el registro y agilizará el manejo de grupos. 
+
+- Sabremos que estamos en lo correcto cuando identifiquemos menos casos de estudiantes que no logran acceder al grupo correcto. 
+
+Hypothesis Statement 13: 
+
+- Creemos que la posibilidad de que los docentes eliminen a alumnos de los grupos ayudará a mantener un control más ordenado de la plataforma virtual. 
+
+- Sabremos que estamos en lo correcto cuando los docentes gestionen cambios de grupo sin generar confusión en el resto de los estudiantes. 
+
+Hypothesis Statement 14: 
+
+- Creemos que las estadísticas globales de los estudiantes permitirán a los docentes monitorear el progreso general de su clase. 
+
+- Sabremos que estamos en lo correcto cuando los profesores consulten estas métricas con frecuencia y las usen para ajustar sus estrategias de enseñanza. 
+
+Hypothesis Statement 15: 
+
+- Creemos que la opción de revisar y calificar tareas dentro de la plataforma optimizará el trabajo docente y reducirá la dependencia de medios externos. 
+
+- Sabremos que estamos en lo correcto cuando los profesores entreguen calificaciones dentro del sistema y disminuya el uso de correos o mensajería externa para enviar resultados. 
+
+Hypothesis Statement 16: 
+
+- Creemos que el acceso de los estudiantes a sus propias métricas de desempeño los motivará a mejorar en sus tareas y actividades. 
+
+- Sabremos que estamos en lo correcto cuando los estudiantes revisen con frecuencia su panel de métricas y reporten mayor claridad sobre su progreso académico. 
+
+Hypothesis Statement 17: 
+
+- Creemos que la centralización de grupos, tareas y calificaciones en un solo espacio reducirá la confusión que suele generar el uso de múltiples aplicaciones. 
+
+- Sabremos que estamos en lo correcto cuando los usuarios manifiesten que ya no necesitan apoyarse en varias herramientas externas para organizar su vida académica. 
+
+Hypothesis Statement 18: 
+
+- Creemos que un dashboard para el docente enfocada en la gestión de grupos y calificaciones facilitará la adopción de la plataforma por parte del profesorado. 
+
+- Sabremos que estamos en lo correcto cuando los docentes logren administrar sus grupos de manera autónoma después de un breve periodo de adaptación. 
+
+Hypothesis Statement 19: 
+
+- Creemos que la visualización de métricas individuales por estudiante ayudará a los docentes a identificar con mayor rapidez a quienes requieren apoyo adicional. 
+
+- Sabremos que estamos en lo correcto cuando los profesores utilicen estas métricas para tomar decisiones pedagógicas y reporten que la detección temprana fue efectiva. 
+
+Hypothesis Statement 20: 
+
+- Creemos que validar la experiencia de estudiantes y docentes mediante pruebas de usabilidad permitirá detectar oportunidades de mejora antes del despliegue final. 
+
+- Sabremos que estamos en lo correcto cuando los resultados de estas pruebas conduzcan a ajustes que incrementen la satisfacción general de los usuarios. 
+
 #### 1.2.3.4 Lean UX Canvas
+
+<img src="./images/chapter-1/LeanUXCanvas.png" alt="Lean UX Canvas">
 
 ## 1.3 Segmentos objetivo
 
+Segmento Objetivo 1: Estudiantes de institutos 
 
+Jóvenes que requieren un entorno educativo digital organizado para acceder a materiales, entregar tareas y monitorear su progreso académico. Necesitan claridad, retroalimentación oportuna y evitar la dispersión de información en múltiples canales. 
+
+Características Demográficas: 
+
+- Edad: 16 a 27 años. 
+
+- Género: Todos los géneros. 
+
+- Ubicación geográfica: Institutos de Lima. 
+
+- Nivel socioeconómico: Clase media-baja. (Acceso a internet básico) 
+
+- Dispositivos de acceso: Smartphones, laptops, tablets. 
+
+ 
+
+Necesidades: 
+
+- Centralización de tareas, materiales y fechas de entrega. 
+
+- Acceso sencillo desde dispositivos móviles con bajo consumo de datos. 
+
+- Retroalimentación clara y rápida sobre sus calificaciones. 
+
+ 
+
+Beneficios clave: 
+
+- Plataforma unificada para todas sus clases y actividades. 
+
+- Notificaciones push para recordatorios importantes. 
+
+- Visualización directa de su desempeño y áreas de mejora. 
+
+ 
+
+Segmento Objetivo 2: Profesores de institutos 
+
+Educadores que necesitan una solución integral para gestionar sus cursos, reducir la carga administrativa y obtener insights sobre el rendimiento estudiantil. Buscan centralizar la comunicación, las entregas y las calificaciones en una plataforma accesible, evitando el uso de herramientas dispersas como WhatsApp o correo electrónico. 
+
+Características Demográficas: 
+
+- Edad: 30 a 60 años. 
+
+- Género: Todos los géneros. 
+
+- Ubicación geográfica: Institutos de Lima (públicos y privados con recursos limitados). 
+
+- Nivel socioeconómico: Clase media (acceso a internet y dispositivos básicos, pero con presupuesto restringido para tecnología educativa). 
+
+- Dispositivos de acceso: Laptops, smartphones, computadoras de escritorio en aulas. 
+
+ 
+
+Necesidades: 
+
+- Automatización de procesos administrativos (calificaciones, recepción de entregas). 
+
+- Análisis de datos del rendimiento estudiantil para adaptar estrategias pedagógicas. 
+
+- Comunicación centralizada y eficiente con estudiantes. 
+
+ 
+
+Beneficios clave: 
+
+- Reducción de tiempo en gestión manual con herramientas integradas. 
+
+- Métricas claras del progreso de cada estudiante y del grupo. 
+
+- Interfaz intuitiva que requiere mínima capacitación. 
 
 # Capítulo II: Requirements & Analysis
 
 ## 2.1 Competidores
+
+- Sistema Saberes 
+
+ 
+
+ <img src="./images/chapter-2/sistema_saberes_logo.png" alt="sistema_saberes_logo" width="400"/>
+
+ 
+
+ 
+
+Sistema Saberes se posiciona como una solución integral de gestión educativa desarrollada localmente para el mercado peruano. Su plataforma abarca todos los procesos operativos de institutos superiores, centros de formación técnica y escuelas de negocios, desde la admisión y matrícula hasta la graduación y certificación. Está construido para cumplir con las normativas del Ministerio de Educación (MINEDU) y los requisitos de SUNEDU, offering módulos especializados en control académico (calificaciones, asistencias, horarios), gestión financiera (pensiones, cobranza) y comunicación institucional. Incluye herramientas de reportes básicos que permiten extraer datos históricos, pero su fortaleza radica en la centralización de la información administrativa más que en el análisis pedagógico profundo. 
+
+ 
+
+ 
+
+- EduSoftNet 
+
+ 
+
+ <img src="./images/chapter-2/edu_soft_net_logo.png" alt="edu_soft_net_logo" width="400"/>
+
+ 
+
+EduSoft es un software modular de gestión educativa que ofrece soluciones escalables para colegios, institutos y academias en Perú. Su propuesta de valor se centra en la flexibilidad, allowing a las instituciones contratar solo los módulos que necesiten, como control académico, gestión financiera o library management. La plataforma genera reportes gerenciales predefinidos que ayudan en la toma de decisiones administrativas, pero su capacidad de análisis de datos pedagógicos es limitada. Está diseñado para instituciones que priorizan la optimización de procesos operativos por sobre la innovación en la enseñanza basada en datos. 
+
+ 
+
+ 
+
+- SieWeb 
+
+ 
+<img src="./images/chapter-2/sie_web_logo.png" alt="sie_web_logo" width="400"/>
+ 
+
+ 
+
+SieWeb es un sistema integral de gestión diseñado para instituciones de educación superior en Perú, including institutos tecnológicos y escuelas de posgrado. Su plataforma es altamente customizable, permitiendo adaptarse a flujos de trabajo específicos y mallas curriculares complejas. Ofrece módulos para la gestión del ciclo de vida del estudiante, prácticas preprofesionales, y generación de reportes personalizados para la alta dirección. Aunque incluye dashboards gerenciales, estos están orientados a métricas operativas y financieras, no al desempeño académico granular o a la intervención pedagógica temprana. SieWeb es ideal para instituciones que necesitan un ERP educativo a medida, pero no una herramienta ágil de análisis didáctico. 
+
+### 2.1.1 Análisis Competitivo 
+
+<table border="1" cellspacing="0" cellpadding="6">
+  <tr>
+    <th colspan="6"> Competitive Analysis Landscape </th>
+  </tr>
+  <tr>
+    <td colspan="2" rowspan="2"> ¿Por qué llevar a cabo este análisis? </td>
+    <td colspan="4"> Pregunta </td>
+  </tr>
+  <tr>
+    <td colspan="4"> Este análisis se realiza para entender cómo se posiciona nuestro proyecto frente a competidores consolidados, identificar fortalezas y debilidades propias, descubrir oportunidades de diferenciación en el mercado de IoT para motocicletas y anticipar amenazas que puedan afectar la adopción del producto. </td>
+  </tr>
+  <tr>
+    <td colspan="2"> Productos </td>
+    <td style="text-align: center;"> <div>LearnHive</div> <img src="./images/chapter-2/learn_hive_logo.png" alt="learn_hive_logo" width="120"/> </td>
+    <td style="text-align: center;"> <div>Sistema Saberes</div> <img src="./images/chapter-2/sistema_saberes_logo.png" alt="sistema_saberes_logo" width="120"/> </td>
+    <td style="text-align: center;"> <div>EduSoftNet</div> <img src="./images/chapter-2/edu_soft_net_logo.png" alt="edu_soft_net_logo" width="120"/> </td>
+    <td style="text-align: center;"> <div>SieWeb</div> <img src="./images/chapter-2/sie_web_logo.png" alt="sie_web_logo" width="120"/> </td>
+  </tr>
+  <tr>
+    <td rowspan="2">Perfil</td>
+    <td>Overview</td>
+    <td>Plataforma especializada en analytics y gestión del desempeño académico.</td>
+    <td>ERP educativo integral (gestión administrativa y académica).</td>
+    <td>Software modular de gestión educativa (académica y financiera).</td>
+    <td>Sistema customizable para educación superior (énfasis en procesos complejos).</td>
+  </tr>
+  <tr>
+    <td>Ventaja competitiva (¿Qué valor ofrece a los clientes?)</td>
+    <td>Dashboards, alertas tempranas, intervención proactiva y portal estudiantil.</td>
+    <td>Cumplimiento normativo integrado (MINEDU/SUNEDU) y comunicación centralizada.</td>
+    <td>Precios accesibles, módulos escalables y gestión financiera robusta.</td>
+    <td>Adaptación total a flujos complejos (prácticas, titulación) y reportes personalizados.</td>
+  </tr>
+  <tr>
+    <td rowspan="2">Perfil de Marketing</td>
+    <td>Mercado Objetivo</td>
+    <td>Institutos técnicos/superiores en Lima que priorizan la mejora pedagógica y ya tienen un sistema base.</td>
+    <td>Institutos peruanos que buscan un ERP integral para automatizar procesos administrativos y académicos.</td>
+    <td>Institutos y colegios con budgets ajustados que necesitan módulos específicos.</td>
+    <td>Institutos con modelos educativos únicos o procesos complejos (ej: escuelas de posgrado).</td>
+  </tr>
+  <tr>
+    <td>Estrategias de Marketing</td>
+    <td>Marketing de contenidos (blog, webinars), demostraciones personalizadas, alianzas con asociaciones educativas.</td>
+    <td>Ventas directas, referencias boca a boca, participación en ferias educativas.</td>
+    <td>Precios competitivos, demostraciones gratuitas, enfoque en flexibilidad.</td>
+    <td>Enfoque en customización, ventas B2B, casos de estudio con clientes grandes.</td>
+  </tr>
+  <tr>
+    <td rowspan="3">Perfil de Producto</td>
+    <td>Productos & Servicios</td>
+    <td>Plataforma de analytics, dashboards interactivos, alertas tempranas, portal de estudiantes, soporte técnico.</td>
+    <td>ERP educativo (admisión, matrícula, calificaciones, financiero), reportes básicos, soporte.</td>
+    <td>Módulos de gestión académica, financiera, library, reportes predefinidos, soporte.</td>
+    <td>ERP customizable, gestión de prácticas, titulación, dashboards gerenciales, soporte técnico.</td>
+  </tr>
+  <tr>
+    <td>Precios & Costos</td>
+    <td>Suscripción mensual por usuario (asequible). Bajo costo de implementación.</td>
+    <td>Licencia anual costosa. Alta inversión inicial e implementación.</td>
+    <td>Precios por módulo (accesible). Costo de implementación medio.</td>
+    <td>Precios altos por customización. Implementación larga y costosa.</td>
+  </tr>
+  <tr>
+    <td>Canales de distribución</td>
+    <td>Ventas online, canal directo (equipo comercial), partners estratégicos.</td>
+    <td>Ventas directas, canal telefónico, sitio web.</td>
+    <td>Ventas directas, sitio web, redes sociales.</td>
+    <td>Ventas B2B, consultores educativos, canal directo.</td>
+  </tr>
+  <tr>
+    <td rowspan="4">Análisis SWOT</td>
+    <td>Fortalezas</td>
+    <td>Especialización en analytics, usabilidad, implementación rápida, precio accesible.</td>
+    <td>Conocimiento normativo peruano, solución integral, presencia en el mercado.</td>
+    <td>Precios flexibles, modularidad, experiencia en el mercado.</td>
+    <td>Customización, manejo de procesos complejos, clientes grandes.</td>
+  </tr>
+  <tr>
+    <td>Debilidades</td>
+    <td>Dependencia de integración con otros sistemas, marca desconocida.</td>
+    <td>Interface menos intuitiva, analytics limitados, alto costo.</td>
+    <td>Analytics básicos, diseño no moderno, enfoque administrativo.</td>
+    <td>Precio muy alto, implementación lenta, no es ágil para docentes.</td>
+  </tr>
+  <tr>
+    <td>Oportunidades</td>
+    <td>Creciente demanda de edtech, aliarse con competidores como complemento, expansión a otras ciudades.</td>
+    <td>Cross-selling a clientes existentes, mejorar módulos de analytics.</td>
+    <td>Upselling de módulos, integración con herramientas de analytics.</td>
+    <td>Vender módulos de analytics como add-on, asociarse con consultoras.</td>
+  </tr>
+  <tr>
+    <td>Amenazas</td>
+    <td>Competidores agreguen analytics, resistencia al cambio en docentes, entrada de competidores globales.</td>
+    <td>Saturación del mercado de ERPs.</td>
+    <td>Competidores con precios más agresivos, avance de soluciones en la nube.</td>
+    <td>Aversión a altos costos post-pandemia, competidores con soluciones más ágiles.</td>
+  </tr>
+</table>
+
+
+### 2.1.2 Estrategias y tácticas frente a competidores 
+
+#### Estrategia contra Sistema Saberes
+
+- Estrategia: Especialización Académica y Agilidad de Implementación. 
+
+  - Posicionar a LearnHive como la solución que eleva la gestión académica con analítica avanzada, detección temprana de riesgos y mejora del desempeño, destacando rapidez y facilidad en la adopción. 
+
+- Tácticas: 
+
+  - Implementación Rápida y Guiada : Ofrecer un proceso express de despliegue con acompañamiento técnico para que las instituciones puedan empezar a usar dashboards y reportes académicos en pocas semanas. 
+
+  - Herramientas de Analítica Independiente: Proveer un módulo de importación de datos sencillo (Excel, CSV, Google Sheets), que permite a las instituciones aprovechar LearnHive sin necesidad de procesos complejos. 
+
+  - Casos de Éxito Académicos : Publicar resultados concretos de clientes: reducción de deserción, mejora en el rendimiento académico, aumento en la satisfacción de los estudiantes.  
+
+  - Campañas de Valor Educativo: Marketing de contenidos enfocado en la promesa: “De datos a decisiones académicas”. Artículos, webinars y guías prácticas para directores y coordinadores académicos. 
+
+  - Modelo de Precios Escalable: Planes accesibles por institución o por número de estudiantes, con una entrada de bajo costo y beneficios claros en términos de retorno académico. 
+
+  - Implementación Rápida y Guiada : Ofrecer un proceso express de despliegue con acompañamiento técnico para que las instituciones puedan empezar a usar dashboards y reportes académicos en pocas semanas. 
+
+  - Herramientas de Analítica Independiente: Proveer un módulo de importación de datos sencillo (Excel, CSV, Google Sheets), que permite a las instituciones aprovechar LearnHive sin necesidad de procesos complejos. 
+
+  - Casos de Éxito Académicos : Publicar resultados concretos de clientes: reducción de deserción, mejora en el rendimiento académico, aumento en la satisfacción de los estudiantes.  
+
+  - Campañas de Valor Educativo: Marketing de contenidos enfocado en la promesa: “De datos a decisiones académicas”. Artículos, webinars y guías prácticas para directores y coordinadores académicos. 
+
+  - Modelo de Precios Escalable: Planes accesibles por institución o por número de estudiantes, con una entrada de bajo costo y beneficios claros en términos de retorno académico.
+
+
+#### Estrategia contra EduSoft (El Competidor Modular y Accesible) 
+
+- Estrategia: Superioridad en Valor y Enfoque. 
+
+  - Destacar que la "flexibilidad" de EduSoft sigue siendo administrativa, mientras que LearnHive ofrece un valor cualitativamente superior: la mejora de los resultados de aprendizaje. 
+
+- Tácticas: 
+
+  - Comparativa de Valor (Value Comparison): Desarrollar una comparativa sutil (para uso interno del equipo de ventas) que muestre cómo LearnHive, por un precio similar o ligeramente superior a un módulo de EduSoft, ofrece un retorno de la inversión (ROI) mucho mayor al impactar directamente en la retención y el éxito estudiantil. 
+
+  - Enfoque en el "Dolor" del Profesor: Mientras EduSoft se vende a la administración, LearnHive debe marketing directo a los docentes. Talleres y webinars gratuitos sobre "Pedagogía Data-Driven" para crear demanda desde abajo hacia arriba. El profesor convencido será el mejor aliado interno. 
+
+  - Prueba Gratuita Irresistible: Ofrecer una prueba de 30 días con data de demostración rica e insights inmediatos. Contrastar con la posible complejidad y tiempo que lleva configurar los módulos de EduSoft. 
+
+  - Case Studies con Énfasis en Resultados: Documentar y promocionar casos de éxito con métricas concretas: "Con LearnHive, el Instituto XYZ identificó al 20% de su población en riesgo y logró recuperar al 15% gracias a intervenciones tempranas." EduSoft muestra funcionalidades; LearnHive debe mostrar resultados. 
+
+#### Estrategia contra SieWeb (El Competidor Personalizable y Complejo) 
+
+- Estrategia: Agilidad y Simplicidad. 
+
+  - Posicionar a SieWeb como una solución "pesada", "lenta" y "costosa" para la necesidad específica de analytics. LearnHive es la alternativa "ágil", "moderna" y "centrada en el usuario". 
+
+- Tácticas: 
+
+  - Messaging de "Time-to-Value": Crear mensajes contundentes: "¿6 meses para un dashboard? Con LearnHive, tiene insights valiosos en 6 días." o "La customización compleja vs. la inteligencia inmediata". Atacar su punto más débil: la velocidad. 
+
+  - Precio Predecible vs. Costo Variable: Enfatizar el modelo de suscripción simple y predecible de LearnHive vs. los costos impredecibles de customización y consultoría de SieWeb. Apelar al budget controlado de los institutos. 
+
+  - Show, Don't Tell: Utilizar demostraciones en vivo para mostrar la intuitividad de LearnHive. Pedirle al cliente que imagine tener que solicitar cada nuevo reporte o cambio a un consultor de SieWeb vs. obtenerlo ellos mismos con clics. 
+
+  - Target en los Decisores de Línea Media: SieWeb se vende a la alta dirección. LearnHive debe hablarle al Jefe de Programa, al Coordinador Académico, al responsable de calidad educativa, que son quienes sufren la falta de agilidad y necesitan datos rápidos para su trabajo diario. 
+
 ## 2.2 Entrevistas
+### 2.2.1 Diseño de entrevistas
+
+#### Segmento Objetivo 1: Estudiantes de Institutos 
+
+Preguntas principales 
+
+1. ¿Podrías contar un poco sobre ti? (edad, carrera, lugar de residencia, ocupación). 
+
+2. ¿Cómo sueles organizar tus tareas y trabajos en grupo durante el ciclo académico? 
+
+3. ¿Qué plataformas o aplicaciones usas más para estudiar o coordinar trabajos en grupo? (por ejemplo: WhatsApp, Meet, etc). 
+
+4. ¿Te resulta sencillo mantener un orden entre tareas y comunicaciones? ¿Por qué sí o por qué no? 
+
+5. ¿Qué te daría más confianza en una plataforma académica: facilidad de uso, notificaciones, métricas de avance u otra cosa? 
+
+6. ¿Qué tan importante es para ti recibir una retroalimentación rápida sobre tus entregas o calificaciones? 
+
+Preguntas complementarias 
+
+1. ¿Usas más tu celular, laptop o tablet cuando estudias? ¿Por qué? 
+
+2. ¿Qué experiencias positivas o negativas has tenido usando plataformas como Moodle, Canvas o Classroom? 
+
+3. ¿En qué casos te ha resultado difícil organizarte o cumplir con tus entregas a tiempo? 
+
+4. ¿Qué tan valioso sería para ti poder ver tu progreso académico en gráficos o estadísticas simples? 
+
+5. ¿Te frustra depender de varias aplicaciones distintas para tu desempeño académico?
+
+
+#### Segmento Objetivo 2: Profesores de Institutos 
+
+Preguntas principales 
+
+1. Para comenzar, ¿podría contarme un poco sobre usted? (edad, distrito de residencia, área de enseñanza). 
+
+2. ¿Qué herramientas utiliza actualmente para planificar, compartir materiales y gestionar tareas con sus estudiantes? 
+
+3. ¿Qué parte de su trabajo fuera del aula le consume más tiempo (revisar entregas, calificar, dar seguimiento a alumnos, etc.)? 
+
+4. ¿Cómo realiza actualmente el seguimiento del desempeño de sus estudiantes? 
+
+5. Si pudiera elegir, ¿qué funcionalidad sería la más valiosa en una plataforma académica: centralización de tareas, estadísticas, comunicación o retroalimentación automatizada? 
+
+6. ¿Qué tan cómodo se sentiría con una plataforma que genere métricas claras y fáciles de entender sobre el progreso de cada estudiante? 
+
+  
+
+Preguntas complementarias 
+
+1. ¿Qué dispositivo utiliza más a menudo para trabajar: laptop, PC o smartphone? 
+
+2. ¿Qué medios emplea para comunicarse con sus estudiantes (WhatsApp, correo, etc)? ¿Qué ventajas o problemas encuentra en ellos? 
+
+3. ¿Ha usado antes plataformas educativas? ¿Qué le funcionó bien y qué le resultó poco práctico? 
+
+4. ¿Qué tipo de actividades digitales o interactivas le gustaría integrar en sus clases pero hoy le resulta difícil hacerlo? 
+
+5. ¿Qué tan difícil considera la curva de aprendizaje de nuevas plataformas educativas? 
+
+### 2.2.2 Registro de entrevistas
+
+## Profesores de instituto:
+
+# Entrevista 1: Profesor de Instituto
+
+| Campo                           | Detalle                                                                                                                                                                                                                                                                                                                                                                                                            |
+|---------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Foto y link**                 | <img src="images/chapter-2/interviews/entrevistaWilderAliaga.png" alt="Entrevista Wilder Aliaga" width="500"/> <br>  https://upcedupe-my.sharepoint.com/:v:/g/personal/u202222001_upc_edu_pe/Ebm3vVNNWp5LhPvEdzPqrOoBFcxHE-lethU07o73kYOcLw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=1gXjE8 |
+| **Nombre Entrevistado**         | Wilder Aliaga Linares                                                                                                                                                                                                                                                                                                                                                                                              |
+| **Edad**                        | 49 años                                                                                                                                                                                                                                                                                                                                                                                                            |
+| **Profesión**                   | Profesor universitario / docente de institutos                                                                                                                                                                                                                                                                                                                                                                     |
+| **Ubicación**                   | Lima, Perú                                                                                                                                                                                                                                                                                                                                                                                                         |
+| **Duración de la Entrevista**   | 11:15 min                                                                                                                                                                                                                                                                                                                                                                                                          |
+| **Herramientas actuales**       | Plataformas institucionales, WhatsApp para grupos y comunicación, Excel y Dropbox para notas y materiales.                                                                                                                                                                                                                                                                                                         |
+| **Dolores principales**         | La calificación manual consume mucho tiempo; también la subida de notas y actualización de materiales.                                                                                                                                                                                                                                                                                                             |
+| **Seguimiento del desempeño**   | Uso de Excel de manera manual y carga posterior en plataformas; considera el proceso lento y poco automatizado.                                                                                                                                                                                                                                                                                                    |
+| **Necesidades prioritarias**    | Retroalimentación automatizada, estadísticas en tiempo real y una plataforma más flexible y amigable.                                                                                                                                                                                                                                                                                                              |
+| **Dispositivos y comunicación** | Usa laptop y celular; se comunica sobre todo por WhatsApp (ventajas: rapidez y cercanía; desventajas: superficialidad y poca profundidad académica).                                                                                                                                                                                                                                                               |
+| **Experiencia con plataformas** | Ha usado varias, pero las considera manuales, inestables y con soporte técnico deficiente**.                                                                                                                                                                                                                                                                                                                       |
+| **Interactividad deseada**      | Más videos cortos, materiales lúdicos e interactividad en tiempo real; las herramientas actuales le parecen obsoletas.                                                                                                                                                                                                                                                                                             |
+| **Curva de aprendizaje**        | Considera que las plataformas suelen ser complejas y no se adaptan a todos los estudiantes; plantea integrar IA como asistente 24/7 para retroalimentación continua.                                                                                                                                                                                                                                               |
+# Entrevista 2: Profesor de Instituto
+
+| Campo                           | Detalle |
+|---------------------------------|---------|
+| **Foto y link**                 | <img src="images/chapter-2/interviews/entrevista_adrian.png" alt="Entrevista David Manuel Torres Meneses" width="500"/> <br> [Entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202122484_upc_edu_pe/EcLvEQPp5l1CuSHj__R1_aEB9unXFmv-L10ul9e3q9etkw?e=EwFcUi&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D) |
+| **Nombre Entrevistado**         | Adrian Castro Santana |
+| **Edad**                        | 26 años |
+| **Profesión**                   | Profesor de Instituto |
+| **Ubicación**                   | Lima - Pueblo Libre |
+| **Duración de la Entrevista**   | 8:16 min |
+| **Herramientas actuales**       | Usa Google Classroom para planificar y compartir materiales.<br>Emplea Excel para registrar notas.<br>Se apoya en WhatsApp para comunicación rápida con estudiantes. |
+| **Dolores principales**         | Calificación de trabajos y exámenes consume demasiado tiempo.<br>Seguimiento de alumnos rezagados es difícil sin reportes claros. |
+| **Seguimiento del desempeño**   | Lo hace de forma manual con Excel y observaciones de asistencia.<br>No cuenta con un dashboard visual que le permita ver el panorama general ni identificar rápidamente a los alumnos en riesgo. |
+| **Necesidades prioritarias**    | Estadísticas claras y visuales sobre progreso de estudiantes y desempeño del aula.<br>Mostrar la información de los alumnos (notas, tareas, asistencia, participación). |
+| **Dispositivos y comunicación** | Utiliza WhatsApp por rapidez, aunque presenta problemas de orden.<br>El correo lo considera más formal pero menos inmediato. |
+| **Experiencia con plataformas** | Ha usado Google Classroom el cual llega a organizar materiales y tareas, pero carece de reportes y estadísticas completas. |
+| **Interactividad deseada**      | Cuestionarios en tiempo real.<br>Ejercicios personalizados según el nivel de cada estudiante. |
+| **Curva de aprendizaje**        | Considera que puede ser un reto si la plataforma es compleja.<br>Prefiere interfaces intuitivas, visuales y fáciles de usar para reducir la barrera de entrada. |
+
+
+# Entrevista 3: Profesor de Instituto
+ 
+| Campo                           | Detalle |
+|---------------------------------|---------|
+| **Foto y link**                 | <img src="images/chapter-2/interviews/entrevista_Frank.png" alt="Entrevista Frank Rivera" width="500"/> <br> [Entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202122484_upc_edu_pe/EQywp_Cid25EpgUEwukGdFEB-fs0WpIXqybsFcIFxJZJlw?e=SVglxn&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D) |
+| **Nombre del entrevistado**     | Frank Rivera |
+| **Edad**                        | 24 años |
+| **Profesión**                   | Practicante docente en Instituto Tecnológico (segundo año de práctica) |
+| **Ubicación**                   | Lima – Pueblo Libre |
+| **Duración de la Entrevista**   | 4:29 min |
+| **Herramientas actuales**       | - Google Drive (guardar materiales)<br>- WhatsApp (avisos y coordinación)<br>- Plataforma institucional (subir calificaciones)<br>- Canva / PowerPoint (preparación de clases) |
+| **Dolores principales**         | - Revisar y calificar entregas consume demasiado tiempo.<br>- Dar retroalimentación detallada a cada alumno es muy pesado. |
+| **Seguimiento del desempeño**   | Usa Excel personal (notas, asistencia, observaciones).<br>Actualización manual y constante, sin automatización. |
+| **Necesidades prioritarias**    | - Retroalimentación automatizada para responder rápido a estudiantes.<br>- Métricas visuales y claras sobre el progreso de cada alumno. |
+| **Dispositivos y comunicación** | - Laptop (principal para clases, presentaciones, Excel).<br>- Celular (comunicación rápida).<br>- WhatsApp (rápido, pero desordenado y poco estructurado). |
+| **Experiencia con plataformas** | Ha usado Google Classroom: bueno para organizar materiales, pero poco flexible para dar seguimiento al progreso real.<br>Carece de reportes y estadísticas completas. |
+| **Interactividad deseada**      | - Cuestionarios en línea.<br>- Juegos interactivos.<br>- Videos cortos dinámicos. |
+| **Curva de aprendizaje**        | Interfaz intuitiva = fácil de usar.<br>Plataformas complejas = frustración → regresa a lo básico (Excel, WhatsApp). |
+
+
+## Estudiantes de instituto:
+
+# Entrevista 4: Estudiante de Instituto
+
+| Campo                           | Detalle                                                                                                                                                                                                                                                                                                                                                                                                            |
+|---------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Foto y link**                 | <img src="images/chapter-2/interviews/entrevista_David.png" alt="Entrevista David Manuel Torres Meneses" width="500"/> <br>  [Entrevista David](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202122484_upc_edu_pe/EVTknz75o7JKkpZAnEMecPYBo8g7YDPVxY6T6qXIHJBvcg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=hi1ak8) |
+| **Nombre Entrevistado**         | David Manuel Torres Meneses                                                                                                                                                                                                                                                                                                                                                                                              |
+| **Edad**                        | 19 años                                                                                                                                                                                                                                                                                                                                                                                                            |
+| **Profesión**                   | Estudiante universitario / estudiante de instituto                                                                                                                                                                                                                                                                                                                                                                     |
+| **Ubicación**                   | Lima, Perú                                                                                                                                                                                                                                                                                                                                                                                                         |
+| **Duración de la Entrevista**   | 11:38 min                                                                                                                                                                                                                                                                                                                                                                                                          |
+| **Herramientas actuales**       | Plataformas institucionales, WhatsApp para grupos y comunicación, Meet, Discord, Excel y Classroom para notas y materiales.                                                                                                                                                                                                                                                                                                         |
+| **Dolores principales**         | La falta de graficas que permitan evidenciar su desarrollo como estudiante no le permite saber que tan bien se esta desarrollando como estudiante.                                                                                                                                                                                                                                                                                                             |
+| **Seguimiento del desempeño**   | Usa un excel para poder hacer su organizacion y calculo de notas durante el desarrollo del ciclo.                                                                                                                                                                                                                                                                                                    |
+| **Necesidades prioritarias**    | Retroalimentación instantanea, estadísticas de sus notas y graficos que permitan comparar su avance.                                                                                                                                                                                                                                                                                                              |
+| **Dispositivos y comunicación** | Usa mucho mas su celular que la laptop; pero prefiere usar la laptop ya que tiene un alcance mas largo deacuerdo a posibilidades.                                                                                                                                                                                                                                                               |
+| **Experiencia con plataformas** | Ha usado principalmente Classroom pero considera que tiene una ventaja para compartir archivos sin embargo al no tener un sistema de verificados hay otros usuarios que la usan sin responsabilidad.                                                                                                                                                                                                                                                                                                                       |
+| **Interactividad deseada**      | Mas graficas, estadisticas, feedbacks o un dashboard que permita unir todos estos ambitos y poder analizar su desempeño.                                                                                                                                                                                                                                                                                             |
+| **Curva de aprendizaje**        | Considera que las plataformas suelen ser poco intuitivas y los estudiantes nunca pueden sacarle todo el provecho.                                                                                                                                                                                                                                               |
+
+# Entrevista 5: Estudiante de Instituto
+
+| Campo                           | Detalle                                                                                                                                                                                                                                                                                                                                                                                                            |
+|---------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Foto y link**                 | <img src="images/chapter-2/interviews/entrevista_alejandra.png" alt="Entrevista Alejandra Angulo Mendoza" width="500"/> <br>  [Entrevista Alejandra](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202122484_upc_edu_pe/EYfA6PHLIrNKovCrXJTvwUMBwo4_xnSmPmvWkF9XIHXVhw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=dmovhm) |
+| **Nombre Entrevistado**         | Alejandra Angulo Mendoza                                                                                                                                                                                                                                                                                                                                                                                              |
+| **Edad**                        | 20 años                                                                                                                                                                                                                                                                                                                                                                                                            |
+| **Profesión**                   | Estudiante de instituto / Artista 3D                                                                                                                                                                                                                                                                                                                                                                    |
+| **Ubicación**                   | Lima, Perú                                                                                                                                                                                                                                                                                                                                                                                                         |
+| **Duración de la Entrevista**   | 04:52 min                                                                                                                                                                                                                                                                                                                                                                                                           |
+| **Herramientas actuales**       | Discord, Google Calendar, Clockify                                                                                                                                                                                                                                                                                                        |
+| **Dolores principales**         | Necesita utilizar formas de organización para evitar perder el hilo de las actividades que debe llevar a cabo |
+| **Seguimiento del desempeño**   | Lleva una agenda con sus actividades realizadas, y un excel de organización. |
+| **Necesidades prioritarias**    | Considera que sería bueno tener herramientas de organización unificadas en una misma plataforma. |
+| **Dispositivos y comunicación** | Utiliza principalmente la laptop y el celular. |
+| **Interactividad deseada**      | Gráficos que muestren el desempeño a lo largo del tiempo para conocer el rendimiento en tiempo real y saber en que mejorar. |
+
+
+
+# Entrevista 6 – Estudiante de Instituto  
+
+| Campo                           | Detalle |
+|---------------------------------|---------|
+| **Foto y link**                 | <img src="images/chapter-2/interviews/entrevista_Jhon.png" alt="Entrevista Jhon Chuchon" width="500"/> <br> [Entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202122484_upc_edu_pe/ERtYfl5y-XVChcbrl_jGtV4BAVDyRs_5wHYsWSQqV1wZXQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=MiGu97) |
+| **Nombre del entrevistado**     | Jhon Chuchon |
+| **Edad**                        | 19 años |
+| **Profesión**                   | Estudiante de instituto |
+| **Ubicación**                   | Lima, Perú |
+| **Duración de la Entrevista**   | 06:21 min |
+| **Herramientas actuales**       | - WhatsApp para comunicación con grupos.<br>- Google Drive para documentos o informes.Google Classroom para clases virtuales. |
+| **Dolores principales**         | Se le complica cuando la información se reparte en distintas herramientas y termina olvidándose de algunas cosas. |
+| **Necesidades prioritarias**    | Retroalimentación instantánea para saber si va por buen camino o si necesita mejorar antes. |
+| **Dispositivos y comunicación** | Utiliza más el celular ya que es más sencillo de llevar a todos lados. |
+| **Experiencia con plataformas** | Ventajas: centralizan la información y ayudan a tener todo en un solo sitio.<br>Desventajas: a veces se caen y no funcionan bien en su celular. |
+| **Interactividad deseada**      | Gráficos y estadísticas, ya que lo motivarían y le darían más control sobre sus estudios. |
+
+
+
+### 2.2.3 Analisis de entrevistas
+
+#### Análisis Segmento 1: Estudiantes de Institutos 
+
+El segmento de estudiantes universitarios presenta una dinámica muy marcada por la búsqueda de organización personal y control de su desempeño académico en tiempo real. En términos de herramientas actuales, los entrevistados señalaron que utilizan una combinación de plataformas institucionales, Google Classroom, Excel, Google Calendar, Clockify y Discord, además de WhatsApp y Meet para comunicación y coordinación de trabajos en grupo. Estas herramientas cumplen funciones específicas —calendarios, temporizadores, almacenamiento de archivos o comunicación—, pero se encuentran dispersas, lo que genera la necesidad de unificar todas esas funcionalidades en un mismo espacio digital. 
+
+Entre los principales dolores identificados, destaca la ausencia de gráficas claras que les permitan evidenciar su desarrollo académico y compararlo con sus compañeros; esta carencia fue mencionada por el 100% de los entrevistados. Además, ambos resaltaron la necesidad de contar con herramientas de organización más eficientes, ya que la gestión de tareas y tiempos depende de múltiples aplicaciones y agendas, lo que en ocasiones provoca desorden o pérdida de información. 
+
+En cuanto al seguimiento del desempeño, los estudiantes recurren principalmente a Excel, agendas digitales y cronogramas, que les permiten calcular notas, registrar horas de trabajo y organizar entregas. Sin embargo, esta práctica requiere un esfuerzo adicional y carece de automatización, lo que limita su utilidad en comparación con una solución integrada. 
+
+Respecto a las necesidades prioritarias, el 100% manifestó la importancia de contar con retroalimentación instantánea, que les permita identificar errores y áreas de mejora sin esperar largos periodos de revisión. Asimismo, el 80% expresó interés en tener gráficos y dashboards que muestren su progreso académico en tiempo real, tanto a nivel individual como en comparación con sus compañeros (por ejemplo, saber si su rendimiento está por encima del 50% o 75% del curso). Por otro lado, un 70% resaltó la importancia de integrar herramientas de organización en una sola plataforma, que combine asignación de tareas, notificaciones, métricas de avance y control del tiempo invertido. 
+
+En el aspecto de dispositivos y comunicación, los estudiantes utilizan tanto laptops como celulares, aunque la preferencia recae en la laptop debido a su mayor alcance y comodidad en el trabajo académico. Sin embargo, reconocen que el celular es indispensable para la comunicación rápida y la coordinación en grupos. En este contexto, Discord fue señalado como la herramienta preferida por su practicidad y comodidad para organizar equipos, frente a WhatsApp o Classroom, que consideran menos versátiles. 
+
+La experiencia con plataformas muestra percepciones mixtas. Classroom es vista como útil para compartir archivos, pero también se critica la falta de filtros y control en el acceso, lo que puede dar pie a usos irresponsables. En general, los estudiantes coinciden en que las plataformas existentes son poco intuitivas y que los usuarios no logran aprovecharlas plenamente, lo que refleja una curva de aprendizaje poco amigable. 
+
+En cuanto a la interactividad deseada, el 60% de los entrevistados señaló su interés en contar con dashboards visuales y gráficos dinámicos que no solo muestren su avance personal, sino que también comparen su desempeño con la media del grupo. Además, se destaca la necesidad de incluir notificaciones automáticas y métricas de progreso, como el número de tareas completadas semanalmente o el tiempo promedio invertido en actividades. 
+
+Finalmente, la curva de aprendizaje de las plataformas actuales es percibida como una limitante. Los estudiantes sienten que estas no son intuitivas y que requieren un esfuerzo extra para configurarlas y sacarles provecho. En este punto, la facilidad de uso aparece como una condición esencial para que cualquier nueva solución sea adoptada con éxito. 
+
+En síntesis, el perfil del estudiante universitario se caracteriza por la necesidad de organización, retroalimentación inmediata y métricas claras de desempeño académico. Existe un interés unánime en soluciones que integren feedback instantáneo (100%), la posibilidad de ver el progreso académico en tiempo real mediante gráficos comparativos (80%), y la integración de herramientas de organización en una sola plataforma (70%). Este segmento muestra una disposición favorable hacia plataformas que sean intuitivas, flexibles y con funciones de análisis visual que fortalezcan tanto la autogestión como la colaboración en equipo. 
+ 
+
+#### Análisis Segmento Objetivo 2: Profesores de Institutos 
+
+El segmento objetivo de profesores de institutos se caracteriza por el uso combinado de diversas herramientas digitales que les permiten cumplir con sus labores pedagógicas y administrativas. Entre las más comunes se encuentran las plataformas institucionales, que utilizan de forma obligatoria para el registro de notas y materiales, complementadas por WhatsApp como canal principal de comunicación con los estudiantes. A esto se suma el empleo frecuente de Excel para el manejo de calificaciones y Dropbox como repositorio de documentos. No obstante, los docentes perciben que este conjunto de recursos funciona de manera aislada y poco integrada, lo que genera duplicidad de trabajo y procesos lentos. 
+
+Uno de los principales problemas identificados es el exceso de tiempo que requiere la calificación manual de las entregas. A esto se añade la necesidad de cargar posteriormente las notas a la plataforma oficial, un proceso que consideran repetitivo, lento y vulnerable a errores. Aunque este procedimiento les permite tener una idea del progreso individual de cada estudiante, los profesores carecen de una herramienta que les brinde una visión consolidada y en tiempo real del desempeño grupal, una necesidad expresada por el 100% de los entrevistados. Esta carencia limita la posibilidad de identificar patrones comunes y ajustar su enfoque pedagógico de manera oportuna. 
+
+Las entrevistas revelan que existe una demanda prioritaria por retroalimentación automatizada, planteada de manera unánime por el 100% de los docentes entrevistados. Esta funcionalidad permitiría optimizar el tiempo invertido en la revisión de trabajos y, al mismo tiempo, brindar a los estudiantes respuestas inmediatas que fortalezcan su aprendizaje. Asimismo, el 60% de los profesores destacó la importancia de integrar interactividad en los recursos educativos, a través de videos cortos, materiales lúdicos y dinámicas que incrementen el interés y la motivación de los alumnos. 
+
+Los docentes expresan además su preferencia por plataformas más flexibles, amigables y con menor curva de aprendizaje, tanto para ellos como para sus estudiantes, dado que consideran que las soluciones actuales son complejas y poco adaptables. A esto se suma la necesidad de contar con un soporte técnico confiable y accesible, ya que la falta de atención oportuna ha sido una de las causas principales de frustración en el uso de sistemas digitales. 
+
+En cuanto a los dispositivos utilizados, los profesores trabajan principalmente desde la laptop, aunque recurren también al celular para tareas rápidas y comunicación inmediata. La elección de WhatsApp responde a que los estudiantes se encuentran más activos en esa aplicación, lo que facilita la interacción cotidiana, aunque los mismos docentes reconocen que su uso favorece la inmediatez y la superficialidad, sin aportar a un aprendizaje profundo. Esto genera una tensión entre la practicidad comunicativa y el objetivo académico. 
+
+Finalmente, la curva de aprendizaje de las plataformas digitales constituye una barrera significativa. Los docentes consideran que estas no se adaptan de manera adecuada a todos los estudiantes y terminan siendo demasiado complejas. Frente a ello, plantean la integración de inteligencia artificial como un asistente 24/7, capaz de brindar retroalimentación continua y aliviar la carga operativa, de modo que el profesor pueda enfocarse en el acompañamiento pedagógico y en fortalecer el aprendizaje profundo. 
+
+En síntesis, el perfil del profesor de instituto muestra un alto nivel de frustración frente a los procesos manuales, la poca automatización y la falta de soporte técnico. Al mismo tiempo, revela una clara apertura hacia nuevas soluciones que ofrezcan eficiencia, simplicidad, retroalimentación instantánea y un entorno de aprendizaje más dinámico e interactivo. La unanimidad en la búsqueda de retroalimentación automatizada (100%), de un apartado para ver el progreso en tiempo real de todos los alumnos (100%), y el interés mayoritario en recursos más interactivos (60%), convierten a este segmento en un grupo altamente receptivo a propuestas de innovación tecnológica. 
+
 ## 2.3 Needfinding
+
 ### 2.3.1 User Personas
+
+#### Segmento Objetivo 1: Estudiantes de Institutos 
+##### User Persona: Olivia Perez (17 años)
+
+<img src="./images/chapter-2/needfinding/user_persona_olivia.png" alt="User Persona Olivia" width="400"/>
+
+#### Segmento Objetivo 2: Profesores de Institutos
+##### User Persona: Adrian Espinoza (30 años)
+
+<img src="./images/chapter-2/needfinding/user_persona_adrian.png" alt="User Persona Adrián" width="400"/>
+
 ### 2.3.2 User Task Matrix
+
+Presentaremos las tareas que realizan los estudiantes (representados por Olivia Pérez) y los profesores de institutos (representados por Luis Ramírez) para cumplir sus objetivos académicos y pedagógicos.
+
+#### Olivia Pérez - Estudiante de instituto
+
+| Actividad                                                                 | Frecuencia | Importancia |
+| :------------------------------------------------------------------------ | :--------- | :---------- |
+| Organizar tareas, exámenes y horarios de entrega                          | Alta       | Alta        |
+| Coordinar trabajos grupales (Meet, Discord, WhatsApp)                     | Alta       | Media       |
+| Monitorear su propio desempeño académico (notas, dashboards, comparaciones) | Alta       | Alta        |
+| Gestionar tiempo de estudio invertido (cronogramas, temporizadores, apps de productividad) | Media    | Alta        |
+| Recibir retroalimentación sobre los entregables                           | Alta       | Alta        |
+
+#### Luis Ramírez – Profesor de instituto
+
+| Actividad                                                 | Frecuencia | Importancia |
+| :-------------------------------------------------------- | :--------- | :---------- |
+| Calificar entregas y exámenes                             | Alta       | Alta        |
+| Dar seguimiento al progreso de alumnos (identificar rezagados) | Alta    | Alta        |
+| Comunicarse con alumnos (WhatsApp, correo, avisos en plataforma) | Alta   | Alta        |
+| Brindar retroalimentación rápida a estudiantes            | Media      | Media       |
+| Atender consultas individuales de alumnos fuera de clase  | Baja       | Media       |
+| Monitorear la asistencia y puntualidad de los estudiantes | Alta       | Alta        |
+
 ### 2.3.3 Empathy Maps
+
+Estudiante de instituto (Olivia Perez) <br>
+<img src="./images/chapter-2/Empathy/Olivia Perez-Empathy map.png" alt ="User Persona Olivia" width="400">
+<br>
+[Olivia Perez - Empathy Map](https://upcedupe-my.sharepoint.com/:i:/g/personal/u202122484_upc_edu_pe/EWWQQuyX-BJLqsZWg7XW928BaDEUrCjxqd8j2u7LrAzGFg?e=UFplGK)
+
+Profesor de instituto (Adrian  Espinoza) 
+<img src="./images/chapter-2/Empathy/Adrian Espinoza-Empathy map.png" alt ="User Persona Olivia" width="400">
+<br>
+[ Adrian Espinoza- Empathy Map](https://upcedupe-my.sharepoint.com/:i:/g/personal/u202122484_upc_edu_pe/EWWQQuyX-BJLqsZWg7XW928BaDEUrCjxqd8j2u7LrAzGFg?e=UFplGK)
+
 ### 2.3.4 As-is Scenario Mapping
+
+**Segmento Objetivo 1: Estudiantes de institutos**
+
+El As-Is Scenario Mapping de estudiantes muestra cómo actualmente dependen de múltiples canales dispersos (WhatsApp, Classroom, correos, Excel) para organizarse, entregar trabajos y seguir su progreso. Esto genera estrés, inseguridad y ansiedad por la falta de centralización y retroalimentación clara, aunque también refleja su disposición a colaborar y su interés en contar con métricas visuales y feedback inmediato.
+
+![as-is_estudiantes.png](images/chapter-2/scenario_mapping/as-is_estudiantes.png)
+
+
+**Segmento Objetivo 2: Profesores de Institutos**
+
+El As-Is Scenario Mapping de profesores de institutos evidencia que gran parte de su tiempo se pierde en tareas administrativas manuales (cronogramas en Excel, corrección en papel, carga de notas en plataformas). Este escenario les genera agotamiento y frustración, pero también muestra apertura a soluciones más intuitivas y automatizadas que reduzcan su carga y permitan un mejor seguimiento del desempeño estudiantil.
+
+![as-is_profesores.png](images/chapter-2/scenario_mapping/as-is_profesores.png)
 
 
 
 # Capítulo III: Requirements Specification
 
 ## 3.1 To-Be Scenario Mapping
+**Segmento Objetivo 1: Estudiantes de institutos**
+
+El To-Be Scenario Mapping de estudiantes muestra cómo LearnHive centraliza materiales, tareas y métricas en un único espacio. Esto elimina la dispersión de canales y reduce la inseguridad en las entregas, ofreciendo confirmación inmediata y dashboards visuales con retroalimentación en tiempo real. El resultado esperado es mayor tranquilidad, motivación y confianza en la gestión de su desempeño académico.
+
+
+![to-be_estudiantes.png](assets/to-be_scenariomapping/to-be_estudiantes.png)
+
+**Segmento Objetivo 2: Profesores de Institutos**
+
+El To-Be Scenario Mapping de profesores de instituto plantea un futuro en el que LearnHive simplifica la planificación, automatiza parte de la retroalimentación y centraliza la comunicación con los estudiantes. De esta manera, los docentes reducen su carga administrativa, obtienen métricas claras para intervenir oportunamente y sienten alivio, satisfacción y motivación al enfocarse más en la enseñanza que en las tareas manuales.
+
+![to-be_profesores.png](assets/to-be_scenariomapping/to-be_profesores.png)
+
 ## 3.2 User Stories
+
+**Epics:**
+
+<table>
+  <thead>
+    <tr>
+      <th>Epic ID</th>
+      <th>Título</th>
+      <th>Descripción</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>EP-001</td>
+      <td>Gestión de Grupos</td>
+      <td>Esta épica se enfoca en ofrecer a profesores y estudiantes una forma sencilla y estructurada de crear y administrar grupos académicos. El docente tiene la capacidad de formar equipos, asignar integrantes y mantener un control organizado sobre su composición. Los estudiantes, por su parte, cuentan con un espacio definido para integrarse a sus grupos de trabajo, lo que fomenta la colaboración y la coordinación en sus actividades académicas.</td>
+    </tr>
+    <tr>
+      <td>EP-002</td>
+      <td>Gestión de trabajos y entregas</td>
+      <td>Esta épica se enfoca en las funcionalidades orientadas a la creación de trabajos académicos para cada grupo, y el recibimiento de entregas, así como la calificación de estas. Por parte de los estudiantes, estos deben poder visualizar sus trabajos pendientes tanto en el menú de un grupo específico como en un menú especializado general que les muestre sus fechas de entrega más cercanas. Por el lado de los profesores, estos deben poder crear trabajos con fechas límite, administrar su visualización y acceder a las entregas de sus alumnos, así como calificarlas y dejar mensajes de retroalimentación.</td>
+    </tr>
+    <tr>
+      <td>EP-003</td>
+      <td>Seguimiento de progreso y retroalimentación automatizada</td>
+      <td>Esta épica se centra en ofrecer funcionalidades que permitan a estudiantes y profesores acceder a datos en tiempo real sobre el rendimiento académico. Los estudiantes podrán visualizar sus calificaciones, avances y métricas comparativas mediante dashboards gráficos, lo que les permitirá identificar fortalezas, debilidades y áreas de mejora. Además, contarán con retroalimentación automatizada e instantánea, generada a partir de sus entregas y participación, para orientar su aprendizaje de manera continua. Por el lado de los profesores, estos podrán monitorear tanto las métricas individuales de cada estudiante como el desempeño general del grupo, identificando patrones y detectando a tiempo las dificultades más comunes.</td>
+    </tr>
+    <tr>
+      <td>EP-004</td>
+      <td>Comunicación, interacción y recursos educativos dinámicos entre usuarios</td>
+      <td>Esta épica se orienta al intercambio de información y la creación de espacios de interacción dentro de la plataforma. Los profesores podrán publicar anuncios dirigidos a todo el grupo, en los cuales los alumnos podrán dejar comentarios, consultas o dudas que serán respondidas en el mismo hilo. Tanto docentes como estudiantes recibirán notificaciones automáticas que les mantendrán al tanto de las respuestas e interacciones. Asimismo, los alumnos tendrán la posibilidad de enviarse mensajes privados para coordinar actividades académicas de manera ágil. Como valor agregado, la épica incorpora la posibilidad de compartir recursos educativos interactivos tales como videos cortos, imágenes y materiales en tiempo real, lo que no solo mejora la comunicación, sino que también hace más atractivo y participativo el proceso de aprendizaje.</td>
+    </tr>
+    <tr>
+      <td>EP-005</td>
+      <td>Diseño de la landing page</td>
+      <td>Como equipo de desarrollo, queremos diseñar y construir una landing page atractiva, informativa y fácil de navegar, que comunique claramente el valor de la plataforma tanto para motociclistas como para mecánicos, con el objetivo de captar nuevos usuarios, generar confianza y facilitar el registro en el sistema.</td>
+    </tr>
+    <tr>
+      <td>EP-006</td>
+      <td>Infraestructura técnica, escalabilidad y calidad del sistema</td>
+      <td>Esta épica se enfoca en las tareas técnicas necesarias para asegurar el correcto funcionamiento de la plataforma desde el punto de vista tecnológico. Incluye configuraciones de backend, frontend, infraestructura y pruebas automatizadas, que no son visibles directamente para el usuario final pero que resultan fundamentales para garantizar seguridad, rendimiento, estabilidad, escalabilidad y mantenibilidad en el tiempo.</td>
+    </tr>
+  </tbody>
+</table>
+
+**User Stories:**
+
+<table>
+  <thead>
+    <tr>
+      <th>User Story ID</th>
+      <th>Título</th>
+      <th>Descripción</th>
+      <th>Criterios de Aceptación</th>
+      <th>Relacionado con (Epic ID)</th>
+    </tr>
+  </thead>
+
+  <tbody>
+    <tr>
+      <td>US-001</td>
+      <td>Ingreso a grupos</td>
+      <td>Como estudiante, quiero ser capaz de unirme a los grupos formados por mis profesores con facilidad.</td>
+      <td>
+        Escenario 1: Dado un estudiante en el menú de inicio de la plataforma con un código de grupo válido proporcionado por su profesor, cuando ingresa el código en el campo designado y selecciona la opción "Unirse al grupo", entonces el sistema valida el código, muestra un mensaje de confirmación exitosa y añade automáticamente al estudiante al grupo correspondiente. <br><br>
+        Escenario 2: Dado un estudiante en el menú de inicio con una notificación de invitación pendiente para unirse a un grupo de clase, cuando selecciona la notificación y hace clic en el botón "Aceptar invitación", entonces el sistema confirma la aceptación, añade al estudiante al grupo y actualiza la lista de miembros visible para el profesor.</td>
+      <td>EP-001</td>
+    </tr>
+    <tr>
+      <td>US-002</td>
+      <td>Creación de grupos</td>
+      <td>Como profesor, quiero ser capaz de crear grupos para mis cursos en la plataforma.</td>
+      <td>
+        Escenario 1: Dado un profesor autenticado en la plataforma educativa, cuando selecciona la opción "Crear Nuevo Grupo" desde el menú principal, entonces el sistema despliega un formulario con campos para nombre del grupo, descripción, etc. Permitiendo la creación del grupo tras completar los datos obligatorios.<br><br>
+        Escenario 2: Dado un profesor en el proceso de creación de un nuevo grupo, cuando ingresa un nombre idéntico al de un grupo preexistente bajo su misma cuenta y intenta guardar, entonces el sistema detecta la duplicación, muestra un mensaje de error "Nombre de grupo ya existente" y sugiere modificar el nombre o recuperar el grupo existente.
+      </td>
+      <td>EP-001</td>
+    </tr>
+    <tr>
+      <td>US-003</td>
+      <td>Invitación a grupos</td>
+      <td>Como profesor, quiero ser capaz de invitar a mis alumnos a los grupos creados por mí.</td>
+      <td>
+        Escenario 1: Dado un grupo creado por un profesor con un código de invitación generado, cuando un estudiante ingresa correctamente el código en la plataforma, entonces el sistema añade al estudiante al grupo, registra la acción y envía una notificación automática al profesor confirmando la incorporación del nuevo miembro.<br><br>
+        Escenario 2: Dado un profesor en la sección de gestión de un grupo específico, cuando ingresa los IDs o correos electrónicos de los estudiantes en el campo de invitaciones y selecciona "Enviar invitaciones", entonces el sistema envía notificaciones individuales a cada estudiante con un enlace directo para unirse al grupo y actualiza el estado de invitaciones pendientes.<br><br>
+        Escenario 3: Dado un estudiante que recibe una invitación para unirse a un grupo, cuando hace clic en el enlace de la notificación o ingresa manualmente el código proporcionado, entonces el sistema verifica la validez de la invitación, añade al estudiante al grupo correspondiente y notifica al profesor sobre la aceptación exitosa de la invitación.
+      </td>
+      <td>EP-001</td>
+    </tr>
+    <tr>
+      <td>US-004</td>
+      <td>Eliminación de alumnos</td>
+      <td>Como profesor, quiero ser capaz de eliminar integrantes del grupo, para mantener un orden y corregir errores en caso de invitar a alguien por equivocación.</td>
+      <td>
+        Escenario 1: Dado un profesor en la pantalla de gestión de integrantes de un grupo activo, cuando selecciona la opción "Eliminar" junto al nombre de un estudiante y confirma la acción en el cuadro de diálogo emergente, entonces el sistema remueve al estudiante del grupo, actualiza la lista de miembros y envía una notificación automática al estudiante informando sobre su eliminación del grupo.<br><br>
+        Escenario 2: Dado un profesor intentando eliminar a un estudiante que ya ha sido removido previamente del grupo o cuya cuenta ya no existe, cuando confirma la acción de eliminación, entonces el sistema detecta que el estudiante no pertenece al grupo y muestra un mensaje de error: "El estudiante especificado no pertenece a este grupo o ya ha sido eliminado".
+      </td>
+      <td>EP-001</td>
+    </tr>
+    <tr>
+      <td>US-005</td>
+      <td>Creación de trabajos con fechas límite</td>
+      <td>Como profesor, quiero crear trabajos dentro de cada curso con sus respectivas fechas de entrega, para organizar las actividades académicas y dar claridad a mis estudiantes.</td>
+      <td>
+        Escenario 1: Dado un profesor en la página de administración de un curso específico, cuando selecciona la opción "Crear trabajo", completa los campos obligatorios (título, descripción, fecha límite) y confirma la creación, entonces el sistema guarda el trabajo en la base de datos, lo muestra en la lista de actividades del curso y notifica a todos los estudiantes del grupo sobre la nueva tarea asignada.<br><br>
+        Escenario 2: Dado un profesor en el proceso de creación de un nuevo trabajo para el curso, cuando ingresa una fecha límite anterior a la fecha actual y intenta guardar, entonces el sistema detecta la incongruencia, muestra un mensaje de error "La fecha de entrega debe ser futura" y resalta el campo de fecha en rojo hasta que se corrija.
+      </td>
+      <td>EP-002</td>
+    </tr>
+    <tr>
+      <td>US-006</td>
+      <td>Recepción de entregas (múltiples oportunidades)</td>
+      <td>Como estudiante, quiero poder enviar y reenviar mis entregas en un trabajo académico, para corregir errores y mejorar mi calificación antes de la fecha límite.</td>
+      <td>
+        Escenario 1: Dado un estudiante con acceso a un trabajo académico dentro del plazo de entrega establecido, cuando selecciona la opción "Subir entrega", adjunta el archivo correspondiente y confirma el envío, entonces el sistema registra la entrega con marca de tiempo, envía una confirmación al estudiante y notifica al profesor sobre la nueva entrega recibida.<br><br>
+        Escenario 2: Dado un estudiante que ya ha realizado una entrega previa para un trabajo académico, cuando selecciona "Reemplazar entrega" antes de la fecha límite y sube un nuevo archivo, entonces el sistema guarda la nueva versión, mantiene un historial de todas las entregas realizadas y actualiza la marca de tiempo de la última modificación.<br><br>
+        Escenario 3: Dado un estudiante intentando enviar una entrega después de la fecha límite establecida, cuando intenta subir un archivo pasado el plazo, entonces el sistema rechaza la entrega, muestra un mensaje claro indicando "Plazo de entrega vencido" y sugiere contactar al profesor.
+      </td>
+      <td>EP-002</td>
+    </tr>
+    <tr>
+      <td>US-007</td>
+      <td>Visualización de trabajos y fechas</td>
+      <td>Como estudiante, quiero visualizar en un dashboard todos mis trabajos y fechas de entrega, para organizar mis actividades y priorizar las más urgentes.</td>
+      <td>
+        Escenario 1: Dado un estudiante en la página principal de un curso específico, cuando navega a la pestaña "Trabajos", entonces el sistema muestra una lista completa de todas las tareas asignadas, con indicadores visuales de estado (pendiente/entregado/calificado), fechas límite claramente visibles y porcentaje de completitud para cada trabajo.<br><br>
+        Escenario 2: Dado un estudiante en su dashboard principal, cuando accede a la sección "Próximas entregas", entonces el sistema muestra una lista consolidada de todos los trabajos pendientes de todos sus cursos, ordenados por fecha límite ascendente (los más urgentes primero), con recordatorios visuales para las tareas con vencimiento en las próximas 48 horas.<br><br>
+        Escenario 3: Dado un trabajo académico con fecha límite próxima (menos de 24 horas), cuando el estudiante visualiza su dashboard, entonces el sistema resalta esa tarea con color rojo, muestra una alerta de "Entrega próxima" y ofrece la opción de acceso directo a la página de entrega con un solo clic.
+      </td>
+      <td>EP-002</td>
+    </tr>
+    <tr>
+      <td>US-008</td>
+      <td>Visualización de dashboard de progreso académico</td>
+      <td>Como estudiante, quiero visualizar un dashboard con mis calificaciones y progreso en tiempo real, para saber si estoy avanzando de manera adecuada en mis cursos.</td>
+      <td>
+        Escenario 1: Dado un estudiante con sesión activa en la plataforma educativa, cuando accede a la sección "Mi Progreso" desde el menú principal, entonces el sistema muestra un dashboard interactivo con gráficos de calificaciones por curso, porcentaje de completitud de cada materia, comparativa con el promedio del grupo y proyección de calificación final basada en el rendimiento actual.<br><br>
+        Escenario 2: Dado un profesor que ha calificado y publicado nuevos trabajos o exámenes en el sistema, cuando el estudiante recarga su dashboard de progreso, entonces el sistema actualiza automáticamente todas las métricas, muestra las nuevas calificaciones obtenidas con notificaciones de novedades y recalcula el promedio general y por curso en tiempo real.<br><br>
+        Escenario 3: Dado un estudiante con calificaciones por debajo del promedio requerido en algún curso, cuando visualiza su dashboard de progreso, entonces el sistema destaca aquellas materias con bajo rendimiento usando indicadores de color.
+      </td>
+      <td>EP-003</td>
+    </tr>
+    <tr>
+      <td>US-009</td>
+      <td>Comparación del rendimiento con el promedio del grupo</td>
+      <td>Como estudiante, quiero poder comparar mi rendimiento con el promedio de mis compañeros, para identificar si estoy por encima o debajo del nivel general.</td>
+      <td>
+        Escenario 1: Dado un estudiante en su dashboard académico principal, cuando selecciona la opción "Comparar con grupo" en cualquier curso, entonces el sistema genera un gráfico de barras comparativas que muestra sus calificaciones individuales junto al promedio del grupo en cada evaluación, con diferencias porcentuales claramente etiquetadas.<br><br>
+        Escenario 2: Dado un estudiante en la sección de comparativa de rendimiento, cuando selecciona la opción "Evolución Temporal", entonces el sistema muestra una gráfica de líneas con su progreso histórico y el promedio del grupo a lo largo del semestre, permitiendo identificar tendencias y momentos clave de mejora o retroceso.
+      </td>
+      <td>EP-003</td>
+    </tr>
+    <tr>
+      <td>US-010</td>
+      <td>Visualización de métricas globales de desempeño del grupo</td>
+      <td>Como profesor, quiero acceder a métricas globales del grupo, para entender el nivel de desempeño general de la clase.</td>
+      <td>
+        Escenario 1: Dado un profesor en la página de gestión de un grupo de estudiantes, cuando selecciona la opción "Métricas Globales", entonces el sistema muestra un panel con el promedio general de calificaciones, desviación estándar, tasa de entregas a tiempo, porcentaje de aprobación y comparativa con otros grupos del mismo curso.<br><br>
+        Escenario 2: Dado un profesor analizando el rendimiento de su grupo, cuando selecciona un período específico (ej. primer parcial, último mes o trimestre), entonces el sistema genera gráficas de progreso colectivo que incluyen: curva de distribución de calificaciones, tendencia temporal del promedio grupal y heatmap de tasas de entrega por evaluación.
+      </td>
+      <td>EP-003</td>
+    </tr>
+    <tr>
+      <td>US-011</td>
+      <td>Alertas sobre estudiantes con bajo rendimiento</td>
+      <td>Como profesor, quiero recibir alertas sobre estudiantes con bajo rendimiento, para poder intervenir de manera temprana.</td>
+      <td>
+        Escenario 1: Dado un estudiante con calificaciones consistentemente por debajo del 60% en un curso específico durante al menos tres evaluaciones consecutivas, cuando el sistema procesa los resultados académicos, entonces el profesor recibe una notificación con el nombre del estudiante, el curso afectado, las calificaciones específicas y sugerencias de intervención académica.<br><br>
+        Escenario 2: Dado un estudiante que no ha entregado al menos dos tareas consecutivas dentro del plazo establecido, cuando el sistema analiza el historial de entregas, entonces genera una alerta automática para el profesor con el nombre del estudiante, las tareas pendientes y la opción de contactar directamente al estudiante desde la plataforma.
+      </td>
+      <td>EP-003</td>
+    </tr>
+    <tr>
+      <td>US-012</td>
+      <td>Recordatorios y notificaciones de entregas</td>
+      <td>Como estudiante, quiero recibir notificaciones automáticas y recordatorios de próximas entregas para no olvidar subir mis trabajos a tiempo.</td>
+      <td>
+        Escenario 1: Dado un trabajo académico con fecha límite definida en el sistema, cuando faltan exactamente 48 y 12 horas para el vencimiento, entonces el sistema envía notificaciones automáticas al estudiante a través de la plataforma web y la aplicación móvil, incluyendo detalles específicos de la tarea y enlace directo para subirla.<br><br>
+        Escenario 2: Dado un estudiante que ha completado el proceso de entrega de un trabajo, cuando el sistema verifica y almacena correctamente el archivo subido, entonces muestra una confirmación visual inmediata con número de comprobante, envía un acuse de recibo por correo electrónico y actualiza el estado de la tarea a "Entregado".
+      </td>
+      <td>EP-004</td>
+    </tr>
+    <tr>
+      <td>US-013</td>
+      <td>Reentrega controlada</td>
+      <td>Como estudiante, quiero poder reentregar una tarea dentro de un plazo definido para mejorar mi nota según las reglas del curso.</td>
+      <td>
+        Escenario 1: Dado un trabajo académico configurado con reentregas permitidas por el profesor, cuando el estudiante sube una nueva versión del trabajo antes del plazo máximo de reentrega, entonces el sistema reemplaza automáticamente el archivo anterior, registra el nuevo envío en el historial de versiones y mantiene la marca de tiempo original de la primera entrega para fines de penalización por tardanza.<br><br>
+        Escenario 2: Dado un estudiante intentando reentregar un trabajo después del plazo máximo permitido para revisiones, cuando intenta subir un nuevo archivo pasado el límite, entonces el sistema bloquea la acción, muestra un mensaje claro indicando "Plazo de reentrega vencido" y sugiere contactar al profesor para autorización excepcional.
+      </td>
+      <td>EP-002</td>
+    </tr>
+    <tr>
+      <td>US-014</td>
+      <td>Historial de calificaciones</td>
+      <td>Como estudiante, quiero poder consultar el historial de calificaciones de mis entregas, para ver mi evolución académica en cada curso.</td>
+      <td>
+        Escenario 1: Dado un estudiante con múltiples calificaciones registradas en diferentes cursos, cuando accede a la sección "Historial de Calificaciones" desde su dashboard principal, entonces el sistema muestra una tabla completa con todas las notas obtenidas, organizadas por curso, fecha de evaluación, tipo de trabajo y porcentaje de valor en la nota final.<br><br>
+        Escenario 2: Dado un estudiante visualizando su historial académico general, cuando selecciona un curso específico y aplica el filtro correspondiente, entonces el sistema muestra una gráfica de evolución temporal con sus calificaciones en ese curso, el promedio del grupo para cada evaluación y una línea de tendencia que visualiza su progreso académico a lo largo del tiempo.
+      </td>
+      <td>EP-002</td>
+    </tr>
+    <tr>
+      <td>US-015</td>
+      <td>Acceso a todas las entregas de un trabajo</td>
+      <td>Como profesor, quiero acceder en una sola vista a todas las entregas de un trabajo, para agilizar la revisión y calificación.</td>
+      <td>
+        Escenario 1: Dado un profesor en la página de administración de un trabajo específico, cuando selecciona la pestaña "Entregas", entonces el sistema muestra una lista completa de todos los estudiantes del curso con sus respectivos estados de entrega (pendiente, enviado, calificado), marcas de tiempo de envío y archivos adjuntos descargables en un solo lugar.<br><br>
+        Escenario 2: Dado un profesor revisando múltiples entregas de estudiantes, cuando aplica filtros específicos (solo pendientes, solo calificados, solo enviados sin calificar, por rango de fechas), entonces el sistema actualiza dinámicamente la vista mostrando exclusivamente las entregas que coinciden con los criterios seleccionados, facilitando la revisión por lotes.
+      </td>
+      <td>EP-002</td>
+    </tr>
+    <tr>
+      <td>US-016</td>
+      <td>Publicación de anuncios con comentarios</td>
+      <td>Como profesor, quiero publicar anuncios en el curso y que los estudiantes puedan dejar comentarios, para mantener la comunicación centralizada y ordenada.</td>
+      <td>
+        Escenario 1: Dado un profesor en la página principal del curso, cuando crea un nuevo anuncio completando título, mensaje y configuraciones de visibilidad, y confirma la publicación, entonces el sistema publica el anuncio en el feed del curso, lo marca como prioritario en la parte superior de la lista y envía notificaciones push a todos los estudiantes del grupo.<br><br>
+        Escenario 2: Dado un anuncio publicado con la opción de comentarios activada, cuando un estudiante escribe un comentario en el espacio designado y presiona "Enviar", entonces el sistema agrega el comentario al hilo de discusión mostrando nombre del autor, foto de perfil, marca de tiempo exacta y permite respuestas anidadas para mantener conversaciones organizadas.<br><br>
+        Escenario 3: Dado un anuncio publicado hace menos de 30 minutos, cuando el profesor edita el contenido del anuncio o desactiva la opción de comentarios desde el menú de configuración, entonces el sistema actualiza el contenido mostrando la leyenda "Editado" con la hora de modificación y, en caso de cierre de comentarios, deshabilita el campo de texto para nuevos comentarios pero mantiene visibles los existentes.
+      </td>
+      <td>EP-004</td>
+    </tr>
+    <tr>
+      <td>US-017</td>
+      <td>Mensajería privada entre miembros</td>
+      <td>Como estudiante, quiero enviar mensajes privados a mis compañeros y profesores, para coordinar actividades académicas de manera rápida y directa.</td>
+      <td>
+        Escenario 1: Dado un estudiante en la sección "Miembros del Curso" con la lista de participantes visibles, cuando selecciona a un compañero o profesor de la lista y envía un mensaje privado a través del botón de mensajería, entonces el sistema crea un hilo de conversación privado, almacena el mensaje en la base de datos y muestra una confirmación de envío exitoso al remitente.<br><br>
+        Escenario 2: Dado un hilo de mensajes privados existente entre dos usuarios del mismo curso, cuando el destinatario abre la conversación para leer los mensajes nuevos, entonces el sistema actualiza inmediatamente el estado de los mensajes de "entregado" a "leído", muestra la marca de tiempo de lectura y notifica al remitente sobre el cambio de estado.<br><br>
+        Escenario 3: Dado un estudiante intentando iniciar una conversación privada con un usuario que no pertenece a ninguno de sus cursos activos, cuando escribe un mensaje y intenta enviarlo, entonces el sistema bloquea el envío, muestra un mensaje de error claro: "Solo puede enviar mensajes a miembros de sus cursos" y sugiere verificar la lista de contactos disponibles dentro de cada curso.
+      </td>
+      <td>EP-004</td>
+    </tr>
+    <tr>
+      <td>US-018</td>
+      <td>Compartir recursos educativos</td>
+      <td>Como profesor, quiero subir materiales de apoyo (documentos, videos, imágenes) al curso, para que los estudiantes los consulten fácilmente en cualquier momento.</td>
+      <td>
+        Escenario 1: Dado un profesor en la sección "Recursos del Curso" con materiales preparados para compartir, cuando selecciona "Subir nuevo recurso", completa los metadatos obligatorios (título, descripción, tipo de archivo) y confirma la acción, entonces el sistema almacena el archivo en el repositorio, lo categoriza automáticamente y lo publica inmediatamente para todos los estudiantes del curso con permisos de visualización y descarga.<br><br>
+        Escenario 2: Dado un recurso educativo publicado en el repositorio del curso con acceso habilitado para estudiantes, cuando un estudiante accede a la sección de recursos y selecciona "Descargar" o "Visualizar" en cualquier material, entonces el sistema permite la acción requerida y registra en el log de actividad el nombre del estudiante, el recurso consultado y la marca de tiempo de acceso.<br><br>
+        Escenario 3: Dado un recurso existente en el repositorio que requiere actualización de contenido, cuando el profesor sube una nueva versión del mismo archivo con el mismo identificador único, entonces el sistema preserva la versión anterior en el historial, marca la nueva versión como "actualizada [fecha]" y notifica opcionalmente a los estudiantes sobre la disponibilidad del material revisado.
+      </td>
+      <td>EP-004</td>
+    </tr>
+    <tr>
+      <td>US-019</td>
+      <td>Extensión de plazo de entrega</td>
+      <td>Como profesor, quiero poder extender la fecha límite de un trabajo, para dar más tiempo a mis estudiantes en casos especiales.</td>
+      <td>
+        Escenario 1: Dado un trabajo académico con fecha límite configurada en el sistema, cuando el profesor accede a la configuración del trabajo, modifica la fecha de vencimiento a una nueva fecha futura y guarda los cambios, entonces el sistema actualiza automáticamente la fecha en todos los registros asociados, muestra un mensaje de "Fecha actualizada correctamente" y registra la modificación en el historial de cambios.<br><br>
+        Escenario 2: Dado un trabajo con fecha límite recién modificada por el profesor, cuando se confirma la actualización, entonces el sistema envía una notificación automática a todos los estudiantes del curso con el siguiente mensaje: "Plazo extendido: La fecha límite para [nombre del trabajo] ha sido extendida hasta [nueva fecha]. ¡Aprovecha el tiempo adicional!".
+      </td>
+      <td>EP-002</td>
+    </tr>
+    <tr>
+      <td>US-020</td>
+      <td>Estados de entrega</td>
+      <td>Como estudiante, quiero ver el estado de cada entrega (pendiente, entregado, en revisión, calificado), para conocer en qué punto del proceso está mi trabajo.</td>
+      <td>
+        Escenario 1: Dado un estudiante en la sección "Mis Entregas" del curso, cuando selecciona un trabajo específico de la lista, entonces el sistema muestra claramente el estado actual con indicadores visuales (iconos y colores): pendiente, entregado, en revisión o calificado, junto con la fecha de última actualización.<br><br>
+        Escenario 2: Dado un profesor realizando la calificación de una entrega estudiantil, cuando asigna una calificación o cambia el estado de revisión en el sistema, entonces el estado del trabajo se actualiza automáticamente en todos los dispositivos, mostrando inmediatamente el nuevo estado (calificado) y los detalles de la evaluación al estudiante.<br><br>
+        Escenario 3: Dado un cambio de estado en cualquier entrega de trabajo (de "en revisión" a "calificado", por ejemplo), cuando el sistema registra la modificación, entonces envía una notificación push al estudiante con el mensaje: "Tu trabajo [nombre del trabajo] ha sido [nuevo estado]. Revisa tus resultados en la plataforma."
+      </td>
+      <td>EP-002</td>
+    </tr>
+    <tr>
+      <td>US-021</td>
+      <td>Redirección al aplicativo web</td>
+      <td>Como usuario, quiero que exista un botón en la landing page que me redirija al dashboard del aplicativo web del sistema, para acceder a este sin tener que buscar otro enlace.</td>
+      <td>
+        Escenario 1: Dado un usuario en la landing page de la startup, cuando hace clic en el botón "Acceder al Dashboard" ubicado en el header de la página, entonces el sistema redirige automáticamente a la URL del aplicativo web, abriendo la página de Inicio de Sesión.<br><br>
+        Escenario 2: Dado un usuario que ya ha iniciado sesión previamente en el aplicativo web, cuando accede a la landing page y hace clic en el botón "Dashboard", entonces el sistema verifica las credenciales almacenadas y redirige directamente al dashboard principal sin requerir un nuevo inicio de sesión.
+      </td>
+      <td>EP-005</td>
+    </tr>
+    <tr>
+      <td>US-022</td>
+      <td>Sección de Video About the Team</td>
+      <td>Como usuario, quiero encontrar en la landing page una sección con un video sobre el equipo detrás de la startup, para conocer quiénes son, su experiencia y la visión que impulsa el producto.</td>
+      <td>
+        Escenario 1: Dado que un usuario se encuentra en la landing page, cuando se desplaza hasta la sección "Video About the Team", entonces el sistema muestra un reproductor de video central con un título inspirador (ej. "Conoce al equipo que hace esto posible") y una breve descripción del propósito del equipo.<br><br>
+        Escenario 2: Dado que un usuario quiere conocer más sobre las personas detrás del producto, cuando hace clic en el video para reproducirlo, entonces el sistema muestra el contenido en alta calidad, con controles de reproducción (pausa, subtítulos, pantalla completa) y, al finalizar, ofrece la opción de ver perfiles breves de los integrantes o enlaces a redes profesionales (ej. LinkedIn).
+      </td>
+      <td>EP-005</td>
+    </tr>
+    <tr>
+      <td>US-023</td>
+      <td>Visualización de Misión y Visión de la startup</td>
+      <td>Como usuario, quiero ver una sección en la landing page con la Misión y Visión de la startup para conocer más a detalle los objetivos del proyecto.</td>
+      <td>
+        Escenario 1: Dado un usuario en la landing page de la startup, cuando hace clic en la sección "Nuestra Propuesta" en el menú principal, entonces el sistema muestra la Misión y Visión de la empresa en un diseño claro y conciso, con iconos representativos y texto destacado que comunica el propósito y los objetivos a largo plazo.<br><br>
+        Escenario 2: Dado un visitante interesado en los valores de la startup, cuando se desplaza hasta el pie de página de la landing page, entonces el sistema presenta un resumen de la Misión y Visión junto con los principios fundamentales de la empresa, permitiendo al usuario comprender la esencia del proyecto de forma rápida.
+      </td>
+      <td>EP-005</td>
+    </tr>
+    <tr>
+      <td>US-024</td>
+      <td>Testimonios de usuarios previos</td>
+      <td>Como usuario interesado en el producto, quiero ver testimonios reales de clientes en la landing page, para poder confiar en la efectividad de la solución antes de probar el sistema.</td>
+      <td>
+        Escenario 1: Dado un usuario en la landing page, cuando se desplaza hasta la sección "Experiencias de Usuarios", entonces el sistema muestra al menos tres testimonios verificados con foto, nombre, ubicación y calificación por estrellas, junto con una descripción breve de su experiencia usando el sistema.<br><br>
+        Escenario 2: Dado un usuario interesado en conocer opiniones específicas, cuando hace clic en el botón "Ver más testimonios" en la sección designada, entonces el sistema redirige a una página dedicada con filtros por tipo de motocicleta, tiempo de uso del sistema y tipo de servicio evaluado.
+      </td>
+      <td>EP-005</td>
+    </tr>
+    <tr>
+      <td>US-025</td>
+      <td>Sección de Video About the Product</td>
+      <td>Como usuario, quiero encontrar en la landing page una sección con un video explicativo del producto, para entender de manera rápida y visual cómo funciona y qué beneficios me ofrece.</td>
+      <td>
+        Escenario 1: Dado un usuario en la landing page, cuando se desplaza hasta la sección "Video About the Product", entonces el sistema muestra un video central en un reproductor embebido, acompañado de un título atractivo y una breve descripción introductoria.<br><br>
+        Escenario 2: Dado un usuario interesado en más detalles, cuando hace clic en el video para reproducirlo, entonces el sistema muestra el contenido en alta calidad, con controles de reproducción (pausa, subtítulos, pantalla completa) y la opción de ver testimonios o casos de uso relacionados al final del video.
+      </td>
+      <td>EP-005</td>
+    </tr>
+    <tr>
+      <td>TS-001</td>
+      <td>Configuración de autenticación y autorización con JWT</td>
+      <td>Como desarrollador, quiero implementar un sistema de autenticación y autorización basado en JSON Web Tokens (JWT) en el backend, para asegurar que solo los usuarios autorizados puedan acceder a los endpoints protegidos de la aplicación.</td>
+      <td>
+        Escenario 1: Dado que un usuario intenta acceder a un endpoint protegido sin un token válido, cuando realiza la petición, entonces el sistema devuelve un error 401 Unauthorized.<br><br>
+        Escenario 2: Dado que un usuario inicia sesión correctamente y obtiene un token JWT válido, cuando utiliza ese token en el encabezado de autorización para acceder a un endpoint protegido, entonces el sistema permite el acceso y devuelve la respuesta correspondiente.
+      </td>
+      <td>EP-006</td>
+    </tr>
+    <tr>
+      <td>TS-002</td>
+      <td>Configuración de validación de datos en backend</td>
+      <td>Como desarrollador, quiero implementar validaciones con Spring Boot Validation en los endpoints, para asegurar que los datos ingresados por los usuarios cumplan con los formatos y restricciones necesarias.</td>
+      <td>
+        Escenario 1: Dado que un usuario envía un formulario con un campo obligatorio vacío, cuando la petición llega al backend, entonces el sistema devuelve un error 400 Bad Request con un mensaje indicando que el campo es obligatorio.<br><br>
+        Escenario 2: Dado que un usuario envía un email con un formato incorrecto en el registro, cuando el backend procesa la solicitud, entonces el sistema rechaza el request y devuelve un mensaje indicando que el formato del correo no es válido.
+      </td>
+      <td>EP-006</td>
+    </tr>
+    <tr>
+      <td>TS-003</td>
+      <td>Documentación de la API con Swagger</td>
+      <td>Como desarrollador, quiero integrar Swagger/OpenAPI en el backend con Spring Boot, para que los endpoints estén documentados automáticamente y puedan ser probados fácilmente desde una interfaz gráfica.</td>
+      <td>
+        Escenario 1: Dado que un desarrollador accede a la URL /swagger-ui.html, cuando la interfaz de Swagger se carga, entonces el sistema muestra la documentación de todos los endpoints disponibles en el backend.<br><br>
+        Escenario 2: Dado que un desarrollador necesita probar un endpoint de la API, cuando utiliza el botón "Try it out" en Swagger UI, entonces el sistema ejecuta la petición y muestra la respuesta en pantalla.
+      </td>
+      <td>EP-006</td>
+    </tr>
+    <tr>
+      <td>TS-004</td>
+      <td>Configuración de CORS en backend</td>
+      <td>Como desarrollador, quiero configurar las políticas de CORS en Spring Boot, para permitir que el frontend (Angular) y el backend (Spring) se comuniquen correctamente en entornos de desarrollo y producción.</td>
+      <td>
+        Escenario 1: Dado que el frontend en Angular se encuentra en un dominio distinto al backend, cuando realiza una petición al servidor, entonces el sistema permite la comunicación siempre que el origen esté autorizado en la configuración de CORS.<br><br>
+        Escenario 2: Dado que una aplicación no autorizada intenta consumir un endpoint del backend, cuando realiza la petición desde un dominio no permitido, entonces el sistema bloquea la solicitud y devuelve un error CORS policy: No 'Access-Control-Allow-Origin' header.
+      </td>
+      <td>EP-006</td>
+    </tr>
+  </tbody>
+</table>
+
 ## 3.3 Impact Map
+
+El Impact Mapping de LearnHive permite conectar los objetivos estratégicos de la startup con las acciones concretas de los usuarios. Para ello, se definieron Business Goals bajo criterios SMART, vinculados a los User Personas identificados (profesor y estudiante). A partir de estos actores se establecieron los Impacts, que describen los cambios de comportamiento esperados para alcanzar cada meta. Posteriormente, se definieron los Deliverables, que representan las funcionalidades clave que la plataforma debe ofrecer, y finalmente las User Stories, que detallan en lenguaje de usuario las acciones específicas que habilitan dichos entregables.
+
+Este enfoque asegura que cada funcionalidad desarrollada esté alineada con una meta de negocio clara y con necesidades reales de los usuarios, fortaleciendo la adopción de la plataforma y su impacto en la gestión académica.
+
+![impact_map.png](assets/impact_map.png)
+
+
 ## 3.4 Product Backlog (Avance1)
 
-
+<table>
+  <thead>
+    <tr>
+      <th>Orden</th>
+      <th>Código US</th>
+      <th>Título</th>
+      <th>Story Points</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr><td>1</td><td>US-002</td><td>Creación de grupos</td><td>5</td></tr>
+    <tr><td>2</td><td>US-001</td><td>Ingreso a grupos</td><td>5</td></tr>
+    <tr><td>3</td><td>US-003</td><td>Invitación a grupos</td><td>5</td></tr>
+    <tr><td>4</td><td>US-005</td><td>Creación de trabajos con fechas límite</td><td>5</td></tr>
+    <tr><td>5</td><td>US-006</td><td>Recepción de entregas (múltiples oportunidades)</td><td>8</td></tr>
+    <tr><td>6</td><td>US-007</td><td>Visualización de trabajos y fechas</td><td>5</td></tr>
+    <tr><td>7</td><td>US-015</td><td>Acceso a todas las entregas de un trabajo</td><td>5</td></tr>
+    <tr><td>8</td><td>US-004</td><td>Eliminación de alumnos</td><td>3</td></tr>
+    <tr><td>9</td><td>TS-001</td><td>Configuración de autenticación y autorización con JWT</td><td>8</td></tr>
+    <tr><td>10</td><td>TS-002</td><td>Configuración de validación de datos en backend</td><td>5</td></tr>
+    <tr><td>11</td><td>TS-003</td><td>Configuración de CORS en backend</td><td>3</td></tr>
+    <tr><td>12</td><td>TS-004</td><td>Documentación de la API con Swagger</td><td>3</td></tr>
+    <tr><td>13</td><td>US-020</td><td>Estados de entrega</td><td>5</td></tr>
+    <tr><td>14</td><td>US-013</td><td>Reentrega controlada</td><td>5</td></tr>
+    <tr><td>15</td><td>US-014</td><td>Historial de calificaciones</td><td>5</td></tr>
+    <tr><td>16</td><td>US-019</td><td>Extensión de plazo de entrega</td><td>3</td></tr>
+    <tr><td>17</td><td>US-008</td><td>Visualización de dashboard de progreso académico</td><td>5</td></tr>
+    <tr><td>18</td><td>US-009</td><td>Comparación del rendimiento con el promedio del grupo</td><td>5</td></tr>
+    <tr><td>19</td><td>US-010</td><td>Visualización de métricas globales de desempeño del grupo</td><td>8</td></tr>
+    <tr><td>20</td><td>US-011</td><td>Alertas sobre estudiantes con bajo rendimiento</td><td>5</td></tr>
+    <tr><td>21</td><td>US-012</td><td>Recordatorios y notificaciones de entregas</td><td>5</td></tr>
+    <tr><td>22</td><td>US-016</td><td>Publicación de anuncios con comentarios</td><td>5</td></tr>
+    <tr><td>23</td><td>US-018</td><td>Compartir recursos educativos</td><td>8</td></tr>
+    <tr><td>24</td><td>US-017</td><td>Mensajería privada entre miembros</td><td>8</td></tr>
+    <tr><td>25</td><td>US-021</td><td>Redirección al aplicativo web</td><td>1</td></tr>
+    <tr><td>26</td><td>US-023</td><td>Visualización de Misión y Visión de la startup</td><td>2</td></tr>
+    <tr><td>27</td><td>US-025</td><td>Sección de Video About the Product</td><td>2</td></tr>
+    <tr><td>28</td><td>US-022</td><td>Sección de Video About the Team</td><td>2</td></tr>
+    <tr><td>29</td><td>US-024</td><td>Testimonios de usuarios previos</td><td>3</td></tr>
+  </tbody>
+</table>
 
 # Capítulo IV: Product Architecture Design
 
