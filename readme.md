@@ -544,7 +544,7 @@ Preguntas complementarias
 
 
 
-# Entrevista – Estudiante de Instituto  
+# Entrevista 6 – Estudiante de Instituto  
 
 | Campo                           | Detalle |
 |---------------------------------|---------|
