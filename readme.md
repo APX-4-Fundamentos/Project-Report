@@ -199,6 +199,14 @@ El To-Be Scenario Mapping de profesores de instituto plantea un futuro en el que
 
 ## 3.2 User Stories
 ## 3.3 Impact Map
+
+El Impact Mapping de LearnHive permite conectar los objetivos estratégicos de la startup con las acciones concretas de los usuarios. Para ello, se definieron Business Goals bajo criterios SMART, vinculados a los User Personas identificados (profesor y estudiante). A partir de estos actores se establecieron los Impacts, que describen los cambios de comportamiento esperados para alcanzar cada meta. Posteriormente, se definieron los Deliverables, que representan las funcionalidades clave que la plataforma debe ofrecer, y finalmente las User Stories, que detallan en lenguaje de usuario las acciones específicas que habilitan dichos entregables.
+
+Este enfoque asegura que cada funcionalidad desarrollada esté alineada con una meta de negocio clara y con necesidades reales de los usuarios, fortaleciendo la adopción de la plataforma y su impacto en la gestión académica.
+
+![impact_map.png](assets/impact_map.png)
+
+
 ## 3.4 Product Backlog (Avance1)
 
 
