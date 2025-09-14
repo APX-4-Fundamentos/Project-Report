@@ -287,9 +287,30 @@ El grupo logró integrar de manera efectiva conocimientos en gestión ágil, dis
 # Anexos
 
 Lean UX Canvas: [Lean UX Canvas](https://upcedupe-my.sharepoint.com/:i:/g/personal/u202122484_upc_edu_pe/EbVM7KLizudGgHWvlwvgzBQBRby113iSkaVpPj17uaYSow?e=Mpe9CB)
+
+User Personas: 
+[User Persona-Olivia Perez](https://upcedupe-my.sharepoint.com/:i:/g/personal/u202122484_upc_edu_pe/Eas5_fU19JZJobMUBeVN_vUBNfOyenq2zxNTHdTcjIiTsw?e=W3QLO8)
+
+[User Persona-Adrian Espinoza](https://upcedupe-my.sharepoint.com/:i:/g/personal/u202122484_upc_edu_pe/EWWQQuyX-BJLqsZWg7XW928BaDEUrCjxqd8j2u7LrAzGFg?e=UFplGK)
  
-User Personas:  Spring Boot Features](https://spring.io/projects/spring-boot)
+Empathy Maps:  
+[Olivia Perez- Empathy Map](https://upcedupe-my.sharepoint.com/:i:/g/personal/u202122484_upc_edu_pe/EWWQQuyX-BJLqsZWg7XW928BaDEUrCjxqd8j2u7LrAzGFg?e=UFplGK)
+
+[Adrian Espinoza- Empathy Map](https://upcedupe-my.sharepoint.com/:i:/g/personal/u202122484_upc_edu_pe/EWWQQuyX-BJLqsZWg7XW928BaDEUrCjxqd8j2u7LrAzGFg?e=UFplGK)
  
-Empathy Maps:  Spring Boot Features](https://spring.io/projects/spring-boot)
+Impact Map: [Link Impact Map](https://upcedupe-my.sharepoint.com/:i:/g/personal/u202122484_upc_edu_pe/EUPYNvbvrIVBilTk1rVhRjQBQPnOja4TAXbsd4GU6pG2dQ?e=LsH5Mw)
  
-Impact Map: Spring Boot Features](https://spring.io/projects/spring-boot)
+
+As-Is Scenario Mapping: 
+
+[Olivia Perez-As-Is](https://upcedupe-my.sharepoint.com/:i:/g/personal/u202122484_upc_edu_pe/EWWQQuyX-BJLqsZWg7XW928BaDEUrCjxqd8j2u7LrAzGFg?e=UFplGK)
+
+[Adrian Espinoza-As-is](https://upcedupe-my.sharepoint.com/:i:/g/personal/u202122484_upc_edu_pe/EWWQQuyX-BJLqsZWg7XW928BaDEUrCjxqd8j2u7LrAzGFg?e=UFplGK)
+
+ 
+
+To-be Scenario Mapping: 
+
+[Estudiante de instituto-To-Be](https://upcedupe-my.sharepoint.com/:i:/g/personal/u202122484_upc_edu_pe/EWWQQuyX-BJLqsZWg7XW928BaDEUrCjxqd8j2u7LrAzGFg?e=UFplGK)
+
+[Profesor de instituo-To-Be](https://upcedupe-my.sharepoint.com/:i:/g/personal/u202122484_upc_edu_pe/EWWQQuyX-BJLqsZWg7XW928BaDEUrCjxqd8j2u7LrAzGFg?e=UFplGK)
