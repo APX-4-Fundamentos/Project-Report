@@ -568,7 +568,47 @@ Este enfoque asegura que cada funcionalidad desarrollada esté alineada con una 
 
 ## 3.4 Product Backlog (Avance1)
 
-
+<table>
+  <thead>
+    <tr>
+      <th>Orden</th>
+      <th>Código US</th>
+      <th>Título</th>
+      <th>Story Points</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr><td>1</td><td>US-002</td><td>Creación de grupos</td><td>5</td></tr>
+    <tr><td>2</td><td>US-001</td><td>Ingreso a grupos</td><td>5</td></tr>
+    <tr><td>3</td><td>US-003</td><td>Invitación a grupos</td><td>5</td></tr>
+    <tr><td>4</td><td>US-005</td><td>Creación de trabajos con fechas límite</td><td>5</td></tr>
+    <tr><td>5</td><td>US-006</td><td>Recepción de entregas (múltiples oportunidades)</td><td>8</td></tr>
+    <tr><td>6</td><td>US-007</td><td>Visualización de trabajos y fechas</td><td>5</td></tr>
+    <tr><td>7</td><td>US-015</td><td>Acceso a todas las entregas de un trabajo</td><td>5</td></tr>
+    <tr><td>8</td><td>US-004</td><td>Eliminación de alumnos</td><td>3</td></tr>
+    <tr><td>9</td><td>TS-001</td><td>Configuración de autenticación y autorización con JWT</td><td>8</td></tr>
+    <tr><td>10</td><td>TS-002</td><td>Configuración de validación de datos en backend</td><td>5</td></tr>
+    <tr><td>11</td><td>TS-003</td><td>Configuración de CORS en backend</td><td>3</td></tr>
+    <tr><td>12</td><td>TS-004</td><td>Documentación de la API con Swagger</td><td>3</td></tr>
+    <tr><td>13</td><td>US-020</td><td>Estados de entrega</td><td>5</td></tr>
+    <tr><td>14</td><td>US-013</td><td>Reentrega controlada</td><td>5</td></tr>
+    <tr><td>15</td><td>US-014</td><td>Historial de calificaciones</td><td>5</td></tr>
+    <tr><td>16</td><td>US-019</td><td>Extensión de plazo de entrega</td><td>3</td></tr>
+    <tr><td>17</td><td>US-008</td><td>Visualización de dashboard de progreso académico</td><td>5</td></tr>
+    <tr><td>18</td><td>US-009</td><td>Comparación del rendimiento con el promedio del grupo</td><td>5</td></tr>
+    <tr><td>19</td><td>US-010</td><td>Visualización de métricas globales de desempeño del grupo</td><td>8</td></tr>
+    <tr><td>20</td><td>US-011</td><td>Alertas sobre estudiantes con bajo rendimiento</td><td>5</td></tr>
+    <tr><td>21</td><td>US-012</td><td>Recordatorios y notificaciones de entregas</td><td>5</td></tr>
+    <tr><td>22</td><td>US-016</td><td>Publicación de anuncios con comentarios</td><td>5</td></tr>
+    <tr><td>23</td><td>US-018</td><td>Compartir recursos educativos</td><td>8</td></tr>
+    <tr><td>24</td><td>US-017</td><td>Mensajería privada entre miembros</td><td>8</td></tr>
+    <tr><td>25</td><td>US-021</td><td>Redirección al aplicativo web</td><td>1</td></tr>
+    <tr><td>26</td><td>US-023</td><td>Visualización de Misión y Visión de la startup</td><td>2</td></tr>
+    <tr><td>27</td><td>US-025</td><td>Sección de Video About the Product</td><td>2</td></tr>
+    <tr><td>28</td><td>US-022</td><td>Sección de Video About the Team</td><td>2</td></tr>
+    <tr><td>29</td><td>US-024</td><td>Testimonios de usuarios previos</td><td>3</td></tr>
+  </tbody>
+</table>
 
 # Capítulo IV: Product Architecture Design
 
