@@ -464,6 +464,28 @@ Preguntas complementarias
 | **Experiencia con plataformas** | Ha usado varias, pero las considera manuales, inestables y con soporte técnico deficiente**.                                                                                                                                                                                                                                                                                                                       |
 | **Interactividad deseada**      | Más videos cortos, materiales lúdicos e interactividad en tiempo real; las herramientas actuales le parecen obsoletas.                                                                                                                                                                                                                                                                                             |
 | **Curva de aprendizaje**        | Considera que las plataformas suelen ser complejas y no se adaptan a todos los estudiantes; plantea integrar IA como asistente 24/7 para retroalimentación continua.                                                                                                                                                                                                                                               |
+# Entrevista 2: Profesor de Instituto
+
+| Campo                           | Detalle |
+|---------------------------------|---------|
+| **Foto y link**                 | <img src="images/chapter-2/interviews/entrevista_adrian.png" alt="Entrevista David Manuel Torres Meneses" width="500"/> <br> [Entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202122484_upc_edu_pe/EcLvEQPp5l1CuSHj__R1_aEB9unXFmv-L10ul9e3q9etkw?e=EwFcUi&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D) |
+| **Nombre Entrevistado**         | Adrian Castro Santana |
+| **Edad**                        | 26 años |
+| **Profesión**                   | Profesor de Instituto |
+| **Ubicación**                   | Lima - Pueblo Libre |
+| **Duración de la Entrevista**   | 8:16 min |
+| **Herramientas actuales**       | Usa Google Classroom para planificar y compartir materiales.<br>Emplea Excel para registrar notas.<br>Se apoya en WhatsApp para comunicación rápida con estudiantes. |
+| **Dolores principales**         | Calificación de trabajos y exámenes consume demasiado tiempo.<br>Seguimiento de alumnos rezagados es difícil sin reportes claros. |
+| **Seguimiento del desempeño**   | Lo hace de forma manual con Excel y observaciones de asistencia.<br>No cuenta con un dashboard visual que le permita ver el panorama general ni identificar rápidamente a los alumnos en riesgo. |
+| **Necesidades prioritarias**    | Estadísticas claras y visuales sobre progreso de estudiantes y desempeño del aula.<br>Mostrar la información de los alumnos (notas, tareas, asistencia, participación). |
+| **Dispositivos y comunicación** | Utiliza WhatsApp por rapidez, aunque presenta problemas de orden.<br>El correo lo considera más formal pero menos inmediato. |
+| **Experiencia con plataformas** | Ha usado Google Classroom el cual llega a organizar materiales y tareas, pero carece de reportes y estadísticas completas. |
+| **Interactividad deseada**      | Cuestionarios en tiempo real.<br>Ejercicios personalizados según el nivel de cada estudiante. |
+| **Curva de aprendizaje**        | Considera que puede ser un reto si la plataforma es compleja.<br>Prefiere interfaces intuitivas, visuales y fáciles de usar para reducir la barrera de entrada. |
+
+
+
+
 
 
 ## Estudiantes de instituto:
@@ -584,13 +606,14 @@ Presentaremos las tareas que realizan los estudiantes (representados por Olivia 
 
 ### 2.3.3 Empathy Maps
 
-Estudiante de instituto (Olivia Perez) 
+Estudiante de instituto (Olivia Perez) <br>
 <img src="./images/chapter-2/Empathy/Olivia Perez-Empathy map.png" alt ="User Persona Olivia" width="400">
+<br>
 [Olivia Perez - Empathy Map](https://upcedupe-my.sharepoint.com/:i:/g/personal/u202122484_upc_edu_pe/EWWQQuyX-BJLqsZWg7XW928BaDEUrCjxqd8j2u7LrAzGFg?e=UFplGK)
 
 Profesor de instituto (Adrian  Espinoza) 
 <img src="./images/chapter-2/Empathy/Adrian Espinoza-Empathy map.png" alt ="User Persona Olivia" width="400">
-
+<br>
 [ Adrian Espinoza- Empathy Map](https://upcedupe-my.sharepoint.com/:i:/g/personal/u202122484_upc_edu_pe/EWWQQuyX-BJLqsZWg7XW928BaDEUrCjxqd8j2u7LrAzGFg?e=UFplGK)
 
 ### 2.3.4 As-is Scenario Mapping
