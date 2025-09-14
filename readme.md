@@ -33,24 +33,14 @@
 
 ## Registro de Versiones del Informe
 
-<table>
-  <thead>
-    <tr>
-      <th>Versión</th>
-      <th>Fecha</th>
-      <th>Autor</th>
-      <th>Descripción de modificación</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>0.1</td>
-      <td>03/09/25</td>
-      <td>Jose Alejo</td>
-      <td>Elaboración de plantilla del reporte</td>
-    </tr>
-  </tbody>
-</table>
+| Versión | Fecha       | Autor                                                                                   | Descripción de modificación                                                                                                                                                       |
+|---------|------------|------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 0.1     | 09/09/2025 | Real Calderón Sebastián Omar y Alejo Cardenas Jose Antonio                                | Desarrollo de los ítems: 1.1.1 Descripción de la Startup, 1.1.2 Perfiles de integrantes del equipo, 1.2.1 Nombre del producto                                                     |
+| 0.2     | 10/09/2025 | Real Calderón Sebastián Omar, Olivera Barzola Eric Marlon y Luquillas Asto Omar           | Desarrollo de los ítems: 1.2.2 Antecedentes y problemática, 1.2.3.1 Lean UX Problem Statement, 1.2.3.2 Lean UX Assumptions, 1.2.3.3 Lean UX Hypothesis, 1.2.3.4 Lean UX Canvas y 1.3 Segmentos objetivo |
+| 0.3     | 11/09/2025 | Alejo Cardenas Jose Antonio, Aliaga Urbina Wilder Gonzalo y Olivera Barzola Eric Marlon   | Desarrollo de los ítems: 2.1 Competidores, 2.2 Entrevistas, 2.3.1 User Personas, 2.3.2 User Task Matrix, 2.3.3 Empathy Maps y 2.3.4 As-is Scenario Mapping                        |
+| 0.4     | 12/09/2025 | Luquillas Asto Omar, Aliaga Urbina Wilder Gonzalo y Real Calderón Sebastián Omar          | Desarrollo de los ítems: 3.1 To-Be Scenario Mapping, 3.2 User Stories, 3.3 Impact Map, 3.4 Product Backlog                                                                        |
+| 1.0     | 13/09/2025 | Real Calderón Sebastián Omar y Alejo Cardenas Jose Antonio                                | Revisión completa hasta el capítulo 3, corrección ortográfica y coherencia global del reporte.                                                                                    |
+
 
 # Contenido  
 
@@ -137,16 +127,14 @@
 - [Referencias Bibliográficas](#referencias-bibliográficas)  
 
 - [Anexos](#anexos)  
-  
-- [Links](#links)  
+
 
 # Student Outcome
 
 | Criterio específico | Acciones realizadas | Conclusiones |
 |----------------------|---------------------|--------------|
-| **Actualiza conceptos y conocimientos necesarios para su desarrollo profesional y en especial para su proyecto en soluciones de software.** | **Alejo Cardenas, Jose Antonio**<br>TB1: AAA…<br>TB2: BBB…<br>**Real Calderon, Sebastian Omar**<br>TB1: AAA…<br>**Luquillas Asto, Omar**<br>TB1: AAA…<br><br>**Olivera Barzola, Eric Marlon**<br>TB1: AAA…<br><br>**Aliaga Urbina, Wilder Gonzalo**<br>TB1: AAA…<br> | AAA… |
-| **Reconoce la necesidad del aprendizaje permanente para el desempeño profesional y el desarrollo de proyectos en soluciones de software.** | **Alejo Cardenas, Jose Antonio**<br>TB1: BBB…<br>TB2: BBB…<br>**Real Calderon, Sebastian Omar**<br>TB1: BBB…<br>**Luquillas Asto, Omar**<br>TB1: BBB…<br><br>**Olivera Barzola, Eric Marlon**<br>TB1: BBB…<br><br>**Aliaga Urbina, Wilder Gonzalo**<br>TB1: BBB…<br> | BBB... |
-
+| Actualiza conceptos y conocimientos necesarios para su desarrollo profesional y en especial para su proyecto en soluciones de software. | TB1: **Alejo Cárdenas, José Antonio:** Al desarrollar la descripción de la startup, analicé el funcionamiento de nuestra propuesta y cómo se diferencia de otras. También revisé a los competidores para entender sus fortalezas y debilidades, lo cual me ayudó a actualizar mis conocimientos. Además, elaboré user stories y organicé el product backlog, aprendiendo nuevas formas de priorizar y ordenar tareas.<br><br>**Luquillas Asto, Omar:** Me encargué de los apartados de Lean UX. Al hacerlo, aprendí a formular problemas de manera más clara, a generar hipótesis y a trabajar con supuestos. Esto me permitió reforzar mis conocimientos sobre cómo validar ideas y centrarme más en los usuarios.<br><br>**Real Calderón, Sebastián Omar:** Redacté los antecedentes y la problemática del proyecto, lo que me ayudó a investigar y actualizarme sobre el contexto de la industria. También trabajé en la segmentación de usuarios y en los escenarios As-Is y To-Be, lo que me permitió aprender nuevas formas de representar situaciones actuales y proponer mejoras.<br><br>**Olivera Barzola, Eric Marlon:** Realicé entrevistas para entender mejor a los usuarios, lo cual me permitió practicar y aprender más sobre técnicas de investigación. Además, elaboré user personas, la matriz de tareas y mapas de empatía, aprendiendo cómo traducir la información obtenida en representaciones claras de los usuarios.<br><br>**Aliaga Urbina, Wilder Gonzalo:** Participé en entrevistas y desarrollé un impact map. Gracias a esto, reforcé mis conocimientos sobre cómo relacionar objetivos y necesidades, y comprendí mejor cómo estas herramientas ayudan a planificar un proyecto de manera más clara. | TB1: El equipo logró actualizar y aplicar de manera efectiva conceptos clave de gestión ágil, análisis estratégico y diseño centrado en el usuario. Cada integrante fortaleció sus conocimientos técnicos y metodológicos al abordar sus entregables, consolidando una base sólida para el desarrollo del proyecto de software. |
+| Reconoce la necesidad del aprendizaje permanente para el desempeño profesional y el desarrollo de proyectos en soluciones de software. | TB1: **Alejo Cárdenas, José Antonio:** Al realizar el análisis de competidores y trabajar en el backlog, entendí que siempre es necesario seguir aprendiendo, porque las herramientas y metodologías cambian constantemente y hay que adaptarse.<br><br>**Luquillas Asto, Omar:** Al desarrollar el Lean UX, reconocí que el aprendizaje es un proceso continuo, ya que siempre surgen nuevas formas de validar ideas y mejorar la experiencia del usuario.<br><br>**Real Calderón, Sebastián Omar:** Trabajando en los escenarios As-Is y To-Be me di cuenta de que cada vez hay cambios en los usuarios y en la tecnología, por lo que es clave estar en constante aprendizaje para poder adaptarse.<br><br>**Olivera Barzola, Eric Marlon:** Al aplicar entrevistas y elaborar mapas de empatía, comprendí que siempre hay nuevas técnicas para investigar mejor a los usuarios y que es necesario seguir aprendiendo para mejorar los resultados.<br><br>**Aliaga Urbina, Wilder Gonzalo:** Con el impact map entendí que para alinear objetivos y necesidades hay que estar actualizado, lo que refuerza la importancia de aprender de manera continua. | TB1: El grupo reconoció que el aprendizaje permanente es fundamental en el ámbito del software, ya que permite adaptarse a nuevas metodologías, tecnologías y necesidades de los usuarios. La experiencia de este proyecto evidenció que la mejora continua es clave para la calidad del desarrollo y para su futuro desempeño profesional. |
 
 # Capítulo I: Introducción
 
@@ -283,13 +271,46 @@ APX-4 es una startup iniciada por estudiantes de la Universidad Peruana de Cienc
 
 # Conclusiones
 ## Conclusiones y recomendaciones
+
+- TB1: 
+ 
+El grupo logró integrar de manera efectiva conocimientos en gestión ágil, diseño centrado en el usuario y análisis estratégico, evidenciando un aprendizaje constante a lo largo del proyecto. Cada integrante no solo aportó en la elaboración de entregables específicos, sino que también reforzó su capacidad para investigar, validar ideas, comprender a los usuarios y priorizar tareas de forma estructurada. En conjunto, esto permitió consolidar una base sólida de conocimientos técnicos y metodológicos, reafirmando la importancia del aprendizaje permanente para adaptarse a nuevas tecnologías, mejorar la calidad del desarrollo y fortalecer su futuro desempeño profesional.
+
 ## Video About-The-Team
 
 
 
 # Referencias Bibliográficas
 
-
+44% de alumnos de colegios públicos considera insuficiente el medio virtual usado para dictado de clases “Aprendo en casa”. (s. f.). Noticias - Contraloría General de la República - Plataforma del Estado Peruano. [https://www.gob.pe/institucion/contraloria/noticias/575068-44-de-alumnos-de-colegios-publicos-considera-insuficiente-medio-virtual-usado-para-dictado-de-clases-aprendo-en-casa](https://www.gob.pe/institucion/contraloria/noticias/575068-44-de-alumnos-de-colegios-publicos-considera-insuficiente-medio-virtual-usado-para-dictado-de-clases-aprendo-en-casa)
 
 # Anexos
-# Links
+
+Lean UX Canvas: [Lean UX Canvas](https://upcedupe-my.sharepoint.com/:i:/g/personal/u202122484_upc_edu_pe/EbVM7KLizudGgHWvlwvgzBQBRby113iSkaVpPj17uaYSow?e=Mpe9CB)
+
+User Personas: 
+[User Persona-Olivia Perez](https://upcedupe-my.sharepoint.com/:i:/g/personal/u202122484_upc_edu_pe/Eas5_fU19JZJobMUBeVN_vUBNfOyenq2zxNTHdTcjIiTsw?e=W3QLO8)
+
+[User Persona-Adrian Espinoza](https://upcedupe-my.sharepoint.com/:i:/g/personal/u202122484_upc_edu_pe/EWWQQuyX-BJLqsZWg7XW928BaDEUrCjxqd8j2u7LrAzGFg?e=UFplGK)
+ 
+Empathy Maps:  
+[Olivia Perez- Empathy Map](https://upcedupe-my.sharepoint.com/:i:/g/personal/u202122484_upc_edu_pe/EWWQQuyX-BJLqsZWg7XW928BaDEUrCjxqd8j2u7LrAzGFg?e=UFplGK)
+
+[Adrian Espinoza- Empathy Map](https://upcedupe-my.sharepoint.com/:i:/g/personal/u202122484_upc_edu_pe/EWWQQuyX-BJLqsZWg7XW928BaDEUrCjxqd8j2u7LrAzGFg?e=UFplGK)
+ 
+Impact Map: [Link Impact Map](https://upcedupe-my.sharepoint.com/:i:/g/personal/u202122484_upc_edu_pe/EUPYNvbvrIVBilTk1rVhRjQBQPnOja4TAXbsd4GU6pG2dQ?e=LsH5Mw)
+ 
+
+As-Is Scenario Mapping: 
+
+[Olivia Perez-As-Is](https://upcedupe-my.sharepoint.com/:i:/g/personal/u202122484_upc_edu_pe/EWWQQuyX-BJLqsZWg7XW928BaDEUrCjxqd8j2u7LrAzGFg?e=UFplGK)
+
+[Adrian Espinoza-As-is](https://upcedupe-my.sharepoint.com/:i:/g/personal/u202122484_upc_edu_pe/EWWQQuyX-BJLqsZWg7XW928BaDEUrCjxqd8j2u7LrAzGFg?e=UFplGK)
+
+ 
+
+To-be Scenario Mapping: 
+
+[Estudiante de instituto-To-Be](https://upcedupe-my.sharepoint.com/:i:/g/personal/u202122484_upc_edu_pe/EWWQQuyX-BJLqsZWg7XW928BaDEUrCjxqd8j2u7LrAzGFg?e=UFplGK)
+
+[Profesor de instituo-To-Be](https://upcedupe-my.sharepoint.com/:i:/g/personal/u202122484_upc_edu_pe/EWWQQuyX-BJLqsZWg7XW928BaDEUrCjxqd8j2u7LrAzGFg?e=UFplGK)
