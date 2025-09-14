@@ -583,6 +583,16 @@ Presentaremos las tareas que realizan los estudiantes (representados por Olivia 
 | Monitorear la asistencia y puntualidad de los estudiantes | Alta       | Alta        |
 
 ### 2.3.3 Empathy Maps
+
+Estudiante de instituto (Olivia Perez) 
+<img src="./images/chapter-2/Empathy/Olivia Perez-Empathy map.png" alt ="User Persona Olivia" width="400">
+[Olivia Perez - Empathy Map](https://upcedupe-my.sharepoint.com/:i:/g/personal/u202122484_upc_edu_pe/EWWQQuyX-BJLqsZWg7XW928BaDEUrCjxqd8j2u7LrAzGFg?e=UFplGK)
+
+Profesor de instituto (Adrian  Espinoza) 
+<img src="./images/chapter-2/Empathy/Adrian Espinoza-Empathy map.png" alt ="User Persona Olivia" width="400">
+
+[ Adrian Espinoza- Empathy Map](https://upcedupe-my.sharepoint.com/:i:/g/personal/u202122484_upc_edu_pe/EWWQQuyX-BJLqsZWg7XW928BaDEUrCjxqd8j2u7LrAzGFg?e=UFplGK)
+
 ### 2.3.4 As-is Scenario Mapping
 
 **Segmento Objetivo 1: Estudiantes de institutos**
